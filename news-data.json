@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2026-05-26",
+    "time": "10:30",
+    "type": "AI早报",
+    "title": "OpenAI发布GPT-5预览版，多模态能力大幅提升",
+    "summary": "OpenAI今日发布GPT-5预览版本，新模型在图像理解、视频分析和代码生成方面表现显著提升。据官方介绍，GPT-5采用了新的架构设计，推理效率比GPT-4提高40%，同时支持更长的上下文窗口（最高200万token）。",
+    "score": 6,
+    "source": "TechCrunch",
+    "keywords": "OpenAI, GPT-5, 多模态",
+    "url": "https://techcrunch.com"
+  },
+  {
+    "date": "2026-05-26",
+    "time": "10:30",
+    "type": "AI早报",
+    "title": "Google DeepMind推出新一代蛋白质结构预测模型",
+    "summary": "DeepMind团队发布AlphaFold 3，准确度较前代提升15%，可预测蛋白质-配体复合物结构。该模型已开源，预计将加速新药研发进程。",
+    "score": 5,
+    "source": "Hacker News",
+    "keywords": "DeepMind, AlphaFold, 生物计算",
+    "url": "https://news.ycombinator.com"
+  },
+  {
+    "date": "2026-05-25",
+    "time": "10:30",
+    "type": "AI早报",
+    "title": "Anthropic发布Claude 4，强调AI安全与可控性",
+    "summary": "Anthropic发布Claude 4系列模型，主打安全性和可控性。新模型引入'宪法AI'训练方法，在保持性能的同时降低有害输出风险。",
+    "score": 5,
+    "source": "TechCrunch",
+    "keywords": "Anthropic, Claude, AI安全",
+    "url": "https://techcrunch.com"
+  },
+  {
+    "date": "2026-05-26",
+    "time": "16:20",
+    "type": "AI早报",
+    "title": "测试新闻",
+    "summary": "这是一条测试新闻，用于验证网站更新功能。",
+    "score": 5,
+    "source": "测试",
+    "keywords": "测试, 演示",
+    "url": "https://example.com"
+  }
+]
