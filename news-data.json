@@ -97,5 +97,60 @@
     "source": "Wired",
     "keywords": "",
     "url": "https://www.wired.com/story/livestream-ai-is-changing-your-job-now-what/"
+  },
+  {
+    "date": "2026-05-27",
+    "time": "10:30",
+    "type": "AI早报",
+    "title": "3D-printable humanoid legs let robotics experiments run wild",
+    "summary": "",
+    "score": 7,
+    "source": "Ars Technica",
+    "keywords": "",
+    "url": "https://arstechnica.com/ai/2026/05/3d-printable-humanoid-legs-let-robotics-experiments-run-wild/"
+  },
+  {
+    "date": "2026-05-27",
+    "time": "10:30",
+    "type": "AI早报",
+    "title": "DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search",
+    "summary": "",
+    "score": 6,
+    "source": "TechCrunch",
+    "keywords": "",
+    "url": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/"
+  },
+  {
+    "date": "2026-05-27",
+    "time": "10:30",
+    "type": "AI早报",
+    "title": "Millions of AI agents imperiled by critical vulnerability in open source package",
+    "summary": "",
+    "score": 5,
+    "source": "Ars Technica",
+    "keywords": "",
+    "url": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/"
+  },
+  {
+    "date": "2026-05-27",
+    "time": "10:30",
+    "type": "AI早报",
+    "title": "AI Agents Plunged the Tech World Into Chaos. Here’s Exactly How That Happened",
+    "summary": "",
+    "score": 4,
+    "source": "Wired",
+    "keywords": "",
+    "url": "https://www.wired.com/story/how-ai-agents-plunged-tech-world-into-chaos/"
+  },
+  {
+    "date": "2026-05-27",
+    "time": "10:30",
+    "type": "AI早报",
+    "title": "Submit Your Questions: AI Is Changing Your Job&#8212;Now What?",
+    "summary": "",
+    "score": 3,
+    "source": "Wired",
+    "keywords": "",
+    "url": "https://www.wired.com/story/livestream-ai-is-changing-your-job-now-what/"
   }
 ]
