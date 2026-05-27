@@ -86,5 +86,16 @@
     "source": "Wired",
     "keywords": "就业, AI影响, 直播",
     "url": "https://www.wired.com/story/livestream-ai-is-changing-your-job-now-what/"
+  },
+  {
+    "date": "2026-05-27",
+    "time": "17:15",
+    "type": "AI早报",
+    "title": "新增官方包: `LangCha在 OpenRouter集成`和`LangCha在 LiteLLM集成`",
+    "summary": "LangChain社区新增官方支持的第三方包集成，包括OpenRouter和LiteLLM后端。这些新包简化了开发者接入多种大模型API的流程，提升了框架的兼容性和易用性。",
+    "score": 5,
+    "source": "GitHub (langchain)",
+    "keywords": "开源社区",
+    "url": "https://github.com/langchain-ai/langchain/discussions/35672"
   }
 ]
