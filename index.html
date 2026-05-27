@@ -301,6 +301,95 @@
             background: rgba(255, 71, 87, 0.15);
             color: #ff4757;
         }
+
+        /* 评分标准区域 */
+        .scoring-section {
+            padding: 40px 0;
+            border-top: 1px solid rgba(100, 100, 255, 0.1);
+        }
+
+        .scoring-card {
+            background: rgba(255, 255, 255, 0.02);
+            border: 1px solid rgba(100, 100, 255, 0.08);
+            border-radius: 16px;
+            padding: 30px;
+        }
+
+        .scoring-card h3 {
+            font-size: 18px;
+            color: #fff;
+            margin-bottom: 8px;
+        }
+
+        .scoring-desc {
+            font-size: 14px;
+            color: #888;
+            margin-bottom: 24px;
+        }
+
+        .scoring-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 12px;
+            margin-bottom: 20px;
+        }
+
+        .scoring-item {
+            display: flex;
+            flex-direction: column;
+            gap: 4px;
+            padding: 12px 16px;
+            background: rgba(46, 213, 115, 0.05);
+            border: 1px solid rgba(46, 213, 115, 0.1);
+            border-radius: 10px;
+        }
+
+        .scoring-item.negative {
+            background: rgba(255, 71, 87, 0.05);
+            border-color: rgba(255, 71, 87, 0.1);
+        }
+
+        .scoring-score {
+            font-size: 20px;
+            font-weight: 700;
+            color: #2ed573;
+        }
+
+        .scoring-item.negative .scoring-score {
+            color: #ff4757;
+        }
+
+        .scoring-label {
+            font-size: 14px;
+            color: #ccc;
+            font-weight: 500;
+        }
+
+        .scoring-examples {
+            font-size: 12px;
+            color: #666;
+        }
+
+        .scoring-threshold {
+            display: flex;
+            gap: 20px;
+            flex-wrap: wrap;
+            margin-bottom: 16px;
+            padding: 12px 16px;
+            background: rgba(102, 126, 234, 0.05);
+            border-radius: 8px;
+            font-size: 13px;
+        }
+
+        .scoring-threshold span {
+            color: #aaa;
+        }
+
+        .scoring-source {
+            font-size: 12px;
+            color: #666;
+            text-align: center;
+        }
     </style>
 </head>
 <body>
@@ -334,6 +423,59 @@
             </div>
         </div>
     </main>
+
+    <!-- 评分标准说明 -->
+    <section class="scoring-section">
+        <div class="container">
+            <div class="scoring-card">
+                <h3>📊 质量评分标准</h3>
+                <p class="scoring-desc">6分制，综合多维度评估，只保留精华</p>
+                <div class="scoring-grid">
+                    <div class="scoring-item">
+                        <span class="scoring-score">+3</span>
+                        <span class="scoring-label">高权重AI关键词</span>
+                        <span class="scoring-examples">GPT、大模型、AGI、智能体等</span>
+                    </div>
+                    <div class="scoring-item">
+                        <span class="scoring-score">+1</span>
+                        <span class="scoring-label">科技相关词</span>
+                        <span class="scoring-examples">算法、开源、芯片、云计算等</span>
+                    </div>
+                    <div class="scoring-item">
+                        <span class="scoring-score">+1</span>
+                        <span class="scoring-label">标题长度>60字符</span>
+                        <span class="scoring-examples">信息量更充分的标题</span>
+                    </div>
+                    <div class="scoring-item">
+                        <span class="scoring-score">+1</span>
+                        <span class="scoring-label">含具体数字</span>
+                        <span class="scoring-examples">数据支撑，更可信</span>
+                    </div>
+                    <div class="scoring-item">
+                        <span class="scoring-score">+1</span>
+                        <span class="scoring-label">含引用/声明</span>
+                        <span class="scoring-examples">有明确信源或官方声明</span>
+                    </div>
+                    <div class="scoring-item negative">
+                        <span class="scoring-score">-3</span>
+                        <span class="scoring-label">排除词</span>
+                        <span class="scoring-examples">广告、促销、招聘、纯产品发布</span>
+                    </div>
+                    <div class="scoring-item negative">
+                        <span class="scoring-score">-5</span>
+                        <span class="scoring-label">广告/软文类</span>
+                        <span class="scoring-examples">明显营销导向内容</span>
+                    </div>
+                </div>
+                <div class="scoring-threshold">
+                    <span>🔥 6分 = 必看精华</span>
+                    <span>⭐ 4-5分 = 高质量</span>
+                    <span>📰 2-3分 = 及格线（最低门槛）</span>
+                </div>
+                <p class="scoring-source">信息源：TechCrunch + Hacker News RSS · 每日采集50条，筛选保留5条精华</p>
+            </div>
+        </div>
+    </section>
 
     <footer>
         <div class="container">
