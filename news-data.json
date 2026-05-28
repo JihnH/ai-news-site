@@ -97,5 +97,60 @@
     "source": "GitHub (langchain)",
     "keywords": "开源社区",
     "url": "https://github.com/langchain-ai/langchain/discussions/35672"
+  },
+  {
+    "date": "2026-05-28",
+    "time": "10:30",
+    "type": "AI早报",
+    "title": "Why 谷歌's AI can't spell 谷歌 (or anyth在g else)",
+    "summary": "来自TechCrunch的最新报道：Why 谷歌's AI can't spell 谷歌 (or anyth在g else)。详细内容请查看原文链接。",
+    "score": 5,
+    "source": "TechCrunch",
+    "keywords": "搜索引擎",
+    "url": "https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/"
+  },
+  {
+    "date": "2026-05-28",
+    "time": "10:30",
+    "type": "AI早报",
+    "title": "Nvidia bets $150B在Taiwan as Trump's plan make US AI hub backfires",
+    "summary": "来自Ars Technica的最新报道：Nvidia bets $150B在Taiwan as Trump's plan make US AI hub backfires。详细内容请查看原文链接。",
+    "score": 5,
+    "source": "Ars Technica",
+    "keywords": "AI, 科技",
+    "url": "https://arstechnica.com/tech-policy/2026/05/nvidia-ceo-wants-taiwan-to-be-center-of-ai-revolution-not-us/"
+  },
+  {
+    "date": "2026-05-28",
+    "time": "10:30",
+    "type": "AI早报",
+    "title": "Meta launches Instagram, Facebook,和WhatsApp subscriptions,与more come, 在clud在g AI plans",
+    "summary": "来自TechCrunch的最新报道：Meta launches Instagram, Facebook,和WhatsApp subscriptions,与more come, 在clud在g AI plans。详细内容请查看原文链接。",
+    "score": 4,
+    "source": "TechCrunch",
+    "keywords": "AI, 科技",
+    "url": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/"
+  },
+  {
+    "date": "2026-05-28",
+    "time": "10:30",
+    "type": "AI早报",
+    "title": "谷歌 Security Eng在eer Arrested 在 Million-Dollar Polymarket Trad在g Scheme",
+    "summary": "来自Wired的最新报道：谷歌 Security Eng在eer Arrested 在 Million-Dollar Polymarket Trad在g Scheme。详细内容请查看原文链接。",
+    "score": 4,
+    "source": "Wired",
+    "keywords": "搜索引擎",
+    "url": "https://www.wired.com/story/google-employee-accused-of-polymarket-one-million/"
+  },
+  {
+    "date": "2026-05-28",
+    "time": "10:30",
+    "type": "AI早报",
+    "title": "Ill在ois Lawmakers Just Passed America’s Strongest AI Safety Bill",
+    "summary": "来自Wired的最新报道：Ill在ois Lawmakers Just Passed America’s Strongest AI Safety Bill。详细内容请查看原文链接。",
+    "score": 4,
+    "source": "Wired",
+    "keywords": "AI, 科技",
+    "url": "https://www.wired.com/story/illinois-pass-major-ai-safety-law-pritzker/"
   }
 ]
