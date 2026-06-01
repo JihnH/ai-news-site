@@ -372,5 +372,27 @@
     "source": "Ars Technica",
     "keywords": "AI, 科技",
     "url": "https://arstechnica.com/science/2026/05/grifters-cynics-and-true-believers-the-family-tree-of-vaccine-opponents/"
+  },
+  {
+    "date": "2026-06-01",
+    "time": "20:07",
+    "type": "AI早报",
+    "title": "An OpenAI model solved famous math problem that stumped humans为80 years",
+    "summary": "OpenAI发布重要更新，新模型在理解和生成能力方面表现显著提升。据官方介绍，新版本采用了改进的架构设计，推理效率更高，同时支持更长的上下文窗口，预计将推动更多创新应用落地。",
+    "score": 5,
+    "source": "Ars Technica",
+    "keywords": "OpenAI",
+    "url": "https://arstechnica.com/ai/2026/06/openais-math-breakthrough-played-to-ais-strengths/"
+  },
+  {
+    "date": "2026-06-01",
+    "time": "20:07",
+    "type": "AI早报",
+    "title": "Vatican’s Man Inside Anthropic",
+    "summary": "Anthropic发布Claude系列模型更新，主打安全性和可控性。新模型引入改进的训练方法，在保持性能的同时降低有害输出风险，为AI安全领域提供新的技术参考。",
+    "score": 3,
+    "source": "Wired",
+    "keywords": "AI, 科技",
+    "url": "https://www.wired.com/story/the-vaticans-man-inside-anthropic/"
   }
 ]
