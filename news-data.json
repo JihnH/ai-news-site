@@ -1,5 +1,91 @@
 [
   {
+    "date": "2026-06-02",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Nvidia进军2000亿美元AI PC市场，联合微软、戴尔、惠普",
+    "original_title": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/",
+    "summary": "Nvidia瞄准由AI智能体驱动的PC市场，与微软、戴尔、惠普合作推出AI PC产品。",
+    "quality_score": 11,
+    "keywords": [
+      "Nvidia",
+      "AI PC",
+      "Microsoft",
+      "Dell",
+      "HP"
+    ]
+  },
+  {
+    "date": "2026-06-02",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "黑客通过欺骗Meta AI客服机器人劫持Instagram账户",
+    "original_title": "Hackers hijacked Instagram accounts by tricking Meta AI support chatbot into granting access",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/01/hackers-hijacked-instagram-accounts-by-tricking-meta-ai-support-chatbot-into-granting-access/",
+    "summary": "黑客利用Meta的AI客服聊天机器人获取账户访问权限，劫持多个Instagram账户。",
+    "quality_score": 10,
+    "keywords": [
+      "Meta",
+      "AI安全",
+      "Instagram",
+      "黑客"
+    ]
+  },
+  {
+    "date": "2026-06-02",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "佛罗里达州起诉OpenAI及Sam Altman，涉及多起ChatGPT相关谋杀案",
+    "original_title": "Florida sues OpenAI, Sam Altman after multiple ChatGPT-linked murders",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/tech-policy/2026/06/florida-sues-openai-sam-altman-after-multiple-chatgpt-linked-murders/",
+    "summary": "佛罗里达州因多起与ChatGPT相关的谋杀事件对OpenAI及其CEO Sam Altman提起诉讼。",
+    "quality_score": 10,
+    "keywords": [
+      "OpenAI",
+      "ChatGPT",
+      "法律",
+      "安全"
+    ]
+  },
+  {
+    "date": "2026-06-02",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "GitHub Copilot新计费模式引发用户强烈反应",
+    "original_title": "AI costs how much? GitHub Copilot users react to new usage-based pricing system",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/ai/2026/06/ai-costs-how-much-github-copilot-users-react-to-new-usage-based-pricing-system/",
+    "summary": "GitHub Copilot转向按使用量计费模式，开发者社区反应强烈。",
+    "quality_score": 8,
+    "keywords": [
+      "GitHub",
+      "Copilot",
+      "定价",
+      "开发者"
+    ]
+  },
+  {
+    "date": "2026-06-02",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Meta AI客服机器人被黑客利用窃取名人Instagram账户",
+    "original_title": "Hackers duped Meta AI support chatbot to steal celebrity Instagram accounts",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/ai/2026/06/meta-ai-support-chatbot-gave-hackers-access-to-notable-instagram-accounts/",
+    "summary": "Meta的AI支持聊天机器人被黑客欺骗，导致名人Instagram账户被盗。",
+    "quality_score": 7,
+    "keywords": [
+      "Meta",
+      "AI安全",
+      "Instagram",
+      "名人账户"
+    ]
+  },
+  {
     "date": "2026-05-26",
     "time": "10:30",
     "type": "AI早报",
