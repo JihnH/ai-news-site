@@ -3,86 +3,85 @@
     "date": "2026-06-02",
     "time": "10:31",
     "type": "AI早报",
-    "title": "Nvidia进军2000亿美元AI PC市场，联合微软、戴尔、惠普",
-    "original_title": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
+    "title": "Nvidia chases $200B CPU market与AI agent PCs from 微软, Dell,和HP",
+    "original_title": "Nvidia chases $200B CPU market与AI agent PCs from 微软, Dell,和HP",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/",
-    "summary": "Nvidia瞄准由AI智能体驱动的PC市场，与微软、戴尔、惠普合作推出AI PC产品。",
+    "summary": "质量评分: 11/6",
     "quality_score": 11,
     "keywords": [
-      "Nvidia",
-      "AI PC",
-      "Microsoft",
+      "PCs",
+      "CPU",
       "Dell",
-      "HP"
+      "Nvidia"
     ]
   },
   {
     "date": "2026-06-02",
     "time": "10:31",
     "type": "AI早报",
-    "title": "黑客通过欺骗Meta AI客服机器人劫持Instagram账户",
-    "original_title": "Hackers hijacked Instagram accounts by tricking Meta AI support chatbot into granting access",
+    "title": "Hackers hijacked Instagram accounts 受到 trick在g Meta AI support chatbot 在grant在g access",
+    "original_title": "Hackers hijacked Instagram accounts 受到 trick在g Meta AI support chatbot 在grant在g access",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/06/01/hackers-hijacked-instagram-accounts-by-tricking-meta-ai-support-chatbot-into-granting-access/",
-    "summary": "黑客利用Meta的AI客服聊天机器人获取账户访问权限，劫持多个Instagram账户。",
+    "summary": "质量评分: 10/6",
     "quality_score": 10,
     "keywords": [
-      "Meta",
-      "AI安全",
+      "Hackers",
       "Instagram",
-      "黑客"
+      "AI",
+      "Meta"
     ]
   },
   {
     "date": "2026-06-02",
     "time": "10:31",
     "type": "AI早报",
-    "title": "佛罗里达州起诉OpenAI及Sam Altman，涉及多起ChatGPT相关谋杀案",
-    "original_title": "Florida sues OpenAI, Sam Altman after multiple ChatGPT-linked murders",
+    "title": "Florida sues OpenAI, Sam Altman after multiple ChatGPT-l在ked murders",
+    "original_title": "Florida sues OpenAI, Sam Altman after multiple ChatGPT-l在ked murders",
     "source": "Ars Technica",
     "url": "https://arstechnica.com/tech-policy/2026/06/florida-sues-openai-sam-altman-after-multiple-chatgpt-linked-murders/",
-    "summary": "佛罗里达州因多起与ChatGPT相关的谋杀事件对OpenAI及其CEO Sam Altman提起诉讼。",
+    "summary": "质量评分: 10/6",
     "quality_score": 10,
     "keywords": [
+      "Altman",
+      "Florida",
+      "Sam",
       "OpenAI",
-      "ChatGPT",
-      "法律",
-      "安全"
+      "ChatGPT"
     ]
   },
   {
     "date": "2026-06-02",
     "time": "10:31",
     "type": "AI早报",
-    "title": "GitHub Copilot新计费模式引发用户强烈反应",
-    "original_title": "AI costs how much? GitHub Copilot users react to new usage-based pricing system",
+    "title": "AI costs how much？ GitHub Copilot users react new usage-based pric在g system。",
+    "original_title": "AI costs how much？ GitHub Copilot users react new usage-based pric在g system。",
     "source": "Ars Technica",
     "url": "https://arstechnica.com/ai/2026/06/ai-costs-how-much-github-copilot-users-react-to-new-usage-based-pricing-system/",
-    "summary": "GitHub Copilot转向按使用量计费模式，开发者社区反应强烈。",
+    "summary": "质量评分: 8/6",
     "quality_score": 8,
     "keywords": [
+      "AI",
       "GitHub",
-      "Copilot",
-      "定价",
-      "开发者"
+      "Copilot"
     ]
   },
   {
     "date": "2026-06-02",
     "time": "10:31",
     "type": "AI早报",
-    "title": "Meta AI客服机器人被黑客利用窃取名人Instagram账户",
-    "original_title": "Hackers duped Meta AI support chatbot to steal celebrity Instagram accounts",
+    "title": "Hackers duped Meta AI support chatbot steal celebrity Instagram accounts",
+    "original_title": "Hackers duped Meta AI support chatbot steal celebrity Instagram accounts",
     "source": "Ars Technica",
     "url": "https://arstechnica.com/ai/2026/06/meta-ai-support-chatbot-gave-hackers-access-to-notable-instagram-accounts/",
-    "summary": "Meta的AI支持聊天机器人被黑客欺骗，导致名人Instagram账户被盗。",
+    "summary": "质量评分: 7/6",
     "quality_score": 7,
     "keywords": [
+      "Hackers",
+      "AI",
       "Meta",
-      "AI安全",
-      "Instagram",
-      "名人账户"
+      "Instagram"
     ]
   },
   {
@@ -106,17 +105,6 @@
     "source": "Hacker News",
     "keywords": "DeepMind, AlphaFold, 生物计算",
     "url": "https://news.ycombinator.com"
-  },
-  {
-    "date": "2026-05-25",
-    "time": "10:30",
-    "type": "AI早报",
-    "title": "Anthropic发布Claude 4，强调AI安全与可控性",
-    "summary": "Anthropic发布Claude 4系列模型，主打安全性和可控性。新模型引入'宪法AI'训练方法，在保持性能的同时降低有害输出风险。",
-    "score": 5,
-    "source": "TechCrunch",
-    "keywords": "Anthropic, Claude, AI安全",
-    "url": "https://techcrunch.com"
   },
   {
     "date": "2026-05-27",
@@ -375,17 +363,6 @@
     "date": "2026-05-31",
     "time": "10:31",
     "type": "AI早报",
-    "title": "I Gave Gem在i Spark Access My Life。 Then It Friend-Zoned My Boyfriend",
-    "summary": "来自Wired的最新报道：I Gave Gem在i Spark Access My Life。 Then It Friend-Zoned My Boyfriend。详细内容请查看原文链接。",
-    "score": 4,
-    "source": "Wired",
-    "keywords": "AI, 科技",
-    "url": "https://www.wired.com/story/google-gemini-spark-ai-agent-hands-on/"
-  },
-  {
-    "date": "2026-05-31",
-    "time": "10:31",
-    "type": "AI早报",
     "title": "I went so-called &#8216;steroid Olympics,' understand why Silicon Valley is obsessed与peptides",
     "summary": "来自TechCrunch的最新报道：I went so-called &#8216;steroid Olympics,' understand why Silicon Valley is obsessed与peptides。详细内容请查看原文链接。",
     "score": 3,
@@ -403,39 +380,6 @@
     "source": "TechCrunch",
     "keywords": "安全, 搜索引擎",
     "url": "https://techcrunch.com/2026/05/29/microsoft-under-fire-for-threatening-security-researcher-with-criminal-investigation/"
-  },
-  {
-    "date": "2026-06-01",
-    "time": "10:30",
-    "type": "AI早报",
-    "title": "I put 谷歌's 24/7 AI assistant Gem在i Spark work,和it's actually pretty useful",
-    "summary": "来自TechCrunch的最新报道：I put 谷歌's 24/7 AI assistant Gem在i Spark work,和it's actually pretty useful。详细内容请查看原文链接。",
-    "score": 11,
-    "source": "TechCrunch",
-    "keywords": "搜索引擎",
-    "url": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/"
-  },
-  {
-    "date": "2026-06-01",
-    "time": "10:30",
-    "type": "AI早报",
-    "title": "&#8216;What joke': Github Copilot's new token-based bill在g spurs consternation among devs",
-    "summary": "来自TechCrunch的最新报道：&#8216;What joke': Github Copilot's new token-based bill在g spurs consternation among devs。详细内容请查看原文链接。",
-    "score": 10,
-    "source": "TechCrunch",
-    "keywords": "AI, 科技",
-    "url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/"
-  },
-  {
-    "date": "2026-06-01",
-    "time": "10:30",
-    "type": "AI早报",
-    "title": "AI智能体 Plunged 科技界 InChaos。 Here’s Exactly How That Happened",
-    "summary": "近期多起AI智能体失控事件引发科技行业广泛关注。从自动执行未授权操作的客服机器人到错误修改代码的开发助手，这些事件暴露了当前AI智能体在权限控制、安全隔离和人类监督方面的系统性缺陷，引发了对智能体技术快速部署的反思。",
-    "score": 4,
-    "source": "Wired",
-    "keywords": "AI智能体, 行业反思",
-    "url": "https://www.wired.com/story/how-ai-agents-plunged-tech-world-into-chaos/"
   },
   {
     "date": "2026-06-01",
