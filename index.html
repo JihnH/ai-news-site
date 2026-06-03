@@ -3,27 +3,17 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AI新闻播报站</title>
+    <title>AI新闻播报站 - 新闻 & 社区</title>
     <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
-
+        * { margin: 0; padding: 0; box-sizing: border-box; }
         body {
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', sans-serif;
             background: linear-gradient(135deg, #0f0f23 0%, #1a1a2e 50%, #16213e 100%);
             color: #e0e0e0;
             min-height: 100vh;
         }
-
-        .container {
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 0 20px;
-        }
-
+        .container { max-width: 1200px; margin: 0 auto; padding: 0 20px; }
+        
         /* 头部 */
         header {
             background: rgba(15, 15, 35, 0.95);
@@ -34,57 +24,71 @@
             top: 0;
             z-index: 100;
         }
-
         .header-content {
             display: flex;
             justify-content: space-between;
             align-items: center;
+            flex-wrap: wrap;
+            gap: 15px;
         }
-
-        .logo {
-            display: flex;
-            align-items: center;
-            gap: 12px;
-        }
-
+        .logo { display: flex; align-items: center; gap: 12px; }
         .logo-icon {
-            width: 40px;
-            height: 40px;
+            width: 40px; height: 40px;
             background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
             border-radius: 10px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
+            display: flex; align-items: center; justify-content: center;
             font-size: 20px;
         }
-
         .logo-text {
-            font-size: 24px;
-            font-weight: 700;
+            font-size: 24px; font-weight: 700;
             background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
             background-clip: text;
         }
-
-        .subtitle {
-            font-size: 14px;
-            color: #888;
-            margin-top: 4px;
+        .subtitle { font-size: 14px; color: #888; margin-top: 4px; }
+        
+        /* 分区切换 */
+        .section-tabs {
+            display: flex;
+            gap: 0;
+            margin-top: 15px;
+            background: rgba(255, 255, 255, 0.05);
+            border-radius: 8px;
+            padding: 4px;
+            width: fit-content;
         }
-
+        .tab-btn {
+            padding: 8px 20px;
+            border: none;
+            background: transparent;
+            color: #aaa;
+            font-size: 14px;
+            cursor: pointer;
+            border-radius: 6px;
+            transition: all 0.3s;
+        }
+        .tab-btn:hover { color: #e0e0e0; }
+        .tab-btn.active {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            font-weight: 600;
+        }
+        .tab-badge {
+            background: rgba(255, 255, 255, 0.2);
+            padding: 2px 6px;
+            border-radius: 10px;
+            font-size: 11px;
+            margin-left: 6px;
+        }
+        
         /* 日期选择器 */
         .date-selector {
             display: flex;
             gap: 10px;
             align-items: center;
         }
-
-        .date-selector label {
-            font-size: 14px;
-            color: #aaa;
-        }
-
+        .date-selector label { font-size: 14px; color: #aaa; }
         .date-selector select {
             background: rgba(255, 255, 255, 0.05);
             border: 1px solid rgba(100, 100, 255, 0.2);
@@ -95,301 +99,150 @@
             cursor: pointer;
             outline: none;
         }
-
-        .date-selector select:hover {
-            border-color: rgba(100, 100, 255, 0.4);
-        }
-
-        .date-selector select option {
-            background: #1a1a2e;
-            color: #e0e0e0;
-        }
-
-        /* 主内容区 */
-        main {
-            padding: 40px 0;
-        }
-
+        .date-selector select:hover { border-color: rgba(100, 100, 255, 0.4); }
+        
+        /* 新闻卡片 */
         .news-card {
             background: rgba(255, 255, 255, 0.03);
             border: 1px solid rgba(100, 100, 255, 0.1);
             border-radius: 16px;
-            padding: 30px;
+            padding: 24px;
             margin-bottom: 20px;
-            transition: all 0.3s ease;
+            transition: all 0.3s;
         }
-
         .news-card:hover {
             border-color: rgba(100, 100, 255, 0.3);
             transform: translateY(-2px);
-            box-shadow: 0 10px 40px rgba(0, 0, 0, 0.3);
         }
-
         .news-header {
             display: flex;
             justify-content: space-between;
-            align-items: flex-start;
-            margin-bottom: 20px;
-            flex-wrap: wrap;
-            gap: 10px;
-        }
-
-        .news-date {
-            display: flex;
             align-items: center;
-            gap: 8px;
-            font-size: 14px;
-            color: #888;
+            margin-bottom: 12px;
         }
-
-        .news-date .icon {
-            font-size: 16px;
-        }
-
+        .news-date { display: flex; align-items: center; gap: 6px; font-size: 13px; color: #888; }
         .news-type {
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            padding: 4px 12px;
-            border-radius: 20px;
-            font-size: 12px;
-            font-weight: 600;
-        }
-
-        .news-title {
-            font-size: 22px;
-            font-weight: 700;
-            line-height: 1.4;
-            margin-bottom: 12px;
-            color: #fff;
-        }
-
-        .news-summary {
-            font-size: 16px;
-            line-height: 1.8;
-            color: #bbb;
-            margin-bottom: 20px;
-        }
-
-        .news-meta {
-            display: flex;
-            gap: 20px;
-            flex-wrap: wrap;
-            font-size: 13px;
-            color: #888;
-        }
-
-        .news-meta span {
-            display: flex;
-            align-items: center;
-            gap: 6px;
-        }
-
-        .news-link {
-            display: inline-flex;
-            align-items: center;
-            gap: 8px;
-            margin-top: 16px;
-            padding: 10px 20px;
-            background: rgba(102, 126, 234, 0.1);
-            border: 1px solid rgba(102, 126, 234, 0.3);
-            border-radius: 8px;
+            background: rgba(102, 126, 234, 0.15);
             color: #667eea;
-            text-decoration: none;
-            font-size: 14px;
-            transition: all 0.3s ease;
-        }
-
-        .news-link:hover {
-            background: rgba(102, 126, 234, 0.2);
-            border-color: #667eea;
-        }
-
-        /* 空状态 */
-        .empty-state {
-            text-align: center;
-            padding: 100px 20px;
-        }
-
-        .empty-state .icon {
-            font-size: 64px;
-            margin-bottom: 20px;
-            opacity: 0.5;
-        }
-
-        .empty-state h2 {
-            font-size: 24px;
-            margin-bottom: 12px;
-            color: #fff;
-        }
-
-        .empty-state p {
-            color: #888;
-            font-size: 16px;
-        }
-
-        /* 页脚 */
-        footer {
-            text-align: center;
-            padding: 40px 0;
-            border-top: 1px solid rgba(100, 100, 255, 0.1);
-            color: #666;
-            font-size: 14px;
-        }
-
-        /* 加载动画 */
-        .loading {
-            text-align: center;
-            padding: 100px 20px;
-        }
-
-        .loading-spinner {
-            width: 50px;
-            height: 50px;
-            border: 3px solid rgba(102, 126, 234, 0.2);
-            border-top-color: #667eea;
-            border-radius: 50%;
-            animation: spin 1s linear infinite;
-            margin: 0 auto 20px;
-        }
-
-        @keyframes spin {
-            to { transform: rotate(360deg); }
-        }
-
-        /* 响应式 */
-        @media (max-width: 768px) {
-            .header-content {
-                flex-direction: column;
-                gap: 15px;
-                text-align: center;
-            }
-
-            .news-title {
-                font-size: 18px;
-            }
-
-            .news-summary {
-                font-size: 14px;
-            }
-
-            .news-card {
-                padding: 20px;
-            }
-        }
-
-        /* 评分标签 */
-        .score-badge {
-            display: inline-flex;
-            align-items: center;
-            gap: 4px;
-            padding: 2px 8px;
-            border-radius: 4px;
+            padding: 4px 12px;
+            border-radius: 6px;
             font-size: 12px;
             font-weight: 600;
         }
-
-        .score-high {
-            background: rgba(46, 213, 115, 0.15);
-            color: #2ed573;
+        .news-title { font-size: 20px; font-weight: 700; margin-bottom: 12px; line-height: 1.5; }
+        .news-summary { color: #aaa; font-size: 15px; line-height: 1.8; margin-bottom: 16px; }
+        .news-meta { display: flex; gap: 15px; flex-wrap: wrap; font-size: 13px; color: #888; margin-bottom: 12px; }
+        .score-badge { padding: 2px 8px; border-radius: 4px; font-weight: 600; }
+        .score-high { background: rgba(255, 107, 107, 0.15); color: #ff6b6b; }
+        .score-medium { background: rgba(255, 193, 7, 0.15); color: #ffc107; }
+        .score-low { background: rgba(108, 117, 125, 0.15); color: #adb5bd; }
+        .news-link {
+            display: inline-flex; align-items: center; gap: 6px;
+            color: #667eea; text-decoration: none; font-size: 14px; font-weight: 500;
         }
-
-        .score-medium {
-            background: rgba(255, 165, 2, 0.15);
-            color: #ffa502;
+        .news-link:hover { color: #764ba2; }
+        
+        /* 社区帖子卡片 */
+        .community-card {
+            background: rgba(255, 255, 255, 0.03);
+            border: 1px solid rgba(100, 100, 255, 0.1);
+            border-radius: 16px;
+            padding: 24px;
+            margin-bottom: 20px;
+            transition: all 0.3s;
         }
-
-        .score-low {
-            background: rgba(255, 71, 87, 0.15);
-            color: #ff4757;
+        .community-card:hover {
+            border-color: rgba(100, 100, 255, 0.3);
+            transform: translateY(-2px);
         }
-
-        /* 评分标准区域 */
-        .scoring-section {
-            padding: 40px 0;
-            border-top: 1px solid rgba(100, 100, 255, 0.1);
+        .community-header { display: flex; align-items: center; gap: 10px; margin-bottom: 12px; }
+        .platform-badge {
+            padding: 4px 10px; border-radius: 6px; font-size: 12px; font-weight: 600;
         }
-
+        .platform-badge.reddit { background: rgba(255, 69, 0, 0.15); color: #ff4500; }
+        .platform-badge.github { background: rgba(110, 118, 129, 0.15); color: #adbac7; }
+        .platform-badge.zhihu { background: rgba(0, 132, 255, 0.15); color: #0084ff; }
+        .platform-badge.x { background: rgba(29, 161, 242, 0.15); color: #1da1f2; }
+        .heat-indicator { display: flex; align-items: center; gap: 4px; font-size: 13px; color: #ff6b6b; }
+        .community-title { font-size: 18px; font-weight: 600; color: #e0e0e0; margin-bottom: 10px; line-height: 1.5; }
+        .community-summary { color: #aaa; font-size: 14px; line-height: 1.7; margin-bottom: 15px; }
+        .community-meta { display: flex; gap: 15px; flex-wrap: wrap; font-size: 13px; color: #888; margin-bottom: 12px; }
+        .community-link {
+            display: inline-flex; align-items: center; gap: 6px;
+            color: #667eea; text-decoration: none; font-size: 14px; font-weight: 500;
+        }
+        .community-link:hover { color: #764ba2; }
+        .rank-badge {
+            width: 28px; height: 28px; border-radius: 50%;
+            display: flex; align-items: center; justify-content: center;
+            font-weight: 700; font-size: 13px; margin-right: 8px;
+        }
+        .rank-1 { background: linear-gradient(135deg, #ffd700, #ffaa00); color: #333; }
+        .rank-2 { background: linear-gradient(135deg, #c0c0c0, #a0a0a0); color: #333; }
+        .rank-3 { background: linear-gradient(135deg, #cd7f32, #b87333); color: #fff; }
+        
+        .section-header {
+            display: flex; align-items: center; gap: 12px;
+            margin-bottom: 24px; padding-bottom: 16px;
+            border-bottom: 1px solid rgba(100, 100, 255, 0.1);
+        }
+        .section-header h2 { font-size: 22px; font-weight: 700; }
+        .section-desc { color: #888; font-size: 14px; }
+        
+        /* 评分标准说明 */
+        .scoring-section { padding: 40px 0; margin-top: 40px; border-top: 1px solid rgba(100, 100, 255, 0.1); }
         .scoring-card {
-            background: rgba(255, 255, 255, 0.02);
-            border: 1px solid rgba(100, 100, 255, 0.08);
+            background: rgba(255, 255, 255, 0.03);
             border-radius: 16px;
             padding: 30px;
         }
-
-        .scoring-card h3 {
-            font-size: 18px;
-            color: #fff;
-            margin-bottom: 8px;
-        }
-
-        .scoring-desc {
-            font-size: 14px;
-            color: #888;
-            margin-bottom: 24px;
-        }
-
-        .scoring-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-            gap: 12px;
-            margin-bottom: 20px;
-        }
-
+        .scoring-card h3 { font-size: 18px; margin-bottom: 8px; }
+        .scoring-desc { color: #888; font-size: 14px; margin-bottom: 20px; }
+        .scoring-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 12px; margin-bottom: 20px; }
         .scoring-item {
-            display: flex;
-            flex-direction: column;
-            gap: 4px;
-            padding: 12px 16px;
-            background: rgba(46, 213, 115, 0.05);
-            border: 1px solid rgba(46, 213, 115, 0.1);
+            background: rgba(255, 255, 255, 0.03);
             border-radius: 10px;
-        }
-
-        .scoring-item.negative {
-            background: rgba(255, 71, 87, 0.05);
-            border-color: rgba(255, 71, 87, 0.1);
-        }
-
-        .scoring-score {
-            font-size: 20px;
-            font-weight: 700;
-            color: #2ed573;
-        }
-
-        .scoring-item.negative .scoring-score {
-            color: #ff4757;
-        }
-
-        .scoring-label {
-            font-size: 14px;
-            color: #ccc;
-            font-weight: 500;
-        }
-
-        .scoring-examples {
-            font-size: 12px;
-            color: #666;
-        }
-
-        .scoring-threshold {
-            display: flex;
-            gap: 20px;
-            flex-wrap: wrap;
-            margin-bottom: 16px;
             padding: 12px 16px;
-            background: rgba(102, 126, 234, 0.05);
-            border-radius: 8px;
+            display: flex; align-items: center; gap: 10px;
+        }
+        .scoring-score {
+            background: rgba(102, 126, 234, 0.15);
+            color: #667eea;
+            padding: 4px 10px;
+            border-radius: 6px;
             font-size: 13px;
-        }
-
-        .scoring-threshold span {
-            color: #aaa;
-        }
-
-        .scoring-source {
-            font-size: 12px;
-            color: #666;
+            font-weight: 700;
+            min-width: 40px;
             text-align: center;
         }
+        .scoring-item.negative .scoring-score { background: rgba(255, 107, 107, 0.15); color: #ff6b6b; }
+        .scoring-label { font-size: 14px; font-weight: 500; }
+        .scoring-examples { font-size: 12px; color: #888; margin-left: auto; }
+        .scoring-threshold { display: flex; gap: 20px; flex-wrap: wrap; margin-top: 16px; font-size: 13px; }
+        .scoring-threshold span { background: rgba(255, 255, 255, 0.05); padding: 6px 12px; border-radius: 6px; }
+        .scoring-source { color: #888; font-size: 12px; margin-top: 12px; }
+        
+        /* 加载和空状态 */
+        .loading { text-align: center; padding: 60px 20px; }
+        .loading-spinner {
+            width: 40px; height: 40px;
+            border: 3px solid rgba(100, 100, 255, 0.1);
+            border-top-color: #667eea;
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+            margin: 0 auto 16px;
+        }
+        @keyframes spin { to { transform: rotate(360deg); } }
+        .empty-state { text-align: center; padding: 60px 20px; }
+        .empty-state .icon { font-size: 48px; margin-bottom: 16px; }
+        .empty-state h2 { font-size: 20px; margin-bottom: 8px; }
+        .empty-state p { color: #888; }
+        
+        footer { padding: 30px 0; text-align: center; color: #888; font-size: 14px; border-top: 1px solid rgba(100, 100, 255, 0.1); margin-top: 40px; }
+        
+        /* 隐藏/显示 */
+        .section-content { display: none; }
+        .section-content.active { display: block; }
     </style>
 </head>
 <body>
@@ -400,7 +253,7 @@
                     <div class="logo-icon">🤖</div>
                     <div>
                         <div class="logo-text">AI新闻播报站</div>
-                        <div class="subtitle">每日AI行业精选资讯</div>
+                        <div class="subtitle">每日AI行业精选资讯 & 社区热议</div>
                     </div>
                 </div>
                 <div class="date-selector">
@@ -410,15 +263,44 @@
                     </select>
                 </div>
             </div>
+            <div class="section-tabs">
+                <button class="tab-btn active" data-section="news" onclick="switchSection('news')">
+                    📰 AI早报
+                </button>
+                <button class="tab-btn" data-section="community" onclick="switchSection('community')">
+                    💬 社区热议 <span class="tab-badge">NEW</span>
+                </button>
+            </div>
         </div>
     </header>
 
     <main>
         <div class="container">
-            <div id="newsContainer">
-                <div class="loading">
-                    <div class="loading-spinner"></div>
-                    <p>正在加载播报内容...</p>
+            <!-- 新闻分区 -->
+            <div id="newsSection" class="section-content active">
+                <div class="section-header">
+                    <h2>📰 AI新闻早报</h2>
+                    <span class="section-desc">每日精选AI行业重要资讯</span>
+                </div>
+                <div id="newsContainer">
+                    <div class="loading">
+                        <div class="loading-spinner"></div>
+                        <p>正在加载播报内容...</p>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- 社区讨论分区 -->
+            <div id="communitySection" class="section-content">
+                <div class="section-header">
+                    <h2>💬 社区热议</h2>
+                    <span class="section-desc">Reddit · GitHub · 知乎 · X 等平台AI热门讨论</span>
+                </div>
+                <div id="communityContainer">
+                    <div class="loading">
+                        <div class="loading-spinner"></div>
+                        <p>正在加载社区讨论...</p>
+                    </div>
                 </div>
             </div>
         </div>
@@ -484,23 +366,61 @@
     </footer>
 
     <script>
-        // 数据存储（实际使用时会被替换为真实数据）
+        // 数据存储
         let newsData = [];
+        let communityData = [];
+        let currentSection = 'news';
 
         // 初始化
         async function init() {
             try {
-                // 尝试加载数据文件
-                const response = await fetch('news-data.json');
-                if (response.ok) {
-                    newsData = await response.json();
+                // 加载新闻数据
+                const newsResponse = await fetch('news-data.json');
+                if (newsResponse.ok) {
+                    newsData = await newsResponse.json();
                 }
             } catch (e) {
-                console.log('使用默认数据');
+                console.log('新闻数据加载失败:', e);
+            }
+            
+            try {
+                // 加载社区数据
+                const communityResponse = await fetch('community-data.json');
+                if (communityResponse.ok) {
+                    const data = await communityResponse.json();
+                    communityData = Array.isArray(data) ? data : [data];
+                }
+            } catch (e) {
+                console.log('社区数据加载失败:', e);
             }
 
             populateDateSelector();
             loadNews();
+            loadCommunity();
+        }
+
+        // 分区切换
+        function switchSection(section) {
+            currentSection = section;
+            
+            // 更新按钮状态
+            document.querySelectorAll('.tab-btn').forEach(btn => {
+                btn.classList.toggle('active', btn.dataset.section === section);
+            });
+            
+            // 显示对应内容
+            document.querySelectorAll('.section-content').forEach(content => {
+                content.classList.toggle('active', 
+                    (section === 'news' && content.id === 'newsSection') ||
+                    (section === 'community' && content.id === 'communitySection')
+                );
+            });
+            
+            // 更新日期选择器可见性
+            const dateSelector = document.querySelector('.date-selector');
+            if (dateSelector) {
+                dateSelector.style.display = section === 'news' ? 'flex' : 'none';
+            }
         }
 
         // 填充日期选择器
@@ -529,7 +449,6 @@
                 filtered = newsData.filter(item => item.date === selectedDate);
             }
 
-            // 按日期倒序
             filtered.sort((a, b) => new Date(b.date + ' ' + b.time) - new Date(a.date + ' ' + a.time));
 
             if (filtered.length === 0) {
@@ -557,9 +476,61 @@
                     <div class="news-meta">
                         <span>📊 质量评分: <span class="score-badge ${getScoreClass(item.score)}">${item.score}分</span></span>
                         <span>🏷️ ${item.source || 'AI精选'}</span>
-                        ${item.keywords ? `<span>🔑 ${item.keywords}</span>` : ''}
+                        ${item.keywords ? `<span>🔑 ${Array.isArray(item.keywords) ? item.keywords.join(' · ') : item.keywords}</span>` : ''}
                     </div>
                     ${item.url ? `<a href="${item.url}" target="_blank" class="news-link">阅读原文 →</a>` : ''}
+                </article>
+            `).join('');
+        }
+
+        // 加载社区讨论
+        function loadCommunity() {
+            const container = document.getElementById('communityContainer');
+            
+            if (communityData.length === 0) {
+                container.innerHTML = `
+                    <div class="empty-state">
+                        <div class="icon">💬</div>
+                        <h2>暂无社区讨论</h2>
+                        <p>社区数据正在采集中，请稍后刷新查看</p>
+                    </div>
+                `;
+                return;
+            }
+            
+            // 获取最新日期的数据
+            const latestData = communityData[communityData.length - 1];
+            const posts = latestData.posts || [];
+            
+            if (posts.length === 0) {
+                container.innerHTML = `
+                    <div class="empty-state">
+                        <div class="icon">💬</div>
+                        <h2>暂无社区讨论</h2>
+                        <p>今日社区数据采集中</p>
+                    </div>
+                `;
+                return;
+            }
+            
+            container.innerHTML = posts.map((post, index) => `
+                <article class="community-card">
+                    <div class="community-header">
+                        <span class="rank-badge rank-${post.rank <= 3 ? post.rank : ''}">${post.rank}</span>
+                        <span class="platform-badge ${post.platform}">${post.source}</span>
+                        <span class="heat-indicator">
+                            <span>🔥</span>
+                            <span>热度 ${post.heat_score}</span>
+                        </span>
+                    </div>
+                    <h3 class="community-title">${post.title}</h3>
+                    <p class="community-summary">${post.summary}</p>
+                    <div class="community-meta">
+                        ${post.score ? `<span>👍 ${post.score.toLocaleString()}</span>` : ''}
+                        ${post.comments ? `<span>💬 ${post.comments.toLocaleString()}</span>` : ''}
+                        <span>📅 ${latestData.date || '今日'}</span>
+                    </div>
+                    ${post.url ? `<a href="${post.url}" target="_blank" class="community-link">查看讨论 →</a>` : ''}
                 </article>
             `).join('');
         }

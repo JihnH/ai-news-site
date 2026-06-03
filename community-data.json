@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2026-06-03",
+    "time": "14:24",
+    "count": 3,
+    "posts": [
+      {
+        "rank": 1,
+        "title": "affaan-m/ECC: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, ",
+        "url": "https://github.com/affaan-m/ECC",
+        "source": "GitHub",
+        "platform": "github",
+        "summary": "GitHub热门仓库 · ⭐204433 · 🍴31359 · 📋61issues",
+        "heat_score": 100,
+        "score": 204433,
+        "comments": 61
+      },
+      {
+        "rank": 2,
+        "title": "Significant-Gravitas/AutoGPT: AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
+        "url": "https://github.com/Significant-Gravitas/AutoGPT",
+        "source": "GitHub",
+        "platform": "github",
+        "summary": "GitHub热门仓库 · ⭐184719 · 🍴46191 · 📋445issues",
+        "heat_score": 100,
+        "score": 184719,
+        "comments": 445
+      },
+      {
+        "rank": 3,
+        "title": "NousResearch/hermes-agent: The agent that grows with you",
+        "url": "https://github.com/NousResearch/hermes-agent",
+        "source": "GitHub",
+        "platform": "github",
+        "summary": "GitHub热门仓库 · ⭐177787 · 🍴30423 · 📋16833issues",
+        "heat_score": 100,
+        "score": 177787,
+        "comments": 16833
+      }
+    ]
+  }
+]
