@@ -38,5 +38,45 @@
         "comments": 16833
       }
     ]
+  },
+  {
+    "date": "2026-06-03",
+    "time": "14:57",
+    "count": 3,
+    "posts": [
+      {
+        "rank": 1,
+        "title": "affaan-m/ECC: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, ",
+        "url": "https://github.com/affaan-m/ECC",
+        "source": "GitHub",
+        "platform": "github",
+        "summary": "Popular GitHub repository with 204483 stars, 31366 forks, and 61 issues",
+        "heat_score": 100,
+        "score": 204483,
+        "comments": 61
+      },
+      {
+        "rank": 2,
+        "title": "Significant-Gravitas/AutoGPT: AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so tha",
+        "url": "https://github.com/Significant-Gravitas/AutoGPT",
+        "source": "GitHub",
+        "platform": "github",
+        "summary": "Popular GitHub repository with 184718 stars, 46191 forks, and 445 issues",
+        "heat_score": 100,
+        "score": 184718,
+        "comments": 445
+      },
+      {
+        "rank": 3,
+        "title": "NousResearch/hermes-agent: The agent that grows with you",
+        "url": "https://github.com/NousResearch/hermes-agent",
+        "source": "GitHub",
+        "platform": "github",
+        "summary": "Popular GitHub repository with 177836 stars, 30442 forks, and 16858 issues",
+        "heat_score": 100,
+        "score": 177836,
+        "comments": 16858
+      }
+    ]
   }
 ]
