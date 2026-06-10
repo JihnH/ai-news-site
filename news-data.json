@@ -826,5 +826,60 @@
     "source": "TechCrunch",
     "keywords": "OpenAI, 就业",
     "url": "https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/"
+  },
+  {
+    "date": "2026-06-10",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Anthropic's Claude Fable 5 is a version of Mythos the public can access today",
+    "summary": "Anthropic发布Claude系列模型更新，主打安全性和可控性。新模型引入改进的训练方法，在保持性能的同时降低有害输出风险，为AI安全领域提供新的技术参考。",
+    "score": 7,
+    "source": "TechCrunch",
+    "keywords": "Claude",
+    "url": "https://techcrunch.com/2026/06/09/anthropics-claude-fable-5-is-a-version-of-mythos-the-public-can-access-today/"
+  },
+  {
+    "date": "2026-06-10",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Locked in heated rivalry with researcher, Microsoft fixes 0-day they disclosed",
+    "summary": "来自Ars Technica的最新报道：Locked in heated rivalry with researcher, Microsoft fixes 0-day they disclosed。详细内容请查看原文链接。",
+    "score": 6,
+    "source": "Ars Technica",
+    "keywords": "AI, 科技",
+    "url": "https://arstechnica.com/security/2026/06/locked-in-heated-rivalry-with-researcher-microsoft-fixes-0-day-they-disclosed/"
+  },
+  {
+    "date": "2026-06-10",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Anthropic says these topics are too dangerous to let its Fable 5 model talk about",
+    "summary": "Anthropic发布Claude系列模型更新，主打安全性和可控性。新模型引入改进的训练方法，在保持性能的同时降低有害输出风险，为AI安全领域提供新的技术参考。",
+    "score": 6,
+    "source": "Ars Technica",
+    "keywords": "AI, 科技",
+    "url": "https://arstechnica.com/ai/2026/06/anthropic-says-these-topics-are-too-dangerous-to-let-its-fable-5-model-talk-about/"
+  },
+  {
+    "date": "2026-06-10",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Google announces Gemini 3.5 Live Translate for instant voice-to-voice translation",
+    "summary": "来自Ars Technica的最新报道：Google announces Gemini 3.5 Live Translate for instant voice-to-voice translation。详细内容请查看原文链接。",
+    "score": 6,
+    "source": "Ars Technica",
+    "keywords": "AI, 科技",
+    "url": "https://arstechnica.com/ai/2026/06/google-announces-gemini-3-5-live-translate-for-instant-voice-to-voice-translation/"
+  },
+  {
+    "date": "2026-06-10",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Meta Changed Its Speech Rules. Then Threats Against Politicians Skyrocketed",
+    "summary": "来自Wired的最新报道：Meta Changed Its Speech Rules. Then Threats Against Politicians Skyrocketed。详细内容请查看原文链接。",
+    "score": 5,
+    "source": "Wired",
+    "keywords": "AI, 科技",
+    "url": "https://www.wired.com/story/threats-against-politicians-skyrocketed-after-meta-changed-its-speech-rules/"
   }
 ]
