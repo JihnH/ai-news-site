@@ -936,5 +936,60 @@
     "source": "Wired",
     "keywords": "AI, 科技",
     "url": "https://www.wired.com/story/meta-layoffs-immigration-customs-enforcement/"
+  },
+  {
+    "date": "2026-06-12",
+    "time": "10:30",
+    "type": "AI早报",
+    "title": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
+    "summary": "来自TechCrunch的最新报道：xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims。详细内容请查看原文链接。",
+    "score": 7,
+    "source": "TechCrunch",
+    "keywords": "AI, 科技",
+    "url": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/"
+  },
+  {
+    "date": "2026-06-12",
+    "time": "10:30",
+    "type": "AI早报",
+    "title": "People Living Near xAI’s Dirty Data Centers Are Pissed About the SpaceX IPO",
+    "summary": "来自Wired的最新报道：People Living Near xAI’s Dirty Data Centers Are Pissed About the SpaceX IPO。详细内容请查看原文链接。",
+    "score": 7,
+    "source": "Wired",
+    "keywords": "AI, 科技",
+    "url": "https://www.wired.com/story/spacex-ipo-how-people-living-near-xai-data-centers-feel/"
+  },
+  {
+    "date": "2026-06-12",
+    "time": "10:30",
+    "type": "AI早报",
+    "title": "Meet the OpenAI Engineer Leading ChatGPT’s Biggest Transformation Yet",
+    "summary": "OpenAI发布重要更新，新模型在理解和生成能力方面表现显著提升。据官方介绍，新版本采用了改进的架构设计，推理效率更高，同时支持更长的上下文窗口，预计将推动更多创新应用落地。",
+    "score": 7,
+    "source": "Wired",
+    "keywords": "OpenAI, GPT",
+    "url": "https://www.wired.com/story/model-behavior-interview-with-openai-codex-lead-tibo-sottiaux/"
+  },
+  {
+    "date": "2026-06-12",
+    "time": "10:30",
+    "type": "AI早报",
+    "title": "Coinbase’s new tool can help agents trade and pay for premium research",
+    "summary": "来自TechCrunch的最新报道：Coinbase’s new tool can help agents trade and pay for premium research。详细内容请查看原文链接。",
+    "score": 5,
+    "source": "TechCrunch",
+    "keywords": "AI, 科技",
+    "url": "https://techcrunch.com/2026/06/11/coinbase-debuts-mcp-for-agent-trading/"
+  },
+  {
+    "date": "2026-06-12",
+    "time": "10:30",
+    "type": "AI早报",
+    "title": "Deezer's new tool can identify AI music from Spotify, Apple Music, and others",
+    "summary": "来自TechCrunch的最新报道：Deezer's new tool can identify AI music from Spotify, Apple Music, and others。详细内容请查看原文链接。",
+    "score": 3,
+    "source": "TechCrunch",
+    "keywords": "AI, 科技",
+    "url": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/"
   }
 ]
