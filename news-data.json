@@ -1,88 +1,5 @@
 [
   {
-    "date": "2026-06-04",
-    "time": "10:32",
-    "type": "AI早报",
-    "title": "xAI Asks Court to Strip Alleged Grok Deepfake Nudes Victims of Anonymity",
-    "original_title": "xAI Asks Court to Strip Alleged Grok Deepfake Nudes Victims of Anonymity",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/xai-asks-court-to-strip-alleged-grok-deepfake-nudes-victims-of-anonymity/",
-    "summary": "质量评分: 7/6",
-    "quality_score": 7,
-    "keywords": [
-      "Asks",
-      "Anonymity",
-      "Strip",
-      "Grok",
-      "Deepfake"
-    ]
-  },
-  {
-    "date": "2026-06-04",
-    "time": "10:32",
-    "type": "AI早报",
-    "title": "Amazon will show AI product images when you search for some reason",
-    "original_title": "Amazon will show AI product images when you search for some reason",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/",
-    "summary": "质量评分: 5/6",
-    "quality_score": 5,
-    "keywords": [
-      "AI",
-      "Amazon"
-    ]
-  },
-  {
-    "date": "2026-06-04",
-    "time": "10:32",
-    "type": "AI早报",
-    "title": "The Humanoid Robot of the Future Is a 6-Foot-Tall Beefcake With a Chinese Body and an American Brain",
-    "original_title": "The Humanoid Robot of the Future Is a 6-Foot-Tall Beefcake With a Chinese Body and an American Brain",
-    "source": "Wired",
-    "url": "https://www.wired.com/story/nvidia-unitree-humanoid-robot-h2-plus/",
-    "summary": "质量评分: 5/6",
-    "quality_score": 5,
-    "keywords": [
-      "Is",
-      "Chinese",
-      "American",
-      "Humanoid",
-      "Future"
-    ]
-  },
-  {
-    "date": "2026-06-04",
-    "time": "10:32",
-    "type": "AI早报",
-    "title": "Google ordered to put clearer links in AI search and let UK publishers opt out",
-    "original_title": "Google ordered to put clearer links in AI search and let UK publishers opt out",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/tech-policy/2026/06/google-ordered-to-put-clearer-links-in-ai-search-and-let-uk-publishers-opt-out/",
-    "summary": "质量评分: 5/6",
-    "quality_score": 5,
-    "keywords": [
-      "UK",
-      "Google",
-      "AI"
-    ]
-  },
-  {
-    "date": "2026-06-04",
-    "time": "10:32",
-    "type": "AI早报",
-    "title": "Google's new Gemma 4 12B model is designed to run on any laptop with 16GB of RAM",
-    "original_title": "Google's new Gemma 4 12B model is designed to run on any laptop with 16GB of RAM",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/google/2026/06/googles-new-gemma-4-open-ai-model-is-sized-for-your-laptop/",
-    "summary": "质量评分: 5/6",
-    "quality_score": 5,
-    "keywords": [
-      "Gemma",
-      "Google",
-      "RAM"
-    ]
-  },
-  {
     "date": "2026-06-02",
     "time": "10:31",
     "type": "AI早报",
@@ -1156,5 +1073,60 @@
     "source": "Wired",
     "keywords": "AI, 科技",
     "url": "https://www.wired.com/story/meta-employees-absolutely-hate-mark-zuckerbergs-hackathon-idea/"
+  },
+  {
+    "date": "2026-06-16",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Anthropic Is Still at Odds With the White House Over Claude Fable 5",
+    "summary": "Anthropic发布Claude系列模型更新，主打安全性和可控性。新模型引入改进的训练方法，在保持性能的同时降低有害输出风险，为AI安全领域提供新的技术参考。",
+    "score": 7,
+    "source": "Wired",
+    "keywords": "Claude",
+    "url": "https://www.wired.com/story/anthropic-is-still-at-odds-with-the-white-house-over-claude-fable-5/"
+  },
+  {
+    "date": "2026-06-16",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "The US government's Anthropic models ban was never about an AI jailbreak",
+    "summary": "Anthropic发布Claude系列模型更新，主打安全性和可控性。新模型引入改进的训练方法，在保持性能的同时降低有害输出风险，为AI安全领域提供新的技术参考。",
+    "score": 6,
+    "source": "TechCrunch",
+    "keywords": "AI, 科技",
+    "url": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/"
+  },
+  {
+    "date": "2026-06-16",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Chipmaker Nvidia seeks to raise over $25B in first bond deal since 2021",
+    "summary": "来自Ars Technica的最新报道：Chipmaker Nvidia seeks to raise over $25B in first bond deal since 2021。详细内容请查看原文链接。",
+    "score": 6,
+    "source": "Ars Technica",
+    "keywords": "AI, 科技",
+    "url": "https://arstechnica.com/ai/2026/06/chipmaker-nvidia-seeks-to-raise-over-25b-in-first-bond-deal-since-2021/"
+  },
+  {
+    "date": "2026-06-16",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Meta's new ‘AI Mode’ on Facebook pulls from public info across its platforms",
+    "summary": "来自TechCrunch的最新报道：Meta's new ‘AI Mode’ on Facebook pulls from public info across its platforms。详细内容请查看原文链接。",
+    "score": 5,
+    "source": "TechCrunch",
+    "keywords": "AI, 科技",
+    "url": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/"
+  },
+  {
+    "date": "2026-06-16",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Meta CTO Andrew Bosworth Admits the Company’s AI Reorg Was ‘Atrocious’",
+    "summary": "来自Wired的最新报道：Meta CTO Andrew Bosworth Admits the Company’s AI Reorg Was ‘Atrocious’。详细内容请查看原文链接。",
+    "score": 4,
+    "source": "Wired",
+    "keywords": "AI, 科技",
+    "url": "https://www.wired.com/story/andrew-bosworth-meta-employees-unrest/"
   }
 ]
