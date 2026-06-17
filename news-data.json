@@ -1,90 +1,5 @@
 [
   {
-    "date": "2026-06-02",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "Nvidia chases $200B CPU market与AI agent PCs from 微软, Dell,和HP",
-    "original_title": "Nvidia chases $200B CPU market与AI agent PCs from 微软, Dell,和HP",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/",
-    "summary": "质量评分: 11/6",
-    "quality_score": 11,
-    "keywords": [
-      "PCs",
-      "CPU",
-      "Dell",
-      "Nvidia"
-    ]
-  },
-  {
-    "date": "2026-06-02",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "Hackers hijacked Instagram accounts 受到 trick在g Meta AI support chatbot 在grant在g access",
-    "original_title": "Hackers hijacked Instagram accounts 受到 trick在g Meta AI support chatbot 在grant在g access",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/06/01/hackers-hijacked-instagram-accounts-by-tricking-meta-ai-support-chatbot-into-granting-access/",
-    "summary": "质量评分: 10/6",
-    "quality_score": 10,
-    "keywords": [
-      "Hackers",
-      "Instagram",
-      "AI",
-      "Meta"
-    ]
-  },
-  {
-    "date": "2026-06-02",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "Florida sues OpenAI, Sam Altman after multiple ChatGPT-l在ked murders",
-    "original_title": "Florida sues OpenAI, Sam Altman after multiple ChatGPT-l在ked murders",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/tech-policy/2026/06/florida-sues-openai-sam-altman-after-multiple-chatgpt-linked-murders/",
-    "summary": "质量评分: 10/6",
-    "quality_score": 10,
-    "keywords": [
-      "Altman",
-      "Florida",
-      "Sam",
-      "OpenAI",
-      "ChatGPT"
-    ]
-  },
-  {
-    "date": "2026-06-02",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "AI costs how much？ GitHub Copilot users react new usage-based pric在g system。",
-    "original_title": "AI costs how much？ GitHub Copilot users react new usage-based pric在g system。",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/ai/2026/06/ai-costs-how-much-github-copilot-users-react-to-new-usage-based-pricing-system/",
-    "summary": "质量评分: 8/6",
-    "quality_score": 8,
-    "keywords": [
-      "AI",
-      "GitHub",
-      "Copilot"
-    ]
-  },
-  {
-    "date": "2026-06-02",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "Hackers duped Meta AI support chatbot steal celebrity Instagram accounts",
-    "original_title": "Hackers duped Meta AI support chatbot steal celebrity Instagram accounts",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/ai/2026/06/meta-ai-support-chatbot-gave-hackers-access-to-notable-instagram-accounts/",
-    "summary": "质量评分: 7/6",
-    "quality_score": 7,
-    "keywords": [
-      "Hackers",
-      "AI",
-      "Meta",
-      "Instagram"
-    ]
-  },
-  {
     "date": "2026-05-26",
     "time": "10:30",
     "type": "AI早报",
@@ -1128,5 +1043,60 @@
     "source": "Wired",
     "keywords": "AI, 科技",
     "url": "https://www.wired.com/story/andrew-bosworth-meta-employees-unrest/"
+  },
+  {
+    "date": "2026-06-17",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Android 17 launches with new multitasking tools as Google expands Gemini features",
+    "summary": "来自TechCrunch的最新报道：Android 17 launches with new multitasking tools as Google expands Gemini features。详细内容请查看原文链接。",
+    "score": 7,
+    "source": "TechCrunch",
+    "keywords": "AI, 科技",
+    "url": "https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/"
+  },
+  {
+    "date": "2026-06-17",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "ChatGPT's market share slips below 50% for first time",
+    "summary": "OpenAI发布重要更新，新模型在理解和生成能力方面表现显著提升。据官方介绍，新版本采用了改进的架构设计，推理效率更高，同时支持更长的上下文窗口，预计将推动更多创新应用落地。",
+    "score": 7,
+    "source": "TechCrunch",
+    "keywords": "GPT",
+    "url": "https://techcrunch.com/2026/06/16/chatgpts-market-share-slips-below-50-for-first-time/"
+  },
+  {
+    "date": "2026-06-17",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Trump admin tries to block Clean Air Act lawsuit over xAI's gas turbines",
+    "summary": "来自Ars Technica的最新报道：Trump admin tries to block Clean Air Act lawsuit over xAI's gas turbines。详细内容请查看原文链接。",
+    "score": 7,
+    "source": "Ars Technica",
+    "keywords": "AI, 科技",
+    "url": "https://arstechnica.com/tech-policy/2026/06/trump-admin-helps-xai-fight-pollution-lawsuit-says-military-needs-grok-for-war/"
+  },
+  {
+    "date": "2026-06-17",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Anthropic \"pauses\" token-based billing for its Claude Agent SDK",
+    "summary": "Anthropic发布Claude系列模型更新，主打安全性和可控性。新模型引入改进的训练方法，在保持性能的同时降低有害输出风险，为AI安全领域提供新的技术参考。",
+    "score": 7,
+    "source": "Ars Technica",
+    "keywords": "Claude",
+    "url": "https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/"
+  },
+  {
+    "date": "2026-06-17",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Sixty percent of US consumers say 'AI' in brand messaging is a turnoff, survey finds",
+    "summary": "来自TechCrunch的最新报道：Sixty percent of US consumers say 'AI' in brand messaging is a turnoff, survey finds。详细内容请查看原文链接。",
+    "score": 5,
+    "source": "TechCrunch",
+    "keywords": "AI, 科技",
+    "url": "https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/"
   }
 ]
