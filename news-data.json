@@ -1,60 +1,5 @@
 [
   {
-    "date": "2026-05-26",
-    "time": "10:30",
-    "type": "AI早报",
-    "title": "OpenAI发布GPT-5预览版，多模态能力大幅提升",
-    "summary": "OpenAI今日发布GPT-5预览版本，新模型在图像理解、视频分析和代码生成方面表现显著提升。据官方介绍，GPT-5采用了新的架构设计，推理效率比GPT-4提高40%，同时支持更长的上下文窗口（最高200万token）。",
-    "score": 6,
-    "source": "TechCrunch",
-    "keywords": "OpenAI, GPT-5, 多模态",
-    "url": "https://techcrunch.com"
-  },
-  {
-    "date": "2026-05-26",
-    "time": "10:30",
-    "type": "AI早报",
-    "title": "Google DeepMind推出新一代蛋白质结构预测模型",
-    "summary": "DeepMind团队发布AlphaFold 3，准确度较前代提升15%，可预测蛋白质-配体复合物结构。该模型已开源，预计将加速新药研发进程。",
-    "score": 5,
-    "source": "Hacker News",
-    "keywords": "DeepMind, AlphaFold, 生物计算",
-    "url": "https://news.ycombinator.com"
-  },
-  {
-    "date": "2026-05-27",
-    "time": "10:30",
-    "type": "AI早报",
-    "title": "3D打印人形机器人腿部开源，降低机器人研发门槛",
-    "summary": "研究人员发布了一套完全3D打印的人形机器人腿部设计，包含完整的机械结构、驱动系统和控制代码。该设计成本低廉且易于复制，预计将大幅降低机器人实验和原型开发的准入门槛，加速人形机器人技术的普及和创新。",
-    "score": 7,
-    "source": "Ars Technica",
-    "keywords": "机器人, 3D打印, 开源硬件",
-    "url": "https://arstechnica.com/ai/2026/05/3d-printable-humanoid-legs-let-robotics-experiments-run-wild/"
-  },
-  {
-    "date": "2026-05-27",
-    "time": "10:30",
-    "type": "AI早报",
-    "title": "DuckDuckGo安装量激增30%，用户抵制谷歌强制AI搜索",
-    "summary": "隐私搜索引擎DuckDuckGo的安装量在过去一个月内增长了30%，主要驱动力是用户对谷歌强制推行AI搜索功能的不满。许多用户认为谷歌的AI搜索体验粗糙且难以关闭，纷纷转向更注重隐私和简洁体验的替代方案。",
-    "score": 6,
-    "source": "TechCrunch",
-    "keywords": "搜索引擎, 隐私, 用户行为",
-    "url": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/"
-  },
-  {
-    "date": "2026-05-27",
-    "time": "10:30",
-    "type": "AI早报",
-    "title": "开源包严重漏洞威胁数百万AI智能体安全",
-    "summary": "一个被广泛使用的开源软件包中发现关键安全漏洞，该漏洞可能影响数百万部署中的AI智能体。攻击者可利用此漏洞远程控制智能体或窃取敏感数据，安全专家建议所有使用相关框架的开发者立即更新到最新版本。",
-    "score": 5,
-    "source": "Ars Technica",
-    "keywords": "安全漏洞, 开源, AI智能体",
-    "url": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/"
-  },
-  {
     "date": "2026-05-27",
     "time": "10:30",
     "type": "AI早报",
@@ -1098,5 +1043,60 @@
     "source": "TechCrunch",
     "keywords": "AI, 科技",
     "url": "https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/"
+  },
+  {
+    "date": "2026-06-18",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "The Korean Telecom Giant at the Center of Anthropic’s Mythos Controversy",
+    "summary": "Anthropic发布Claude系列模型更新，主打安全性和可控性。新模型引入改进的训练方法，在保持性能的同时降低有害输出风险，为AI安全领域提供新的技术参考。",
+    "score": 7,
+    "source": "Wired",
+    "keywords": "AI, 科技",
+    "url": "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/"
+  },
+  {
+    "date": "2026-06-18",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "AI coding agents taught robots how to install GPUs and cut zip ties",
+    "summary": "来自Ars Technica的最新报道：AI coding agents taught robots how to install GPUs and cut zip ties。详细内容请查看原文链接。",
+    "score": 7,
+    "source": "Ars Technica",
+    "keywords": "AI, 科技",
+    "url": "https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/"
+  },
+  {
+    "date": "2026-06-18",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "The Gemini-Powered Google Home Speaker Is Finally Here",
+    "summary": "来自Wired的最新报道：The Gemini-Powered Google Home Speaker Is Finally Here。详细内容请查看原文链接。",
+    "score": 6,
+    "source": "Wired",
+    "keywords": "AI, 科技",
+    "url": "https://www.wired.com/story/the-gemini-powered-google-home-speaker-is-finally-here/"
+  },
+  {
+    "date": "2026-06-18",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Chi-Hua Chien saw Facebook coming — now he says the real AI winners won't be selling AI",
+    "summary": "来自TechCrunch的最新报道：Chi-Hua Chien saw Facebook coming — now he says the real AI winners won't be selling AI。详细内容请查看原文链接。",
+    "score": 3,
+    "source": "TechCrunch",
+    "keywords": "AI, 科技",
+    "url": "https://techcrunch.com/2026/06/17/chi-hua-chien-saw-facebook-coming-now-he-says-the-real-ai-winners-wont-be-selling-ai/"
+  },
+  {
+    "date": "2026-06-18",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Operating a Humanoid With Your Body Is a Hot Job in China’s Hardware Capital",
+    "summary": "来自Wired的最新报道：Operating a Humanoid With Your Body Is a Hot Job in China’s Hardware Capital。详细内容请查看原文链接。",
+    "score": 3,
+    "source": "Wired",
+    "keywords": "AI, 科技",
+    "url": "https://www.wired.com/story/humanoid-robot-training-in-chinas-hardware-capital/"
   }
 ]
