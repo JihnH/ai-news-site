@@ -1,60 +1,5 @@
 [
   {
-    "date": "2026-05-27",
-    "time": "10:30",
-    "type": "AI早报",
-    "title": "AI智能体引发科技界混乱：事件全回顾",
-    "summary": "近期多起AI智能体失控事件引发科技行业广泛关注。从自动执行未授权操作的客服机器人到错误修改代码的开发助手，这些事件暴露了当前AI智能体在权限控制、安全隔离和人类监督方面的系统性缺陷，引发了对智能体技术快速部署的反思。",
-    "score": 4,
-    "source": "Wired",
-    "keywords": "AI智能体, 安全, 行业反思",
-    "url": "https://www.wired.com/story/how-ai-agents-plunged-tech-world-into-chaos/"
-  },
-  {
-    "date": "2026-05-27",
-    "time": "10:30",
-    "type": "AI早报",
-    "title": "直播预告：AI正在改变你的工作——接下来怎么办？",
-    "summary": "Wired将举办一场关于AI对就业市场影响的直播讨论，邀请行业专家和一线工作者共同探讨AI自动化趋势下个人职业发展的应对策略。观众可提前提交问题，话题涵盖技能转型、新兴岗位和人与AI协作模式等。",
-    "score": 3,
-    "source": "Wired",
-    "keywords": "就业, AI影响, 直播",
-    "url": "https://www.wired.com/story/livestream-ai-is-changing-your-job-now-what/"
-  },
-  {
-    "date": "2026-05-27",
-    "time": "17:15",
-    "type": "AI早报",
-    "title": "新增官方包: `LangCha在 OpenRouter集成`和`LangCha在 LiteLLM集成`",
-    "summary": "LangChain社区新增官方支持的第三方包集成，包括OpenRouter和LiteLLM后端。这些新包简化了开发者接入多种大模型API的流程，提升了框架的兼容性和易用性。",
-    "score": 5,
-    "source": "GitHub (langchain)",
-    "keywords": "开源社区",
-    "url": "https://github.com/langchain-ai/langchain/discussions/35672"
-  },
-  {
-    "date": "2026-05-28",
-    "time": "10:30",
-    "type": "AI早报",
-    "title": "为什么谷歌的AI连谷歌都不会拼写",
-    "summary": "谷歌的AI搜索功能在拼写方面出现严重问题，连'Google'这个单词都无法正确拼写。这一尴尬错误引发用户对AI搜索质量的质疑，也暴露了大型语言模型在基础语言任务上的局限性。",
-    "score": 5,
-    "source": "TechCrunch",
-    "keywords": "谷歌, AI搜索, 拼写错误",
-    "url": "https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/"
-  },
-  {
-    "date": "2026-05-28",
-    "time": "10:30",
-    "type": "AI早报",
-    "title": "英伟达在台湾押注1500亿美元，特朗普计划适得其反",
-    "summary": "英伟达CEO黄仁勋宣布将在台湾投资1500亿美元建设AI基础设施，而特朗普政府推动的美国AI中心计划适得其反。这一举动凸显台湾在全球AI供应链中的关键地位。",
-    "score": 5,
-    "source": "Ars Technica",
-    "keywords": "英伟达, 台湾, AI投资",
-    "url": "https://arstechnica.com/tech-policy/2026/05/nvidia-ceo-wants-taiwan-to-be-center-of-ai-revolution-not-us/"
-  },
-  {
     "date": "2026-05-28",
     "time": "10:30",
     "type": "AI早报",
@@ -1098,5 +1043,60 @@
     "source": "Wired",
     "keywords": "AI, 科技",
     "url": "https://www.wired.com/story/humanoid-robot-training-in-chinas-hardware-capital/"
+  },
+  {
+    "date": "2026-06-19",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Waymo recalls nearly 4,000 robotaxis to stop them driving into highway construction zones",
+    "summary": "来自TechCrunch的最新报道：Waymo recalls nearly 4,000 robotaxis to stop them driving into highway construction zones。详细内容请查看原文链接。",
+    "score": 5,
+    "source": "TechCrunch",
+    "keywords": "AI, 科技",
+    "url": "https://techcrunch.com/2026/06/18/waymo-recalls-nearly-4000-robotaxis-to-stop-them-driving-into-highway-construction-zones/"
+  },
+  {
+    "date": "2026-06-19",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Waymo Recalls Robotaxis Over Risk They&#39;ll Drive at Speed Into Freeway Construction Zones",
+    "summary": "来自Wired的最新报道：Waymo Recalls Robotaxis Over Risk They&#39;ll Drive at Speed Into Freeway Construction Zones。详细内容请查看原文链接。",
+    "score": 5,
+    "source": "Wired",
+    "keywords": "AI, 科技",
+    "url": "https://www.wired.com/story/waymo-recalls-robotaxis-over-risk-theyll-drive-at-speed-into-freeway-construction-zones/"
+  },
+  {
+    "date": "2026-06-19",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "OpenAI is bringing on some big guns in the lead-up to its IPO",
+    "summary": "OpenAI发布重要更新，新模型在理解和生成能力方面表现显著提升。据官方介绍，新版本采用了改进的架构设计，推理效率更高，同时支持更长的上下文窗口，预计将推动更多创新应用落地。",
+    "score": 4,
+    "source": "TechCrunch",
+    "keywords": "OpenAI",
+    "url": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/"
+  },
+  {
+    "date": "2026-06-19",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Rivian owners file lawsuit alleging false promises on self-driving features",
+    "summary": "来自TechCrunch的最新报道：Rivian owners file lawsuit alleging false promises on self-driving features。详细内容请查看原文链接。",
+    "score": 4,
+    "source": "TechCrunch",
+    "keywords": "AI, 科技",
+    "url": "https://techcrunch.com/2026/06/18/rivian-owners-file-lawsuit-alleging-false-promises-on-self-driving-features/"
+  },
+  {
+    "date": "2026-06-19",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "The smartphone era created an attention crisis. Slowtech is fixing it",
+    "summary": "来自TechCrunch的最新报道：The smartphone era created an attention crisis. Slowtech is fixing it。详细内容请查看原文链接。",
+    "score": 4,
+    "source": "TechCrunch",
+    "keywords": "AI, 科技",
+    "url": "https://techcrunch.com/2026/06/18/the-smartphone-era-created-an-attention-crisis-slowtech-is-fixing-it/"
   }
 ]
