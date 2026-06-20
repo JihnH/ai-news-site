@@ -1,60 +1,5 @@
 [
   {
-    "date": "2026-05-28",
-    "time": "10:30",
-    "type": "AI早报",
-    "title": "Meta推出Instagram、Facebook和WhatsApp订阅服务，更多AI计划即将推出",
-    "summary": "Meta正式推出Instagram、Facebook和WhatsApp的订阅服务，并计划推出更多AI功能。这一商业化举措旨在应对广告收入下降，开拓新的收入来源。",
-    "score": 4,
-    "source": "TechCrunch",
-    "keywords": "Meta, 订阅服务, 社交应用",
-    "url": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/"
-  },
-  {
-    "date": "2026-05-28",
-    "time": "10:30",
-    "type": "AI早报",
-    "title": "谷歌安全工程师因百万美元Polymarket交易骗局被捕",
-    "summary": "一名谷歌安全工程师因涉嫌参与百万美元的Polymarket交易骗局被捕。该案揭示了加密货币预测市场背后的潜在风险，以及大型科技公司员工面临的道德和法律挑战。",
-    "score": 4,
-    "source": "Wired",
-    "keywords": "谷歌, 安全, 加密货币",
-    "url": "https://www.wired.com/story/google-employee-accused-of-polymarket-one-million/"
-  },
-  {
-    "date": "2026-05-28",
-    "time": "10:30",
-    "type": "AI早报",
-    "title": "伊利诺伊州通过美国最强AI安全法案",
-    "summary": "伊利诺伊州立法者通过了美国最严格的AI安全法案，要求AI系统必须经过安全测试才能部署。该法案为其他州树立了榜样，可能推动联邦层面的AI监管立法。",
-    "score": 4,
-    "source": "Wired",
-    "keywords": "AI安全, 法律, 监管",
-    "url": "https://www.wired.com/story/illinois-pass-major-ai-safety-law-pritzker/"
-  },
-  {
-    "date": "2026-05-29",
-    "time": "10:30",
-    "type": "AI早报",
-    "title": "Anthropic发布Opus 4.8和全新动态工作流工具",
-    "summary": "Anthropic发布Opus 4.8模型，引入全新的'动态工作流'工具。该工具允许AI智能体根据任务需求自动调整工作流程，提高复杂任务的完成效率。",
-    "score": 5,
-    "source": "TechCrunch",
-    "keywords": "Anthropic, Opus, 工作流",
-    "url": "https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/"
-  },
-  {
-    "date": "2026-05-29",
-    "time": "10:30",
-    "type": "AI早报",
-    "title": "Waymo最新无人出租车中国制造，开始盈利并载客运营",
-    "summary": "Waymo最新一代无人出租车由中国制造，专为盈利设计，目前已开始接受乘客预订。这标志着自动驾驶商业化进程进入新阶段，也反映了中国在自动驾驶制造领域的竞争力。",
-    "score": 5,
-    "source": "TechCrunch",
-    "keywords": "Waymo, 无人出租车, 自动驾驶",
-    "url": "https://techcrunch.com/2026/05/28/waymos-newest-robotaxi-is-chinese-made-built-to-make-money-and-now-accepting-riders/"
-  },
-  {
     "date": "2026-05-29",
     "time": "10:30",
     "type": "AI早报",
@@ -1098,5 +1043,60 @@
     "source": "TechCrunch",
     "keywords": "AI, 科技",
     "url": "https://techcrunch.com/2026/06/18/the-smartphone-era-created-an-attention-crisis-slowtech-is-fixing-it/"
+  },
+  {
+    "date": "2026-06-20",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "OpenAI is bringing on some big guns in the lead-up to its IPO",
+    "summary": "OpenAI发布重要更新，新模型在理解和生成能力方面表现显著提升。据官方介绍，新版本采用了改进的架构设计，推理效率更高，同时支持更长的上下文窗口，预计将推动更多创新应用落地。",
+    "score": 4,
+    "source": "TechCrunch",
+    "keywords": "OpenAI",
+    "url": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/"
+  },
+  {
+    "date": "2026-06-20",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Rivian owners file lawsuit alleging false promises on self-driving features",
+    "summary": "来自TechCrunch的最新报道：Rivian owners file lawsuit alleging false promises on self-driving features。详细内容请查看原文链接。",
+    "score": 4,
+    "source": "TechCrunch",
+    "keywords": "AI, 科技",
+    "url": "https://techcrunch.com/2026/06/18/rivian-owners-file-lawsuit-alleging-false-promises-on-self-driving-features/"
+  },
+  {
+    "date": "2026-06-20",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Aura's impressive e-ink photo frame doesn't even look digital",
+    "summary": "来自TechCrunch的最新报道：Aura's impressive e-ink photo frame doesn't even look digital。详细内容请查看原文链接。",
+    "score": 2,
+    "source": "TechCrunch",
+    "keywords": "AI, 科技",
+    "url": "https://techcrunch.com/2026/06/19/auras-impressive-e-ink-photo-frame-doesnt-even-look-digital/"
+  },
+  {
+    "date": "2026-06-20",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Prediction Market Philosophers Got What They Wanted. They’re Not Happy About It",
+    "summary": "来自Wired的最新报道：Prediction Market Philosophers Got What They Wanted. They’re Not Happy About It。详细内容请查看原文链接。",
+    "score": 2,
+    "source": "Wired",
+    "keywords": "AI, 科技",
+    "url": "https://www.wired.com/story/prediction-market-philosophers-got-what-they-wanted/"
+  },
+  {
+    "date": "2026-06-20",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "The Most Promising Ebola Vaccine Has Been Sitting on the Shelf for 15 Years",
+    "summary": "来自Wired的最新报道：The Most Promising Ebola Vaccine Has Been Sitting on the Shelf for 15 Years。详细内容请查看原文链接。",
+    "score": 2,
+    "source": "Wired",
+    "keywords": "AI, 科技",
+    "url": "https://www.wired.com/story/ebola-vaccine-sitting-on-shelf-for-15-years/"
   }
 ]
