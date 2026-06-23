@@ -1,60 +1,5 @@
 [
   {
-    "date": "2026-05-31",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "I went so-called &#8216;steroid Olympics,' understand why Silicon Valley is obsessed与peptides",
-    "summary": "来自TechCrunch的最新报道：I went so-called &#8216;steroid Olympics,' understand why Silicon Valley is obsessed与peptides。详细内容请查看原文链接。",
-    "score": 3,
-    "source": "TechCrunch",
-    "keywords": "AI, 科技",
-    "url": "https://techcrunch.com/2026/05/29/i-went-to-the-so-called-steroid-olympics-to-understand-why-silicon-valley-is-obsessed-with-peptides/"
-  },
-  {
-    "date": "2026-05-31",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "微软 under fire为threaten在g 安全 re搜索er与crim在al 在vestigation",
-    "summary": "来自TechCrunch的最新报道：微软 under fire为threaten在g 安全 re搜索er与crim在al 在vestigation。详细内容请查看原文链接。",
-    "score": 2,
-    "source": "TechCrunch",
-    "keywords": "安全, 搜索引擎",
-    "url": "https://techcrunch.com/2026/05/29/microsoft-under-fire-for-threatening-security-researcher-with-criminal-investigation/"
-  },
-  {
-    "date": "2026-06-01",
-    "time": "10:30",
-    "type": "AI早报",
-    "title": "What happens 在 Vega$: steroids, swimmers,和billion-dollar hustle",
-    "summary": "来自TechCrunch的最新报道：What happens 在 Vega$: steroids, swimmers,和billion-dollar hustle。详细内容请查看原文链接。",
-    "score": 2,
-    "source": "TechCrunch",
-    "keywords": "AI, 科技",
-    "url": "https://techcrunch.com/2026/05/31/i-went-to-the-so-called-steroid-olympics-to-understand-why-silicon-valley-is-obsessed-with-peptides/"
-  },
-  {
-    "date": "2026-06-01",
-    "time": "10:30",
-    "type": "AI早报",
-    "title": "Grifters, cynics,和true believers: family tree vacc在e opponents",
-    "summary": "来自Ars Technica的最新报道：Grifters, cynics,和true believers: family tree vacc在e opponents。详细内容请查看原文链接。",
-    "score": 2,
-    "source": "Ars Technica",
-    "keywords": "AI, 科技",
-    "url": "https://arstechnica.com/science/2026/05/grifters-cynics-and-true-believers-the-family-tree-of-vaccine-opponents/"
-  },
-  {
-    "date": "2026-06-03",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "Microsoft offers devs a better way to control AI agent behavior",
-    "summary": "来自TechCrunch的最新报道：Microsoft offers devs a better way to control AI agent behavior。详细内容请查看原文链接。",
-    "score": 7,
-    "source": "TechCrunch",
-    "keywords": "AI, 科技",
-    "url": "https://techcrunch.com/2026/06/02/microsoft-offers-devs-a-better-way-to-control-ai-agent-behavior/"
-  },
-  {
     "date": "2026-06-03",
     "time": "10:31",
     "type": "AI早报",
@@ -1098,5 +1043,60 @@
     "source": "TechCrunch",
     "keywords": "Claude",
     "url": "https://techcrunch.com/2026/06/21/ubisoft-co-founder-claude-guillemot-dies-in-plane-crash/"
+  },
+  {
+    "date": "2026-06-23",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "OpenAI Launches Full-Scale Effort to Patch Open-Source Bugs as It Takes on Anthropic’s Mythos",
+    "summary": "OpenAI发布重要更新，新模型在理解和生成能力方面表现显著提升。据官方介绍，新版本采用了改进的架构设计，推理效率更高，同时支持更长的上下文窗口，预计将推动更多创新应用落地。",
+    "score": 7,
+    "source": "Wired",
+    "keywords": "OpenAI",
+    "url": "https://www.wired.com/story/openai-launches-full-scale-effort-to-patch-open-source-bugs-as-it-takes-on-anthropics-mythos/"
+  },
+  {
+    "date": "2026-06-23",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Anthropic says Claude may want to see your ID",
+    "summary": "Anthropic发布Claude系列模型更新，主打安全性和可控性。新模型引入改进的训练方法，在保持性能的同时降低有害输出风险，为AI安全领域提供新的技术参考。",
+    "score": 4,
+    "source": "TechCrunch",
+    "keywords": "Claude",
+    "url": "https://techcrunch.com/2026/06/22/anthropic-says-claude-may-want-to-see-your-id/"
+  },
+  {
+    "date": "2026-06-23",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Tata Electronics, a major tech supplier to Apple and Tesla, confirms data breach",
+    "summary": "来自TechCrunch的最新报道：Tata Electronics, a major tech supplier to Apple and Tesla, confirms data breach。详细内容请查看原文链接。",
+    "score": 4,
+    "source": "TechCrunch",
+    "keywords": "AI, 科技",
+    "url": "https://techcrunch.com/2026/06/22/tata-electronics-a-major-tech-supplier-to-apple-and-tesla-confirms-data-breach/"
+  },
+  {
+    "date": "2026-06-23",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Meta Exposed Data Internally From Its Controversial Employee-Tracking Program",
+    "summary": "来自Wired的最新报道：Meta Exposed Data Internally From Its Controversial Employee-Tracking Program。详细内容请查看原文链接。",
+    "score": 4,
+    "source": "Wired",
+    "keywords": "AI, 科技",
+    "url": "https://www.wired.com/story/meta-accidentally-let-employees-access-each-others-keystroke-data/"
+  },
+  {
+    "date": "2026-06-23",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Meta Pauses Employee-Tracking Program Following Internal Data Leak",
+    "summary": "来自Wired的最新报道：Meta Pauses Employee-Tracking Program Following Internal Data Leak。详细内容请查看原文链接。",
+    "score": 4,
+    "source": "Wired",
+    "keywords": "AI, 科技",
+    "url": "https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/"
   }
 ]
