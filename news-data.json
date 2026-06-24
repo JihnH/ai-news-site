@@ -1,60 +1,5 @@
 [
   {
-    "date": "2026-06-03",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "Microsoft's Project Solara is an Android OS designed for agents instead of apps",
-    "summary": "来自Ars Technica的最新报道：Microsoft's Project Solara is an Android OS designed for agents instead of apps。详细内容请查看原文链接。",
-    "score": 7,
-    "source": "Ars Technica",
-    "keywords": "AI, 科技",
-    "url": "https://arstechnica.com/gadgets/2026/06/microsofts-project-solara-is-an-android-os-designed-for-agents-instead-of-apps/"
-  },
-  {
-    "date": "2026-06-03",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "Feds failing in bid to take a supercomputer from a climate research center",
-    "summary": "来自Ars Technica的最新报道：Feds failing in bid to take a supercomputer from a climate research center。详细内容请查看原文链接。",
-    "score": 6,
-    "source": "Ars Technica",
-    "keywords": "AI, 科技",
-    "url": "https://arstechnica.com/science/2026/06/judge-blocks-part-of-trump-admins-effort-to-hurt-colorado-research-center/"
-  },
-  {
-    "date": "2026-06-03",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "Microsoft plans Linux tools and an RTX Spark desktop for Windows developers",
-    "summary": "来自Ars Technica的最新报道：Microsoft plans Linux tools and an RTX Spark desktop for Windows developers。详细内容请查看原文链接。",
-    "score": 5,
-    "source": "Ars Technica",
-    "keywords": "AI, 科技",
-    "url": "https://arstechnica.com/gadgets/2026/06/microsoft-plans-linux-tools-and-an-rtx-spark-desktop-for-windows-developers/"
-  },
-  {
-    "date": "2026-06-03",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "Microsoft launches Scout, an OpenClaw-inspired personal assistant",
-    "summary": "来自TechCrunch的最新报道：Microsoft launches Scout, an OpenClaw-inspired personal assistant。详细内容请查看原文链接。",
-    "score": 4,
-    "source": "TechCrunch",
-    "keywords": "AI, 科技",
-    "url": "https://techcrunch.com/2026/06/02/microsoft-launches-scout-an-openclaw-inspired-personal-assistant/"
-  },
-  {
-    "date": "2026-06-03",
-    "time": "13:35",
-    "type": "AI早报",
-    "title": "Squishmallows, dentures, and an ‘I Heart Hot Dads’ bag: Uber has found thousands of items left in robotaxis",
-    "summary": "来自TechCrunch的最新报道：Squishmallows, dentures, and an ‘I Heart Hot Dads’ bag: Uber has found thousands of items left in robotaxis。详细内容请查看原文链接。",
-    "score": 5,
-    "source": "TechCrunch",
-    "keywords": "AI, 科技",
-    "url": "https://techcrunch.com/2026/06/02/squishmallows-dentures-and-an-i-heart-hot-dads-bag-uber-has-found-thousands-of-items-left-in-robotaxis/"
-  },
-  {
     "date": "2026-06-05",
     "time": "10:31",
     "type": "AI早报",
@@ -1098,5 +1043,60 @@
     "source": "Wired",
     "keywords": "AI, 科技",
     "url": "https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/"
+  },
+  {
+    "date": "2026-06-24",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Anthropic’s Claude Tag is learning your company, one Slack message at a time",
+    "summary": "Anthropic发布Claude系列模型更新，主打安全性和可控性。新模型引入改进的训练方法，在保持性能的同时降低有害输出风险，为AI安全领域提供新的技术参考。",
+    "score": 7,
+    "source": "TechCrunch",
+    "keywords": "Claude",
+    "url": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/"
+  },
+  {
+    "date": "2026-06-24",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "India's MoEngage bets that the future of marketing is millions of AI agents",
+    "summary": "来自TechCrunch的最新报道：India's MoEngage bets that the future of marketing is millions of AI agents。详细内容请查看原文链接。",
+    "score": 5,
+    "source": "TechCrunch",
+    "keywords": "AI, 科技",
+    "url": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/"
+  },
+  {
+    "date": "2026-06-24",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Mark Zuckerberg wants Meta to launch its own prediction market",
+    "summary": "来自TechCrunch的最新报道：Mark Zuckerberg wants Meta to launch its own prediction market。详细内容请查看原文链接。",
+    "score": 5,
+    "source": "TechCrunch",
+    "keywords": "AI, 科技",
+    "url": "https://techcrunch.com/2026/06/23/mark-zuckerberg-wants-meta-to-launch-its-own-prediction-market/"
+  },
+  {
+    "date": "2026-06-24",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Meta Pauses Employee-Tracking Program Following Internal Data Leak",
+    "summary": "来自Wired的最新报道：Meta Pauses Employee-Tracking Program Following Internal Data Leak。详细内容请查看原文链接。",
+    "score": 4,
+    "source": "Wired",
+    "keywords": "AI, 科技",
+    "url": "https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/"
+  },
+  {
+    "date": "2026-06-24",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Meta debuts new, cheaper smart glasses under its own brand",
+    "summary": "来自TechCrunch的最新报道：Meta debuts new, cheaper smart glasses under its own brand。详细内容请查看原文链接。",
+    "score": 3,
+    "source": "TechCrunch",
+    "keywords": "AI, 科技",
+    "url": "https://techcrunch.com/2026/06/23/meta-debuts-new-cheaper-smart-glasses-under-its-own-brand/"
   }
 ]
