@@ -1,60 +1,5 @@
 [
   {
-    "date": "2026-06-07",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "Google will pay SpaceX $920M per month for compute",
-    "summary": "来自TechCrunch的最新报道：Google will pay SpaceX $920M per month for compute。详细内容请查看原文链接。",
-    "score": 7,
-    "source": "TechCrunch",
-    "keywords": "AI, 科技",
-    "url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/"
-  },
-  {
-    "date": "2026-06-07",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
-    "summary": "OpenAI发布重要更新，新模型在理解和生成能力方面表现显著提升。据官方介绍，新版本采用了改进的架构设计，推理效率更高，同时支持更长的上下文窗口，预计将推动更多创新应用落地。",
-    "score": 7,
-    "source": "Ars Technica",
-    "keywords": "OpenAI",
-    "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/"
-  },
-  {
-    "date": "2026-06-07",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
-    "summary": "OpenAI发布重要更新，新模型在理解和生成能力方面表现显著提升。据官方介绍，新版本采用了改进的架构设计，推理效率更高，同时支持更长的上下文窗口，预计将推动更多创新应用落地。",
-    "score": 4,
-    "source": "TechCrunch",
-    "keywords": "OpenAI",
-    "url": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/"
-  },
-  {
-    "date": "2026-06-07",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "Beyond Instagram: Introducing the next generation of social apps",
-    "summary": "来自TechCrunch的最新报道：Beyond Instagram: Introducing the next generation of social apps。详细内容请查看原文链接。",
-    "score": 2,
-    "source": "TechCrunch",
-    "keywords": "AI, 科技",
-    "url": "https://techcrunch.com/2026/06/06/beyond-instagram-introducing-the-next-generation-of-social-apps/"
-  },
-  {
-    "date": "2026-06-07",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "The token bill comes due: Inside the industry scramble to manage AI’s runaway costs",
-    "summary": "来自TechCrunch的最新报道：The token bill comes due: Inside the industry scramble to manage AI’s runaway costs。详细内容请查看原文链接。",
-    "score": 2,
-    "source": "TechCrunch",
-    "keywords": "AI, 科技",
-    "url": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/"
-  },
-  {
     "date": "2026-06-08",
     "time": "10:30",
     "type": "AI早报",
@@ -1098,5 +1043,60 @@
     "source": "TechCrunch",
     "keywords": "OpenAI",
     "url": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/"
+  },
+  {
+    "date": "2026-06-27",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
+    "summary": "OpenAI发布重要更新，新模型在理解和生成能力方面表现显著提升。据官方介绍，新版本采用了改进的架构设计，推理效率更高，同时支持更长的上下文窗口，预计将推动更多创新应用落地。",
+    "score": 7,
+    "source": "TechCrunch",
+    "keywords": "OpenAI, GPT",
+    "url": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/"
+  },
+  {
+    "date": "2026-06-27",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "It's not about Anthropic vs. OpenAI anymore",
+    "summary": "OpenAI发布重要更新，新模型在理解和生成能力方面表现显著提升。据官方介绍，新版本采用了改进的架构设计，推理效率更高，同时支持更长的上下文窗口，预计将推动更多创新应用落地。",
+    "score": 7,
+    "source": "TechCrunch",
+    "keywords": "OpenAI",
+    "url": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/"
+  },
+  {
+    "date": "2026-06-27",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Trump Administration Allows Anthropic to Release  Mythos to Select US Organizations",
+    "summary": "Anthropic发布Claude系列模型更新，主打安全性和可控性。新模型引入改进的训练方法，在保持性能的同时降低有害输出风险，为AI安全领域提供新的技术参考。",
+    "score": 7,
+    "source": "Wired",
+    "keywords": "AI, 科技",
+    "url": "https://www.wired.com/story/anthropic-restores-access-to-mythos/"
+  },
+  {
+    "date": "2026-06-27",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "NYT slams Microsoft for building copyright-infringing supercomputer for OpenAI",
+    "summary": "OpenAI发布重要更新，新模型在理解和生成能力方面表现显著提升。据官方介绍，新版本采用了改进的架构设计，推理效率更高，同时支持更长的上下文窗口，预计将推动更多创新应用落地。",
+    "score": 7,
+    "source": "Ars Technica",
+    "keywords": "OpenAI",
+    "url": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/"
+  },
+  {
+    "date": "2026-06-27",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "OpenAI poaches Uber India chief to lead its biggest market outside the US",
+    "summary": "OpenAI发布重要更新，新模型在理解和生成能力方面表现显著提升。据官方介绍，新版本采用了改进的架构设计，推理效率更高，同时支持更长的上下文窗口，预计将推动更多创新应用落地。",
+    "score": 4,
+    "source": "TechCrunch",
+    "keywords": "OpenAI",
+    "url": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/"
   }
 ]
