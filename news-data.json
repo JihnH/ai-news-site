@@ -1,60 +1,5 @@
 [
   {
-    "date": "2026-06-09",
-    "time": "10:30",
-    "type": "AI早报",
-    "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
-    "summary": "来自TechCrunch的最新报道：Microsoft's open source tools were hacked to steal passwords of AI developers。详细内容请查看原文链接。",
-    "score": 7,
-    "source": "TechCrunch",
-    "keywords": "AI, 科技",
-    "url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/"
-  },
-  {
-    "date": "2026-06-09",
-    "time": "10:30",
-    "type": "AI早报",
-    "title": "OpenAI Confidentially Files for IPO on the Heels of SpaceX and Anthropic",
-    "summary": "OpenAI发布重要更新，新模型在理解和生成能力方面表现显著提升。据官方介绍，新版本采用了改进的架构设计，推理效率更高，同时支持更长的上下文窗口，预计将推动更多创新应用落地。",
-    "score": 7,
-    "source": "Wired",
-    "keywords": "OpenAI",
-    "url": "https://www.wired.com/story/openai-confidentially-files-for-ipo/"
-  },
-  {
-    "date": "2026-06-09",
-    "time": "10:30",
-    "type": "AI早报",
-    "title": "Gemini 3.5 and Antigravity come to Google NotebookLM",
-    "summary": "来自Ars Technica的最新报道：Gemini 3.5 and Antigravity come to Google NotebookLM。详细内容请查看原文链接。",
-    "score": 7,
-    "source": "Ars Technica",
-    "keywords": "AI, 科技",
-    "url": "https://arstechnica.com/ai/2026/06/gemini-3-5-and-antigravity-come-to-google-notebooklm/"
-  },
-  {
-    "date": "2026-06-09",
-    "time": "10:30",
-    "type": "AI早报",
-    "title": "OpenAI files confidentially for IPO, following Anthropic",
-    "summary": "OpenAI发布重要更新，新模型在理解和生成能力方面表现显著提升。据官方介绍，新版本采用了改进的架构设计，推理效率更高，同时支持更长的上下文窗口，预计将推动更多创新应用落地。",
-    "score": 6,
-    "source": "TechCrunch",
-    "keywords": "OpenAI",
-    "url": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/"
-  },
-  {
-    "date": "2026-06-09",
-    "time": "10:30",
-    "type": "AI早报",
-    "title": "As OpenAI files for IPO, Sam Altman's eye-scanning company is doing layoffs, report says",
-    "summary": "OpenAI发布重要更新，新模型在理解和生成能力方面表现显著提升。据官方介绍，新版本采用了改进的架构设计，推理效率更高，同时支持更长的上下文窗口，预计将推动更多创新应用落地。",
-    "score": 6,
-    "source": "TechCrunch",
-    "keywords": "OpenAI, 就业",
-    "url": "https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/"
-  },
-  {
     "date": "2026-06-10",
     "time": "10:31",
     "type": "AI早报",
@@ -1098,5 +1043,60 @@
     "source": "TechCrunch",
     "keywords": "AI, 科技",
     "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/"
+  },
+  {
+    "date": "2026-06-29",
+    "time": "10:30",
+    "type": "AI早报",
+    "title": "Trump Administration Allows Anthropic to Release  Mythos to Select US Organizations",
+    "summary": "Anthropic发布Claude系列模型更新，主打安全性和可控性。新模型引入改进的训练方法，在保持性能的同时降低有害输出风险，为AI安全领域提供新的技术参考。",
+    "score": 7,
+    "source": "Wired",
+    "keywords": "AI, 科技",
+    "url": "https://www.wired.com/story/anthropic-restores-access-to-mythos/"
+  },
+  {
+    "date": "2026-06-29",
+    "time": "10:30",
+    "type": "AI早报",
+    "title": "NYT slams Microsoft for building copyright-infringing supercomputer for OpenAI",
+    "summary": "OpenAI发布重要更新，新模型在理解和生成能力方面表现显著提升。据官方介绍，新版本采用了改进的架构设计，推理效率更高，同时支持更长的上下文窗口，预计将推动更多创新应用落地。",
+    "score": 7,
+    "source": "Ars Technica",
+    "keywords": "OpenAI",
+    "url": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/"
+  },
+  {
+    "date": "2026-06-29",
+    "time": "10:30",
+    "type": "AI早报",
+    "title": "Asian AI startups launch Mythos-like  models as Anthropic's export ban drags on",
+    "summary": "Anthropic发布Claude系列模型更新，主打安全性和可控性。新模型引入改进的训练方法，在保持性能的同时降低有害输出风险，为AI安全领域提供新的技术参考。",
+    "score": 6,
+    "source": "TechCrunch",
+    "keywords": "AI, 科技",
+    "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/"
+  },
+  {
+    "date": "2026-06-29",
+    "time": "10:30",
+    "type": "AI早报",
+    "title": "Why Wall Street thinks US memory maker Micron is the next Nvidia",
+    "summary": "来自TechCrunch的最新报道：Why Wall Street thinks US memory maker Micron is the next Nvidia。详细内容请查看原文链接。",
+    "score": 4,
+    "source": "TechCrunch",
+    "keywords": "AI, 科技",
+    "url": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/"
+  },
+  {
+    "date": "2026-06-29",
+    "time": "10:30",
+    "type": "AI早报",
+    "title": "Why Amazon Dropped Its OpenAI Movie, Data Center Workers Fight Back, and Meta Leaks Employee Data",
+    "summary": "OpenAI发布重要更新，新模型在理解和生成能力方面表现显著提升。据官方介绍，新版本采用了改进的架构设计，推理效率更高，同时支持更长的上下文窗口，预计将推动更多创新应用落地。",
+    "score": 4,
+    "source": "Wired",
+    "keywords": "OpenAI",
+    "url": "https://www.wired.com/story/uncanny-valley-podcast-amazon-mgm-openai-movie-data-center-workers-fight-back-meta-leaks-employee-data/"
   }
 ]
