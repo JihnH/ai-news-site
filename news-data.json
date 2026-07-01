@@ -1,60 +1,5 @@
 [
   {
-    "date": "2026-06-11",
-    "time": "10:30",
-    "type": "AI早报",
-    "title": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
-    "summary": "来自TechCrunch的最新报道：xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims。详细内容请查看原文链接。",
-    "score": 7,
-    "source": "TechCrunch",
-    "keywords": "AI, 科技",
-    "url": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/"
-  },
-  {
-    "date": "2026-06-11",
-    "time": "10:30",
-    "type": "AI早报",
-    "title": "Google DeepMind releases DiffusionGemma, a model that runs local AI 4x faster",
-    "summary": "DeepMind团队发布新一代模型，准确度较前代有显著提升。该成果已开源或公开发布，预计将加速相关领域的研究进程和新应用开发。",
-    "score": 7,
-    "source": "Ars Technica",
-    "keywords": "DeepMind",
-    "url": "https://arstechnica.com/google/2026/06/googles-latest-diffusiongemma-open-ai-model-comes-with-a-4x-speed-boost/"
-  },
-  {
-    "date": "2026-06-11",
-    "time": "10:30",
-    "type": "AI早报",
-    "title": "Nobody needs AI to search the Internet, court says in ruling against Google",
-    "summary": "来自Ars Technica的最新报道：Nobody needs AI to search the Internet, court says in ruling against Google。详细内容请查看原文链接。",
-    "score": 6,
-    "source": "Ars Technica",
-    "keywords": "AI, 科技",
-    "url": "https://arstechnica.com/tech-policy/2026/06/nobody-needs-ai-to-search-the-internet-court-says-in-ruling-against-google/"
-  },
-  {
-    "date": "2026-06-11",
-    "time": "10:30",
-    "type": "AI早报",
-    "title": "CISA Tells US Agencies to Fix Security Bugs in as Little as 3 Days Thanks to AI Threats",
-    "summary": "来自Wired的最新报道：CISA Tells US Agencies to Fix Security Bugs in as Little as 3 Days Thanks to AI Threats。详细内容请查看原文链接。",
-    "score": 5,
-    "source": "Wired",
-    "keywords": "AI, 科技",
-    "url": "https://www.wired.com/story/cisa-ai-vulnerability-directive/"
-  },
-  {
-    "date": "2026-06-11",
-    "time": "10:30",
-    "type": "AI早报",
-    "title": "A Meta Employee Who Just Lost Their Job Was Detained by Immigration Agents",
-    "summary": "来自Wired的最新报道：A Meta Employee Who Just Lost Their Job Was Detained by Immigration Agents。详细内容请查看原文链接。",
-    "score": 4,
-    "source": "Wired",
-    "keywords": "AI, 科技",
-    "url": "https://www.wired.com/story/meta-layoffs-immigration-customs-enforcement/"
-  },
-  {
     "date": "2026-06-12",
     "time": "10:30",
     "type": "AI早报",
@@ -1098,5 +1043,60 @@
     "source": "Wired",
     "keywords": "OpenAI",
     "url": "https://www.wired.com/story/uncanny-valley-podcast-amazon-mgm-openai-movie-data-center-workers-fight-back-meta-leaks-employee-data/"
+  },
+  {
+    "date": "2026-07-01",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
+    "summary": "Anthropic发布Claude系列模型更新，主打安全性和可控性。新模型引入改进的训练方法，在保持性能的同时降低有害输出风险，为AI安全领域提供新的技术参考。",
+    "score": 7,
+    "source": "TechCrunch",
+    "keywords": "Claude",
+    "url": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/"
+  },
+  {
+    "date": "2026-07-01",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Amazon launches new $1 billion FDE org, following OpenAI and Anthropic",
+    "summary": "OpenAI发布重要更新，新模型在理解和生成能力方面表现显著提升。据官方介绍，新版本采用了改进的架构设计，推理效率更高，同时支持更长的上下文窗口，预计将推动更多创新应用落地。",
+    "score": 7,
+    "source": "TechCrunch",
+    "keywords": "OpenAI",
+    "url": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/"
+  },
+  {
+    "date": "2026-07-01",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Anthropic’s Claude Science bets on workflow, not a new model, to win over scientists",
+    "summary": "Anthropic发布Claude系列模型更新，主打安全性和可控性。新模型引入改进的训练方法，在保持性能的同时降低有害输出风险，为AI安全领域提供新的技术参考。",
+    "score": 7,
+    "source": "TechCrunch",
+    "keywords": "Claude",
+    "url": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/"
+  },
+  {
+    "date": "2026-07-01",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "The Trump Administration Is Lifting Its Export Controls on Anthropic’s Mythos and Fable AI Models",
+    "summary": "Anthropic发布Claude系列模型更新，主打安全性和可控性。新模型引入改进的训练方法，在保持性能的同时降低有害输出风险，为AI安全领域提供新的技术参考。",
+    "score": 7,
+    "source": "Wired",
+    "keywords": "AI, 科技",
+    "url": "https://www.wired.com/story/trump-administration-lifts-export-controls-on-anthropics-mythos-and-fable-ai-models/"
+  },
+  {
+    "date": "2026-07-01",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
+    "summary": "DeepMind团队发布新一代模型，准确度较前代有显著提升。该成果已开源或公开发布，预计将加速相关领域的研究进程和新应用开发。",
+    "score": 5,
+    "source": "TechCrunch",
+    "keywords": "DeepMind",
+    "url": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/"
   }
 ]
