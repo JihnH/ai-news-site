@@ -1,60 +1,5 @@
 [
   {
-    "date": "2026-06-13",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "Meta's months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it",
-    "summary": "来自TechCrunch的最新报道：Meta's months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it。详细内容请查看原文链接。",
-    "score": 5,
-    "source": "TechCrunch",
-    "keywords": "AI, 科技",
-    "url": "https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/"
-  },
-  {
-    "date": "2026-06-13",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "‘Tell Him He’s a Piece of Shit’: Meta’s New AI Unit Is a Total Mess",
-    "summary": "来自Wired的最新报道：‘Tell Him He’s a Piece of Shit’: Meta’s New AI Unit Is a Total Mess。详细内容请查看原文链接。",
-    "score": 5,
-    "source": "Wired",
-    "keywords": "AI, 科技",
-    "url": "https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/"
-  },
-  {
-    "date": "2026-06-13",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "Meta Employees Absolutely Hate Mark Zuckerberg’s Plan for a Companywide AI Hackathon",
-    "summary": "来自Wired的最新报道：Meta Employees Absolutely Hate Mark Zuckerberg’s Plan for a Companywide AI Hackathon。详细内容请查看原文链接。",
-    "score": 4,
-    "source": "Wired",
-    "keywords": "AI, 科技",
-    "url": "https://www.wired.com/story/meta-employees-absolutely-hate-mark-zuckerbergs-hackathon-idea/"
-  },
-  {
-    "date": "2026-06-13",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "Ukraine's one-time test used fully autonomous drones to kill Russian soldiers",
-    "summary": "来自Ars Technica的最新报道：Ukraine's one-time test used fully autonomous drones to kill Russian soldiers。详细内容请查看原文链接。",
-    "score": 4,
-    "source": "Ars Technica",
-    "keywords": "AI, 科技",
-    "url": "https://arstechnica.com/ai/2026/06/ukraines-one-time-test-used-fully-autonomous-drones-to-kill-russian-soldiers/"
-  },
-  {
-    "date": "2026-06-13",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "Anthropic's safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
-    "summary": "Anthropic发布Claude系列模型更新，主打安全性和可控性。新模型引入改进的训练方法，在保持性能的同时降低有害输出风险，为AI安全领域提供新的技术参考。",
-    "score": 3,
-    "source": "TechCrunch",
-    "keywords": "AI, 科技",
-    "url": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/"
-  },
-  {
     "date": "2026-06-14",
     "time": "10:31",
     "type": "AI早报",
@@ -1098,5 +1043,60 @@
     "source": "TechCrunch",
     "keywords": "AI, 科技",
     "url": "https://techcrunch.com/2026/07/01/after-18b-ipo-bending-spoons-founder-says-success-comes-from-minimizing-luck/"
+  },
+  {
+    "date": "2026-07-03",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
+    "summary": "来自TechCrunch的最新报道：Microsoft launches its own AI deployment company with $2.5 billion commitment。详细内容请查看原文链接。",
+    "score": 7,
+    "source": "TechCrunch",
+    "keywords": "AI, 科技",
+    "url": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/"
+  },
+  {
+    "date": "2026-07-03",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Can Cursor Remain a Platform for OpenAI and Anthropic’s Models Inside SpaceX?",
+    "summary": "OpenAI发布重要更新，新模型在理解和生成能力方面表现显著提升。据官方介绍，新版本采用了改进的架构设计，推理效率更高，同时支持更长的上下文窗口，预计将推动更多创新应用落地。",
+    "score": 7,
+    "source": "Wired",
+    "keywords": "OpenAI",
+    "url": "https://www.wired.com/story/can-cursor-remain-an-open-platform-inside-of-spacex/"
+  },
+  {
+    "date": "2026-07-03",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
+    "summary": "OpenAI发布重要更新，新模型在理解和生成能力方面表现显著提升。据官方介绍，新版本采用了改进的架构设计，推理效率更高，同时支持更长的上下文窗口，预计将推动更多创新应用落地。",
+    "score": 5,
+    "source": "TechCrunch",
+    "keywords": "OpenAI",
+    "url": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/"
+  },
+  {
+    "date": "2026-07-03",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Google loses long-running appeal of record EU fine, will have to cough up $4.7 billion",
+    "summary": "来自Ars Technica的最新报道：Google loses long-running appeal of record EU fine, will have to cough up $4.7 billion。详细内容请查看原文链接。",
+    "score": 5,
+    "source": "Ars Technica",
+    "keywords": "AI, 科技",
+    "url": "https://arstechnica.com/gadgets/2026/07/google-loses-long-running-appeal-of-record-eu-fine-will-have-to-cough-up-4-7-billion/"
+  },
+  {
+    "date": "2026-07-03",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Trump gets OpenAI to offer US 5% stake, far lower than Sanders’ target",
+    "summary": "OpenAI发布重要更新，新模型在理解和生成能力方面表现显著提升。据官方介绍，新版本采用了改进的架构设计，推理效率更高，同时支持更长的上下文窗口，预计将推动更多创新应用落地。",
+    "score": 5,
+    "source": "Ars Technica",
+    "keywords": "OpenAI",
+    "url": "https://arstechnica.com/tech-policy/2026/07/openai-floats-giving-us-5-stake-to-win-over-ai-haters/"
   }
 ]
