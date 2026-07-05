@@ -1,60 +1,5 @@
 [
   {
-    "date": "2026-06-15",
-    "time": "10:30",
-    "type": "AI早报",
-    "title": "Anthropic Says It’s Taking Claude Fable 5 Offline to Comply With US Government Order",
-    "summary": "Anthropic发布Claude系列模型更新，主打安全性和可控性。新模型引入改进的训练方法，在保持性能的同时降低有害输出风险，为AI安全领域提供新的技术参考。",
-    "score": 7,
-    "source": "Wired",
-    "keywords": "Claude",
-    "url": "https://www.wired.com/story/anthropic-says-us-government-ordered-it-to-shut-down-mythos-models/"
-  },
-  {
-    "date": "2026-06-15",
-    "time": "10:30",
-    "type": "AI早报",
-    "title": "Anthropic shuts down Fable, Mythos models following Trump admin directive",
-    "summary": "Anthropic发布Claude系列模型更新，主打安全性和可控性。新模型引入改进的训练方法，在保持性能的同时降低有害输出风险，为AI安全领域提供新的技术参考。",
-    "score": 7,
-    "source": "Ars Technica",
-    "keywords": "AI, 科技",
-    "url": "https://arstechnica.com/ai/2026/06/anthropic-shuts-down-fable-mythos-models-following-trump-admin-directive/"
-  },
-  {
-    "date": "2026-06-15",
-    "time": "10:30",
-    "type": "AI早报",
-    "title": "‘Tell Him He’s a Piece of Shit’: Meta’s New AI Unit Is a Total Mess",
-    "summary": "来自Wired的最新报道：‘Tell Him He’s a Piece of Shit’: Meta’s New AI Unit Is a Total Mess。详细内容请查看原文链接。",
-    "score": 5,
-    "source": "Wired",
-    "keywords": "AI, 科技",
-    "url": "https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/"
-  },
-  {
-    "date": "2026-06-15",
-    "time": "10:30",
-    "type": "AI早报",
-    "title": "As Anthropic suspends access to new models, India debates its AI future",
-    "summary": "Anthropic发布Claude系列模型更新，主打安全性和可控性。新模型引入改进的训练方法，在保持性能的同时降低有害输出风险，为AI安全领域提供新的技术参考。",
-    "score": 4,
-    "source": "TechCrunch",
-    "keywords": "AI, 科技",
-    "url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/"
-  },
-  {
-    "date": "2026-06-15",
-    "time": "10:30",
-    "type": "AI早报",
-    "title": "Meta Employees Absolutely Hate Mark Zuckerberg’s Plan for a Companywide AI Hackathon",
-    "summary": "来自Wired的最新报道：Meta Employees Absolutely Hate Mark Zuckerberg’s Plan for a Companywide AI Hackathon。详细内容请查看原文链接。",
-    "score": 4,
-    "source": "Wired",
-    "keywords": "AI, 科技",
-    "url": "https://www.wired.com/story/meta-employees-absolutely-hate-mark-zuckerbergs-hackathon-idea/"
-  },
-  {
     "date": "2026-06-16",
     "time": "10:31",
     "type": "AI早报",
@@ -1098,5 +1043,60 @@
     "source": "Ars Technica",
     "keywords": "AI, 科技",
     "url": "https://arstechnica.com/culture/2026/07/inside-the-luddite-festival-harnessing-gen-zs-rage-against-big-tech/"
+  },
+  {
+    "date": "2026-07-05",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
+    "summary": "来自TechCrunch的最新报道：New Google commercial imagines a Declaration of Independence written with help from AI。详细内容请查看原文链接。",
+    "score": 7,
+    "source": "TechCrunch",
+    "keywords": "AI, 科技",
+    "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/"
+  },
+  {
+    "date": "2026-07-05",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
+    "summary": "来自TechCrunch的最新报道：Midjourney wants Hollywood studios to reveal the details of their AI usage。详细内容请查看原文链接。",
+    "score": 4,
+    "source": "TechCrunch",
+    "keywords": "AI, 科技",
+    "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/"
+  },
+  {
+    "date": "2026-07-05",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
+    "summary": "OpenAI发布重要更新，新模型在理解和生成能力方面表现显著提升。据官方介绍，新版本采用了改进的架构设计，推理效率更高，同时支持更长的上下文窗口，预计将推动更多创新应用落地。",
+    "score": 4,
+    "source": "TechCrunch",
+    "keywords": "OpenAI",
+    "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/"
+  },
+  {
+    "date": "2026-07-05",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "A warning sign about AI’s real cost, courtesy of Google and Amazon",
+    "summary": "来自TechCrunch的最新报道：A warning sign about AI’s real cost, courtesy of Google and Amazon。详细内容请查看原文链接。",
+    "score": 4,
+    "source": "TechCrunch",
+    "keywords": "AI, 科技",
+    "url": "https://techcrunch.com/2026/07/02/a-warning-sign-about-ais-real-cost-courtesy-of-google-and-amazon/"
+  },
+  {
+    "date": "2026-07-05",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Google DeepMind Unionization Talks Are Off to a Rocky Start",
+    "summary": "DeepMind团队发布新一代模型，准确度较前代有显著提升。该成果已开源或公开发布，预计将加速相关领域的研究进程和新应用开发。",
+    "score": 3,
+    "source": "Wired",
+    "keywords": "DeepMind",
+    "url": "https://www.wired.com/story/google-deepmind-unionization-talks-are-off-to-a-rocky-start/"
   }
 ]
