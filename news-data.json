@@ -1,60 +1,5 @@
 [
   {
-    "date": "2026-06-16",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "Anthropic Is Still at Odds With the White House Over Claude Fable 5",
-    "summary": "Anthropic发布Claude系列模型更新，主打安全性和可控性。新模型引入改进的训练方法，在保持性能的同时降低有害输出风险，为AI安全领域提供新的技术参考。",
-    "score": 7,
-    "source": "Wired",
-    "keywords": "Claude",
-    "url": "https://www.wired.com/story/anthropic-is-still-at-odds-with-the-white-house-over-claude-fable-5/"
-  },
-  {
-    "date": "2026-06-16",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "The US government's Anthropic models ban was never about an AI jailbreak",
-    "summary": "Anthropic发布Claude系列模型更新，主打安全性和可控性。新模型引入改进的训练方法，在保持性能的同时降低有害输出风险，为AI安全领域提供新的技术参考。",
-    "score": 6,
-    "source": "TechCrunch",
-    "keywords": "AI, 科技",
-    "url": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/"
-  },
-  {
-    "date": "2026-06-16",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "Chipmaker Nvidia seeks to raise over $25B in first bond deal since 2021",
-    "summary": "来自Ars Technica的最新报道：Chipmaker Nvidia seeks to raise over $25B in first bond deal since 2021。详细内容请查看原文链接。",
-    "score": 6,
-    "source": "Ars Technica",
-    "keywords": "AI, 科技",
-    "url": "https://arstechnica.com/ai/2026/06/chipmaker-nvidia-seeks-to-raise-over-25b-in-first-bond-deal-since-2021/"
-  },
-  {
-    "date": "2026-06-16",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "Meta's new ‘AI Mode’ on Facebook pulls from public info across its platforms",
-    "summary": "来自TechCrunch的最新报道：Meta's new ‘AI Mode’ on Facebook pulls from public info across its platforms。详细内容请查看原文链接。",
-    "score": 5,
-    "source": "TechCrunch",
-    "keywords": "AI, 科技",
-    "url": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/"
-  },
-  {
-    "date": "2026-06-16",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "Meta CTO Andrew Bosworth Admits the Company’s AI Reorg Was ‘Atrocious’",
-    "summary": "来自Wired的最新报道：Meta CTO Andrew Bosworth Admits the Company’s AI Reorg Was ‘Atrocious’。详细内容请查看原文链接。",
-    "score": 4,
-    "source": "Wired",
-    "keywords": "AI, 科技",
-    "url": "https://www.wired.com/story/andrew-bosworth-meta-employees-unrest/"
-  },
-  {
     "date": "2026-06-17",
     "time": "10:31",
     "type": "AI早报",
@@ -1098,5 +1043,60 @@
     "source": "Wired",
     "keywords": "DeepMind",
     "url": "https://www.wired.com/story/google-deepmind-unionization-talks-are-off-to-a-rocky-start/"
+  },
+  {
+    "date": "2026-07-06",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
+    "summary": "来自TechCrunch的最新报道：New Google commercial imagines a Declaration of Independence written with help from AI。详细内容请查看原文链接。",
+    "score": 7,
+    "source": "TechCrunch",
+    "keywords": "AI, 科技",
+    "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/"
+  },
+  {
+    "date": "2026-07-06",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "The missing 500 million: Cosmic bombardment melted Earth's first crust",
+    "summary": "来自Ars Technica的最新报道：The missing 500 million: Cosmic bombardment melted Earth's first crust。详细内容请查看原文链接。",
+    "score": 6,
+    "source": "Ars Technica",
+    "keywords": "AI, 科技",
+    "url": "https://arstechnica.com/science/2026/07/the-missing-500-million-cosmic-bombardment-melted-earths-first-crust/"
+  },
+  {
+    "date": "2026-07-06",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
+    "summary": "来自TechCrunch的最新报道：Midjourney wants Hollywood studios to reveal the details of their AI usage。详细内容请查看原文链接。",
+    "score": 4,
+    "source": "TechCrunch",
+    "keywords": "AI, 科技",
+    "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/"
+  },
+  {
+    "date": "2026-07-06",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Meta Contractors Posed as Teens to Prompt Rival Chatbots About Suicide, Sex, and Drugs",
+    "summary": "来自Wired的最新报道：Meta Contractors Posed as Teens to Prompt Rival Chatbots About Suicide, Sex, and Drugs。详细内容请查看原文链接。",
+    "score": 4,
+    "source": "Wired",
+    "keywords": "AI, 科技",
+    "url": "https://www.wired.com/story/meta-contractors-pretending-to-be-teens-chatbot-testing/"
+  },
+  {
+    "date": "2026-07-06",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Almost 90 new unicorns have been minted so far this year — here they are",
+    "summary": "来自TechCrunch的最新报道：Almost 90 new unicorns have been minted so far this year — here they are。详细内容请查看原文链接。",
+    "score": 3,
+    "source": "TechCrunch",
+    "keywords": "AI, 科技",
+    "url": "https://techcrunch.com/2026/07/05/almost-40-new-unicorns-have-been-minted-so-far-this-year-here-they-are/"
   }
 ]
