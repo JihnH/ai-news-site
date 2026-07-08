@@ -1,60 +1,5 @@
 [
   {
-    "date": "2026-06-18",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "The Korean Telecom Giant at the Center of Anthropic’s Mythos Controversy",
-    "summary": "Anthropic发布Claude系列模型更新，主打安全性和可控性。新模型引入改进的训练方法，在保持性能的同时降低有害输出风险，为AI安全领域提供新的技术参考。",
-    "score": 7,
-    "source": "Wired",
-    "keywords": "AI, 科技",
-    "url": "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/"
-  },
-  {
-    "date": "2026-06-18",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "AI coding agents taught robots how to install GPUs and cut zip ties",
-    "summary": "来自Ars Technica的最新报道：AI coding agents taught robots how to install GPUs and cut zip ties。详细内容请查看原文链接。",
-    "score": 7,
-    "source": "Ars Technica",
-    "keywords": "AI, 科技",
-    "url": "https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/"
-  },
-  {
-    "date": "2026-06-18",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "The Gemini-Powered Google Home Speaker Is Finally Here",
-    "summary": "来自Wired的最新报道：The Gemini-Powered Google Home Speaker Is Finally Here。详细内容请查看原文链接。",
-    "score": 6,
-    "source": "Wired",
-    "keywords": "AI, 科技",
-    "url": "https://www.wired.com/story/the-gemini-powered-google-home-speaker-is-finally-here/"
-  },
-  {
-    "date": "2026-06-18",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "Chi-Hua Chien saw Facebook coming — now he says the real AI winners won't be selling AI",
-    "summary": "来自TechCrunch的最新报道：Chi-Hua Chien saw Facebook coming — now he says the real AI winners won't be selling AI。详细内容请查看原文链接。",
-    "score": 3,
-    "source": "TechCrunch",
-    "keywords": "AI, 科技",
-    "url": "https://techcrunch.com/2026/06/17/chi-hua-chien-saw-facebook-coming-now-he-says-the-real-ai-winners-wont-be-selling-ai/"
-  },
-  {
-    "date": "2026-06-18",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "Operating a Humanoid With Your Body Is a Hot Job in China’s Hardware Capital",
-    "summary": "来自Wired的最新报道：Operating a Humanoid With Your Body Is a Hot Job in China’s Hardware Capital。详细内容请查看原文链接。",
-    "score": 3,
-    "source": "Wired",
-    "keywords": "AI, 科技",
-    "url": "https://www.wired.com/story/humanoid-robot-training-in-chinas-hardware-capital/"
-  },
-  {
     "date": "2026-06-19",
     "time": "10:31",
     "type": "AI早报",
@@ -1098,5 +1043,60 @@
     "source": "Ars Technica",
     "keywords": "AI, 科技",
     "url": "https://arstechnica.com/gaming/2026/07/the-incredible-shrinking-xbox-five-studios-3200-employees-let-go/"
+  },
+  {
+    "date": "2026-07-08",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Shut Those Laptops! Anthropic Puts Its Claude Cowork Agent on Your Phone",
+    "summary": "Anthropic发布Claude系列模型更新，主打安全性和可控性。新模型引入改进的训练方法，在保持性能的同时降低有害输出风险，为AI安全领域提供新的技术参考。",
+    "score": 7,
+    "source": "Wired",
+    "keywords": "Claude",
+    "url": "https://www.wired.com/story/shut-those-laptops-anthropic-puts-its-claude-cowork-agent-on-your-phone/"
+  },
+  {
+    "date": "2026-07-08",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Why the rise of open source AI isn't hurting Anthropic &#8230; yet",
+    "summary": "Anthropic发布Claude系列模型更新，主打安全性和可控性。新模型引入改进的训练方法，在保持性能的同时降低有害输出风险，为AI安全领域提供新的技术参考。",
+    "score": 6,
+    "source": "TechCrunch",
+    "keywords": "AI, 科技",
+    "url": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/"
+  },
+  {
+    "date": "2026-07-08",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Meta Now Lets Anyone Use Your Instagram Photos in AI Images—Unless You Opt Out",
+    "summary": "来自Wired的最新报道：Meta Now Lets Anyone Use Your Instagram Photos in AI Images—Unless You Opt Out。详细内容请查看原文链接。",
+    "score": 6,
+    "source": "Wired",
+    "keywords": "AI, 科技",
+    "url": "https://www.wired.com/story/meta-now-lets-anyone-use-your-instagram-photos-in-ai-images-unless-you-opt-out/"
+  },
+  {
+    "date": "2026-07-08",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
+    "summary": "来自TechCrunch的最新报道：Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos。详细内容请查看原文链接。",
+    "score": 4,
+    "source": "TechCrunch",
+    "keywords": "AI, 科技",
+    "url": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/"
+  },
+  {
+    "date": "2026-07-08",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "The first American autonomous ground vehicles are fighting in Ukraine",
+    "summary": "来自TechCrunch的最新报道：The first American autonomous ground vehicles are fighting in Ukraine。详细内容请查看原文链接。",
+    "score": 4,
+    "source": "TechCrunch",
+    "keywords": "AI, 科技",
+    "url": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/"
   }
 ]
