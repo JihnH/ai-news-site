@@ -1,60 +1,5 @@
 [
   {
-    "date": "2026-06-24",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "Anthropic’s Claude Tag is learning your company, one Slack message at a time",
-    "summary": "Anthropic发布Claude系列模型更新，主打安全性和可控性。新模型引入改进的训练方法，在保持性能的同时降低有害输出风险，为AI安全领域提供新的技术参考。",
-    "score": 7,
-    "source": "TechCrunch",
-    "keywords": "Claude",
-    "url": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/"
-  },
-  {
-    "date": "2026-06-24",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "India's MoEngage bets that the future of marketing is millions of AI agents",
-    "summary": "来自TechCrunch的最新报道：India's MoEngage bets that the future of marketing is millions of AI agents。详细内容请查看原文链接。",
-    "score": 5,
-    "source": "TechCrunch",
-    "keywords": "AI, 科技",
-    "url": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/"
-  },
-  {
-    "date": "2026-06-24",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "Mark Zuckerberg wants Meta to launch its own prediction market",
-    "summary": "来自TechCrunch的最新报道：Mark Zuckerberg wants Meta to launch its own prediction market。详细内容请查看原文链接。",
-    "score": 5,
-    "source": "TechCrunch",
-    "keywords": "AI, 科技",
-    "url": "https://techcrunch.com/2026/06/23/mark-zuckerberg-wants-meta-to-launch-its-own-prediction-market/"
-  },
-  {
-    "date": "2026-06-24",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "Meta Pauses Employee-Tracking Program Following Internal Data Leak",
-    "summary": "来自Wired的最新报道：Meta Pauses Employee-Tracking Program Following Internal Data Leak。详细内容请查看原文链接。",
-    "score": 4,
-    "source": "Wired",
-    "keywords": "AI, 科技",
-    "url": "https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/"
-  },
-  {
-    "date": "2026-06-24",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "Meta debuts new, cheaper smart glasses under its own brand",
-    "summary": "来自TechCrunch的最新报道：Meta debuts new, cheaper smart glasses under its own brand。详细内容请查看原文链接。",
-    "score": 3,
-    "source": "TechCrunch",
-    "keywords": "AI, 科技",
-    "url": "https://techcrunch.com/2026/06/23/meta-debuts-new-cheaper-smart-glasses-under-its-own-brand/"
-  },
-  {
     "date": "2026-06-25",
     "time": "10:31",
     "type": "AI早报",
@@ -1098,5 +1043,60 @@
     "source": "Ars Technica",
     "keywords": "AI, 科技",
     "url": "https://arstechnica.com/culture/2026/07/the-real-mystery-behind-moana-after-1700-years-why-did-polynesians-suddenly-sail-east/"
+  },
+  {
+    "date": "2026-07-14",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Apple says former employee exploited 'rare' bug to download confidential files after leaving for OpenAI",
+    "summary": "OpenAI发布重要更新，新模型在理解和生成能力方面表现显著提升。据官方介绍，新版本采用了改进的架构设计，推理效率更高，同时支持更长的上下文窗口，预计将推动更多创新应用落地。",
+    "score": 6,
+    "source": "TechCrunch",
+    "keywords": "OpenAI",
+    "url": "https://techcrunch.com/2026/07/13/apple-says-former-employee-exploited-rare-bug-to-download-confidential-files-after-leaving-for-openai/"
+  },
+  {
+    "date": "2026-07-14",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "The wildest allegations in Apple’s trade secrets lawsuit against OpenAI",
+    "summary": "OpenAI发布重要更新，新模型在理解和生成能力方面表现显著提升。据官方介绍，新版本采用了改进的架构设计，推理效率更高，同时支持更长的上下文窗口，预计将推动更多创新应用落地。",
+    "score": 4,
+    "source": "TechCrunch",
+    "keywords": "OpenAI",
+    "url": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/"
+  },
+  {
+    "date": "2026-07-14",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Uber’s robotaxi lobbying effort puts it on a collision course with Waymo",
+    "summary": "来自TechCrunch的最新报道：Uber’s robotaxi lobbying effort puts it on a collision course with Waymo。详细内容请查看原文链接。",
+    "score": 4,
+    "source": "TechCrunch",
+    "keywords": "AI, 科技",
+    "url": "https://techcrunch.com/2026/07/13/ubers-robotaxi-lobbying-effort-has-put-it-on-a-collision-course-with-waymo/"
+  },
+  {
+    "date": "2026-07-14",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Tesla Says It’s Building a Wheelchair-Accessible Robotaxi",
+    "summary": "来自Wired的最新报道：Tesla Says It’s Building a Wheelchair-Accessible Robotaxi。详细内容请查看原文链接。",
+    "score": 4,
+    "source": "Wired",
+    "keywords": "AI, 科技",
+    "url": "https://www.wired.com/story/tesla-says-its-building-a-wheelchair-accessible-robotaxi/"
+  },
+  {
+    "date": "2026-07-14",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
+    "summary": "来自TechCrunch的最新报道：Hermes agent maker Nous Research in talks for new funding at $1.5B valuation。详细内容请查看原文链接。",
+    "score": 3,
+    "source": "TechCrunch",
+    "keywords": "AI, 科技",
+    "url": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/"
   }
 ]
