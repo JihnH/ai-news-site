@@ -1,60 +1,5 @@
 [
   {
-    "date": "2026-06-26",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "Anthropic's Claude is winning over paid consumers, a market owned by ChatGPT",
-    "summary": "OpenAI发布重要更新，新模型在理解和生成能力方面表现显著提升。据官方介绍，新版本采用了改进的架构设计，推理效率更高，同时支持更长的上下文窗口，预计将推动更多创新应用落地。",
-    "score": 7,
-    "source": "TechCrunch",
-    "keywords": "GPT, Claude",
-    "url": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/"
-  },
-  {
-    "date": "2026-06-26",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "Anthropic says Alibaba must be punished for largest Claude cloning attack",
-    "summary": "Anthropic发布Claude系列模型更新，主打安全性和可控性。新模型引入改进的训练方法，在保持性能的同时降低有害输出风险，为AI安全领域提供新的技术参考。",
-    "score": 7,
-    "source": "Ars Technica",
-    "keywords": "Claude",
-    "url": "https://arstechnica.com/tech-policy/2026/06/anthropic-claims-alibaba-defied-trump-to-attack-claude-and-steal-capabilities/"
-  },
-  {
-    "date": "2026-06-26",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
-    "summary": "来自TechCrunch的最新报道：Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents。详细内容请查看原文链接。",
-    "score": 6,
-    "source": "TechCrunch",
-    "keywords": "AI, 科技",
-    "url": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/"
-  },
-  {
-    "date": "2026-06-26",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "Google finally releases a Finance Android app, promises iOS version later in 2026",
-    "summary": "来自Ars Technica的最新报道：Google finally releases a Finance Android app, promises iOS version later in 2026。详细内容请查看原文链接。",
-    "score": 5,
-    "source": "Ars Technica",
-    "keywords": "AI, 科技",
-    "url": "https://arstechnica.com/google/2026/06/google-finance-finally-gets-a-mobile-app-as-ai-powered-overhaul-leaves-beta/"
-  },
-  {
-    "date": "2026-06-26",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
-    "summary": "OpenAI发布重要更新，新模型在理解和生成能力方面表现显著提升。据官方介绍，新版本采用了改进的架构设计，推理效率更高，同时支持更长的上下文窗口，预计将推动更多创新应用落地。",
-    "score": 4,
-    "source": "TechCrunch",
-    "keywords": "OpenAI",
-    "url": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/"
-  },
-  {
     "date": "2026-06-27",
     "time": "10:31",
     "type": "AI早报",
@@ -1098,5 +1043,60 @@
     "source": "TechCrunch",
     "keywords": "DeepMind",
     "url": "https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/"
+  },
+  {
+    "date": "2026-07-16",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Google’s biggest clean power project is 40 miles north of xAI’s unpermitted gas power plant",
+    "summary": "来自TechCrunch的最新报道：Google’s biggest clean power project is 40 miles north of xAI’s unpermitted gas power plant。详细内容请查看原文链接。",
+    "score": 7,
+    "source": "TechCrunch",
+    "keywords": "AI, 科技",
+    "url": "https://techcrunch.com/2026/07/15/googles-biggest-clean-power-project-is-40-miles-north-of-xais-unpermitted-gas-power-plant/"
+  },
+  {
+    "date": "2026-07-16",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Engineer identifies and explains every '90s computer seen in Jurassic Park",
+    "summary": "来自Ars Technica的最新报道：Engineer identifies and explains every '90s computer seen in Jurassic Park。详细内容请查看原文链接。",
+    "score": 6,
+    "source": "Ars Technica",
+    "keywords": "AI, 科技",
+    "url": "https://arstechnica.com/gadgets/2026/07/engineer-identifies-and-explains-every-90s-computer-seen-in-jurassic-park/"
+  },
+  {
+    "date": "2026-07-16",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Windows 0-day drops the same day Microsoft releases record number of patches",
+    "summary": "来自Ars Technica的最新报道：Windows 0-day drops the same day Microsoft releases record number of patches。详细内容请查看原文链接。",
+    "score": 5,
+    "source": "Ars Technica",
+    "keywords": "AI, 科技",
+    "url": "https://arstechnica.com/security/2026/07/windows-0-day-drops-the-same-day-microsoft-releases-record-number-of-patches/"
+  },
+  {
+    "date": "2026-07-16",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models",
+    "summary": "Anthropic发布Claude系列模型更新，主打安全性和可控性。新模型引入改进的训练方法，在保持性能的同时降低有害输出风险，为AI安全领域提供新的技术参考。",
+    "score": 4,
+    "source": "TechCrunch",
+    "keywords": "AI, 科技",
+    "url": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/"
+  },
+  {
+    "date": "2026-07-16",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Vint Cerf is working on a plan to unleash AI agents on the open internet",
+    "summary": "来自TechCrunch的最新报道：Vint Cerf is working on a plan to unleash AI agents on the open internet。详细内容请查看原文链接。",
+    "score": 4,
+    "source": "TechCrunch",
+    "keywords": "AI, 科技",
+    "url": "https://techcrunch.com/2026/07/15/vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet/"
   }
 ]
