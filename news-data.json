@@ -1,60 +1,5 @@
 [
   {
-    "date": "2026-06-27",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
-    "summary": "OpenAI发布重要更新，新模型在理解和生成能力方面表现显著提升。据官方介绍，新版本采用了改进的架构设计，推理效率更高，同时支持更长的上下文窗口，预计将推动更多创新应用落地。",
-    "score": 7,
-    "source": "TechCrunch",
-    "keywords": "OpenAI, GPT",
-    "url": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/"
-  },
-  {
-    "date": "2026-06-27",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "It's not about Anthropic vs. OpenAI anymore",
-    "summary": "OpenAI发布重要更新，新模型在理解和生成能力方面表现显著提升。据官方介绍，新版本采用了改进的架构设计，推理效率更高，同时支持更长的上下文窗口，预计将推动更多创新应用落地。",
-    "score": 7,
-    "source": "TechCrunch",
-    "keywords": "OpenAI",
-    "url": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/"
-  },
-  {
-    "date": "2026-06-27",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "Trump Administration Allows Anthropic to Release  Mythos to Select US Organizations",
-    "summary": "Anthropic发布Claude系列模型更新，主打安全性和可控性。新模型引入改进的训练方法，在保持性能的同时降低有害输出风险，为AI安全领域提供新的技术参考。",
-    "score": 7,
-    "source": "Wired",
-    "keywords": "AI, 科技",
-    "url": "https://www.wired.com/story/anthropic-restores-access-to-mythos/"
-  },
-  {
-    "date": "2026-06-27",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "NYT slams Microsoft for building copyright-infringing supercomputer for OpenAI",
-    "summary": "OpenAI发布重要更新，新模型在理解和生成能力方面表现显著提升。据官方介绍，新版本采用了改进的架构设计，推理效率更高，同时支持更长的上下文窗口，预计将推动更多创新应用落地。",
-    "score": 7,
-    "source": "Ars Technica",
-    "keywords": "OpenAI",
-    "url": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/"
-  },
-  {
-    "date": "2026-06-27",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "OpenAI poaches Uber India chief to lead its biggest market outside the US",
-    "summary": "OpenAI发布重要更新，新模型在理解和生成能力方面表现显著提升。据官方介绍，新版本采用了改进的架构设计，推理效率更高，同时支持更长的上下文窗口，预计将推动更多创新应用落地。",
-    "score": 4,
-    "source": "TechCrunch",
-    "keywords": "OpenAI",
-    "url": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/"
-  },
-  {
     "date": "2026-06-28",
     "time": "10:31",
     "type": "AI早报",
@@ -1098,5 +1043,60 @@
     "source": "TechCrunch",
     "keywords": "AI, 科技",
     "url": "https://techcrunch.com/2026/07/15/vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet/"
+  },
+  {
+    "date": "2026-07-17",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Why is OpenAI selling a ChatGPT basketball?",
+    "summary": "OpenAI发布重要更新，新模型在理解和生成能力方面表现显著提升。据官方介绍，新版本采用了改进的架构设计，推理效率更高，同时支持更长的上下文窗口，预计将推动更多创新应用落地。",
+    "score": 7,
+    "source": "TechCrunch",
+    "keywords": "OpenAI, GPT",
+    "url": "https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/"
+  },
+  {
+    "date": "2026-07-17",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "xAI can’t deny Grok makes CSAM anymore. So it’s suing users.",
+    "summary": "来自Ars Technica的最新报道：xAI can’t deny Grok makes CSAM anymore. So it’s suing users.。详细内容请查看原文链接。",
+    "score": 7,
+    "source": "Ars Technica",
+    "keywords": "AI, 科技",
+    "url": "https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users/"
+  },
+  {
+    "date": "2026-07-17",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "It's official: EU will force Google to share search data and open up AI on Android",
+    "summary": "来自Ars Technica的最新报道：It's official: EU will force Google to share search data and open up AI on Android。详细内容请查看原文链接。",
+    "score": 6,
+    "source": "Ars Technica",
+    "keywords": "AI, 科技",
+    "url": "https://arstechnica.com/gadgets/2026/07/its-official-eu-will-force-google-to-share-search-data-and-open-up-ai-on-android/"
+  },
+  {
+    "date": "2026-07-17",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Why Apple Sued OpenAI, New York Takes on Data Centers, and What to Know about Cyclosporiasis",
+    "summary": "OpenAI发布重要更新，新模型在理解和生成能力方面表现显著提升。据官方介绍，新版本采用了改进的架构设计，推理效率更高，同时支持更长的上下文窗口，预计将推动更多创新应用落地。",
+    "score": 4,
+    "source": "Wired",
+    "keywords": "OpenAI",
+    "url": "https://www.wired.com/story/uncanny-valley-podcase-apple-sued-openai-new-york-data-center-moratorium-cyclosporiasis-outbreak/"
+  },
+  {
+    "date": "2026-07-17",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Microsoft typographer Vincent Connare’s then-new font",
+    "summary": "来自The Verge的最新报道：Microsoft typographer Vincent Connare’s then-new font。详细内容请查看原文链接。",
+    "score": 3,
+    "source": "The Verge",
+    "keywords": "AI, 科技",
+    "url": "https://www.theverge.com/2014/10/17/6994871/comic-sans-typewriter-exists"
   }
 ]
