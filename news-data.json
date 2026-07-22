@@ -1,60 +1,5 @@
 [
   {
-    "date": "2026-07-02",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "Meta, like SpaceX, looks to turn excess AI compute into cash",
-    "summary": "来自TechCrunch的最新报道：Meta, like SpaceX, looks to turn excess AI compute into cash。详细内容请查看原文链接。",
-    "score": 7,
-    "source": "TechCrunch",
-    "keywords": "AI, 科技",
-    "url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/"
-  },
-  {
-    "date": "2026-07-02",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "sticking Copilot in everything",
-    "summary": "来自The Verge的最新报道：sticking Copilot in everything。详细内容请查看原文链接。",
-    "score": 6,
-    "source": "The Verge",
-    "keywords": "AI, 科技",
-    "url": "https://www.theverge.com/2023/9/21/23883798/microsoft-copilot-unified-windows-11-apps-launch-date"
-  },
-  {
-    "date": "2026-07-02",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "Anthropic Added a New Security Measure to Get Back Into the Trump Administration’s Good Graces",
-    "summary": "Anthropic发布Claude系列模型更新，主打安全性和可控性。新模型引入改进的训练方法，在保持性能的同时降低有害输出风险，为AI安全领域提供新的技术参考。",
-    "score": 4,
-    "source": "Wired",
-    "keywords": "AI, 科技",
-    "url": "https://www.wired.com/story/anthropic-added-a-new-security-measure-to-get-back-into-the-trump-administrations-good-graces/"
-  },
-  {
-    "date": "2026-07-02",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "After spooking Trump into safety testing, Anthropic AI models get global release",
-    "summary": "Anthropic发布Claude系列模型更新，主打安全性和可控性。新模型引入改进的训练方法，在保持性能的同时降低有害输出风险，为AI安全领域提供新的技术参考。",
-    "score": 4,
-    "source": "Ars Technica",
-    "keywords": "AI, 科技",
-    "url": "https://arstechnica.com/tech-policy/2026/07/after-spooking-trump-into-safety-testing-anthropic-ai-models-get-global-release/"
-  },
-  {
-    "date": "2026-07-02",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "After $18B IPO, Bending Spoons founder says success comes from minimizing luck",
-    "summary": "来自TechCrunch的最新报道：After $18B IPO, Bending Spoons founder says success comes from minimizing luck。详细内容请查看原文链接。",
-    "score": 3,
-    "source": "TechCrunch",
-    "keywords": "AI, 科技",
-    "url": "https://techcrunch.com/2026/07/01/after-18b-ipo-bending-spoons-founder-says-success-comes-from-minimizing-luck/"
-  },
-  {
     "date": "2026-07-03",
     "time": "10:31",
     "type": "AI早报",
@@ -1098,5 +1043,60 @@
     "source": "Ars Technica",
     "keywords": "AI, 科技",
     "url": "https://arstechnica.com/cars/2026/07/f1-in-belgium-the-2026-cars-look-pathetic-on-all-the-best-racetracks/"
+  },
+  {
+    "date": "2026-07-22",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Google releases three new Gemini models — but no 3.5 Pro",
+    "summary": "来自TechCrunch的最新报道：Google releases three new Gemini models — but no 3.5 Pro。详细内容请查看原文链接。",
+    "score": 7,
+    "source": "TechCrunch",
+    "keywords": "AI, 科技",
+    "url": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/"
+  },
+  {
+    "date": "2026-07-22",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "OpenAI says Hugging Face was breached by its pre-release models",
+    "summary": "OpenAI发布重要更新，新模型在理解和生成能力方面表现显著提升。据官方介绍，新版本采用了改进的架构设计，推理效率更高，同时支持更长的上下文窗口，预计将推动更多创新应用落地。",
+    "score": 5,
+    "source": "TechCrunch",
+    "keywords": "OpenAI, 开源社区",
+    "url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/"
+  },
+  {
+    "date": "2026-07-22",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Anthropic’s $1.5B copyright settlement approved; only 350 authors opted out",
+    "summary": "Anthropic发布Claude系列模型更新，主打安全性和可控性。新模型引入改进的训练方法，在保持性能的同时降低有害输出风险，为AI安全领域提供新的技术参考。",
+    "score": 5,
+    "source": "Ars Technica",
+    "keywords": "AI, 科技",
+    "url": "https://arstechnica.com/tech-policy/2026/07/judge-approves-anthropics-1-5-billion-copyright-settlement-with-authors/"
+  },
+  {
+    "date": "2026-07-22",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "OpenAI Models Escaped Containment and Hacked Hugging Face",
+    "summary": "OpenAI发布重要更新，新模型在理解和生成能力方面表现显著提升。据官方介绍，新版本采用了改进的架构设计，推理效率更高，同时支持更长的上下文窗口，预计将推动更多创新应用落地。",
+    "score": 3,
+    "source": "Wired",
+    "keywords": "OpenAI, 开源社区",
+    "url": "https://www.wired.com/story/openai-models-escaped-containment-and-hacked-huggingface/"
+  },
+  {
+    "date": "2026-07-22",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Light made a flip phone — it's colorful and it's cheap",
+    "summary": "来自TechCrunch的最新报道：Light made a flip phone — it's colorful and it's cheap。详细内容请查看原文链接。",
+    "score": 2,
+    "source": "TechCrunch",
+    "keywords": "AI, 科技",
+    "url": "https://techcrunch.com/2026/07/21/light-is-modernizing-the-flip-phone-with-light-flip/"
   }
 ]
