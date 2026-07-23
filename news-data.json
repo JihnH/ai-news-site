@@ -1,60 +1,5 @@
 [
   {
-    "date": "2026-07-03",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
-    "summary": "来自TechCrunch的最新报道：Microsoft launches its own AI deployment company with $2.5 billion commitment。详细内容请查看原文链接。",
-    "score": 7,
-    "source": "TechCrunch",
-    "keywords": "AI, 科技",
-    "url": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/"
-  },
-  {
-    "date": "2026-07-03",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "Can Cursor Remain a Platform for OpenAI and Anthropic’s Models Inside SpaceX?",
-    "summary": "OpenAI发布重要更新，新模型在理解和生成能力方面表现显著提升。据官方介绍，新版本采用了改进的架构设计，推理效率更高，同时支持更长的上下文窗口，预计将推动更多创新应用落地。",
-    "score": 7,
-    "source": "Wired",
-    "keywords": "OpenAI",
-    "url": "https://www.wired.com/story/can-cursor-remain-an-open-platform-inside-of-spacex/"
-  },
-  {
-    "date": "2026-07-03",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
-    "summary": "OpenAI发布重要更新，新模型在理解和生成能力方面表现显著提升。据官方介绍，新版本采用了改进的架构设计，推理效率更高，同时支持更长的上下文窗口，预计将推动更多创新应用落地。",
-    "score": 5,
-    "source": "TechCrunch",
-    "keywords": "OpenAI",
-    "url": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/"
-  },
-  {
-    "date": "2026-07-03",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "Google loses long-running appeal of record EU fine, will have to cough up $4.7 billion",
-    "summary": "来自Ars Technica的最新报道：Google loses long-running appeal of record EU fine, will have to cough up $4.7 billion。详细内容请查看原文链接。",
-    "score": 5,
-    "source": "Ars Technica",
-    "keywords": "AI, 科技",
-    "url": "https://arstechnica.com/gadgets/2026/07/google-loses-long-running-appeal-of-record-eu-fine-will-have-to-cough-up-4-7-billion/"
-  },
-  {
-    "date": "2026-07-03",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "Trump gets OpenAI to offer US 5% stake, far lower than Sanders’ target",
-    "summary": "OpenAI发布重要更新，新模型在理解和生成能力方面表现显著提升。据官方介绍，新版本采用了改进的架构设计，推理效率更高，同时支持更长的上下文窗口，预计将推动更多创新应用落地。",
-    "score": 5,
-    "source": "Ars Technica",
-    "keywords": "OpenAI",
-    "url": "https://arstechnica.com/tech-policy/2026/07/openai-floats-giving-us-5-stake-to-win-over-ai-haters/"
-  },
-  {
     "date": "2026-07-04",
     "time": "10:31",
     "type": "AI早报",
@@ -1098,5 +1043,60 @@
     "source": "TechCrunch",
     "keywords": "AI, 科技",
     "url": "https://techcrunch.com/2026/07/21/light-is-modernizing-the-flip-phone-with-light-flip/"
+  },
+  {
+    "date": "2026-07-23",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "OpenAI says its AI agent broke out of testing sandbox to hack Hugging Face",
+    "summary": "OpenAI发布重要更新，新模型在理解和生成能力方面表现显著提升。据官方介绍，新版本采用了改进的架构设计，推理效率更高，同时支持更长的上下文窗口，预计将推动更多创新应用落地。",
+    "score": 7,
+    "source": "Ars Technica",
+    "keywords": "OpenAI, 开源社区",
+    "url": "https://arstechnica.com/ai/2026/07/how-an-openai-benchmark-test-turned-into-a-real-world-cyberattack/"
+  },
+  {
+    "date": "2026-07-23",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Google justifies its massive AI spending with a booming cloud business",
+    "summary": "来自TechCrunch的最新报道：Google justifies its massive AI spending with a booming cloud business。详细内容请查看原文链接。",
+    "score": 5,
+    "source": "TechCrunch",
+    "keywords": "AI, 科技",
+    "url": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/"
+  },
+  {
+    "date": "2026-07-23",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Travis Kalanick's robotics company raises $1.7B, led by a16z",
+    "summary": "来自TechCrunch的最新报道：Travis Kalanick's robotics company raises $1.7B, led by a16z。详细内容请查看原文链接。",
+    "score": 5,
+    "source": "TechCrunch",
+    "keywords": "AI, 科技",
+    "url": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/"
+  },
+  {
+    "date": "2026-07-23",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
+    "summary": "OpenAI发布重要更新，新模型在理解和生成能力方面表现显著提升。据官方介绍，新版本采用了改进的架构设计，推理效率更高，同时支持更长的上下文窗口，预计将推动更多创新应用落地。",
+    "score": 4,
+    "source": "TechCrunch",
+    "keywords": "OpenAI, 开源社区",
+    "url": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/"
+  },
+  {
+    "date": "2026-07-23",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "OpenAI's AI spending spree has ballooned to $750B",
+    "summary": "OpenAI发布重要更新，新模型在理解和生成能力方面表现显著提升。据官方介绍，新版本采用了改进的架构设计，推理效率更高，同时支持更长的上下文窗口，预计将推动更多创新应用落地。",
+    "score": 4,
+    "source": "TechCrunch",
+    "keywords": "OpenAI",
+    "url": "https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/"
   }
 ]
