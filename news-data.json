@@ -1,60 +1,5 @@
 [
   {
-    "date": "2026-07-04",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "A warning sign about AI’s real cost, courtesy of Google and Amazon",
-    "summary": "来自TechCrunch的最新报道：A warning sign about AI’s real cost, courtesy of Google and Amazon。详细内容请查看原文链接。",
-    "score": 4,
-    "source": "TechCrunch",
-    "keywords": "AI, 科技",
-    "url": "https://techcrunch.com/2026/07/02/a-warning-sign-about-ais-real-cost-courtesy-of-google-and-amazon/"
-  },
-  {
-    "date": "2026-07-04",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "Anthropic is discussing a new custom chip with Samsung",
-    "summary": "Anthropic发布Claude系列模型更新，主打安全性和可控性。新模型引入改进的训练方法，在保持性能的同时降低有害输出风险，为AI安全领域提供新的技术参考。",
-    "score": 4,
-    "source": "TechCrunch",
-    "keywords": "AI, 科技",
-    "url": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/"
-  },
-  {
-    "date": "2026-07-04",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari",
-    "summary": "来自TechCrunch的最新报道：The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari。详细内容请查看原文链接。",
-    "score": 3,
-    "source": "TechCrunch",
-    "keywords": "AI, 科技",
-    "url": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/"
-  },
-  {
-    "date": "2026-07-04",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "Google DeepMind Unionization Talks Are Off to a Rocky Start",
-    "summary": "DeepMind团队发布新一代模型，准确度较前代有显著提升。该成果已开源或公开发布，预计将加速相关领域的研究进程和新应用开发。",
-    "score": 3,
-    "source": "Wired",
-    "keywords": "DeepMind",
-    "url": "https://www.wired.com/story/google-deepmind-unionization-talks-are-off-to-a-rocky-start/"
-  },
-  {
-    "date": "2026-07-04",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "Inside the Luddite festival harnessing Gen Z’s rage against Big Tech",
-    "summary": "来自Ars Technica的最新报道：Inside the Luddite festival harnessing Gen Z’s rage against Big Tech。详细内容请查看原文链接。",
-    "score": 2,
-    "source": "Ars Technica",
-    "keywords": "AI, 科技",
-    "url": "https://arstechnica.com/culture/2026/07/inside-the-luddite-festival-harnessing-gen-zs-rage-against-big-tech/"
-  },
-  {
     "date": "2026-07-05",
     "time": "10:31",
     "type": "AI早报",
@@ -1098,5 +1043,60 @@
     "source": "TechCrunch",
     "keywords": "OpenAI",
     "url": "https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/"
+  },
+  {
+    "date": "2026-07-24",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Google hit with $1 billion in fines as EU braces for Trump battle",
+    "summary": "来自Ars Technica的最新报道：Google hit with $1 billion in fines as EU braces for Trump battle。详细内容请查看原文链接。",
+    "score": 5,
+    "source": "Ars Technica",
+    "keywords": "AI, 科技",
+    "url": "https://arstechnica.com/tech-policy/2026/07/google-hit-with-1-billion-in-fines-as-eu-braces-for-trump-battle/"
+  },
+  {
+    "date": "2026-07-24",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Meta drops out of a major clean energy pact as its natural gas buildout accelerates",
+    "summary": "来自TechCrunch的最新报道：Meta drops out of a major clean energy pact as its natural gas buildout accelerates。详细内容请查看原文链接。",
+    "score": 4,
+    "source": "TechCrunch",
+    "keywords": "AI, 科技",
+    "url": "https://techcrunch.com/2026/07/23/meta-drops-out-of-a-major-clean-energy-pact-as-its-natural-gas-buildout-accelerates/"
+  },
+  {
+    "date": "2026-07-24",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Tesla's robotaxis are moving in reverse",
+    "summary": "来自TechCrunch的最新报道：Tesla's robotaxis are moving in reverse。详细内容请查看原文链接。",
+    "score": 4,
+    "source": "TechCrunch",
+    "keywords": "AI, 科技",
+    "url": "https://techcrunch.com/2026/07/23/teslas-robotaxis-are-moving-in-reverse/"
+  },
+  {
+    "date": "2026-07-24",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Meta launched a new AI optimism ad set to a song about human extinction",
+    "summary": "来自TechCrunch的最新报道：Meta launched a new AI optimism ad set to a song about human extinction。详细内容请查看原文链接。",
+    "score": 4,
+    "source": "TechCrunch",
+    "keywords": "AI, 科技",
+    "url": "https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/"
+  },
+  {
+    "date": "2026-07-24",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Meta’s New Feel-Good AI Ad Uses a Song About the World Ending",
+    "summary": "来自Wired的最新报道：Meta’s New Feel-Good AI Ad Uses a Song About the World Ending。详细内容请查看原文链接。",
+    "score": 4,
+    "source": "Wired",
+    "keywords": "AI, 科技",
+    "url": "https://www.wired.com/story/meta-david-bowie-apocalypse-ad-is-optimistic-actually/"
   }
 ]
