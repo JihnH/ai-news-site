@@ -1,60 +1,5 @@
 [
   {
-    "date": "2026-07-07",
-    "time": "10:30",
-    "type": "AI早报",
-    "title": "Secret Claude tracker shocks users after Anthropic’s anti-surveillance stance",
-    "summary": "Anthropic发布Claude系列模型更新，主打安全性和可控性。新模型引入改进的训练方法，在保持性能的同时降低有害输出风险，为AI安全领域提供新的技术参考。",
-    "score": 7,
-    "source": "Ars Technica",
-    "keywords": "Claude",
-    "url": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/"
-  },
-  {
-    "date": "2026-07-07",
-    "time": "10:30",
-    "type": "AI早报",
-    "title": "Vercel CEO Guillermo Rauch on the fight to split off models from agents",
-    "summary": "来自TechCrunch的最新报道：Vercel CEO Guillermo Rauch on the fight to split off models from agents。详细内容请查看原文链接。",
-    "score": 4,
-    "source": "TechCrunch",
-    "keywords": "AI, 科技",
-    "url": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/"
-  },
-  {
-    "date": "2026-07-07",
-    "time": "10:30",
-    "type": "AI早报",
-    "title": "F1 in Britain: Automated software to blame for crushing expectations",
-    "summary": "来自Ars Technica的最新报道：F1 in Britain: Automated software to blame for crushing expectations。详细内容请查看原文链接。",
-    "score": 4,
-    "source": "Ars Technica",
-    "keywords": "AI, 科技",
-    "url": "https://arstechnica.com/cars/2026/07/f1-in-britain-automated-software-to-blame-for-crushing-expectations/"
-  },
-  {
-    "date": "2026-07-07",
-    "time": "10:30",
-    "type": "AI早报",
-    "title": "Reddit is using LLMs to solve a problem LLMs largely created",
-    "summary": "来自TechCrunch的最新报道：Reddit is using LLMs to solve a problem LLMs largely created。详细内容请查看原文链接。",
-    "score": 3,
-    "source": "TechCrunch",
-    "keywords": "AI, 科技",
-    "url": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/"
-  },
-  {
-    "date": "2026-07-07",
-    "time": "10:30",
-    "type": "AI早报",
-    "title": "The incredible shrinking Xbox: Five studios, 3,200 employees let go",
-    "summary": "来自Ars Technica的最新报道：The incredible shrinking Xbox: Five studios, 3,200 employees let go。详细内容请查看原文链接。",
-    "score": 3,
-    "source": "Ars Technica",
-    "keywords": "AI, 科技",
-    "url": "https://arstechnica.com/gaming/2026/07/the-incredible-shrinking-xbox-five-studios-3200-employees-let-go/"
-  },
-  {
     "date": "2026-07-08",
     "time": "10:31",
     "type": "AI早报",
@@ -1098,5 +1043,60 @@
     "source": "TechCrunch",
     "keywords": "AI, 科技",
     "url": "https://techcrunch.com/2026/07/24/rivian-sues-the-us-government-for-full-refund-of-trump-tariffs/"
+  },
+  {
+    "date": "2026-07-27",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
+    "summary": "OpenAI发布重要更新，新模型在理解和生成能力方面表现显著提升。据官方介绍，新版本采用了改进的架构设计，推理效率更高，同时支持更长的上下文窗口，预计将推动更多创新应用落地。",
+    "score": 7,
+    "source": "TechCrunch",
+    "keywords": "OpenAI, 开源社区",
+    "url": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/"
+  },
+  {
+    "date": "2026-07-27",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "China-US AI Race Escalates, OpenAI Models Break Free, and Why You Should Check Your Car Alarm",
+    "summary": "OpenAI发布重要更新，新模型在理解和生成能力方面表现显著提升。据官方介绍，新版本采用了改进的架构设计，推理效率更高，同时支持更长的上下文窗口，预计将推动更多创新应用落地。",
+    "score": 7,
+    "source": "Wired",
+    "keywords": "OpenAI",
+    "url": "https://www.wired.com/story/uncanny-valley-podcast/"
+  },
+  {
+    "date": "2026-07-27",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Canadian legislator reads out apparent LLM response in floor speech",
+    "summary": "来自Ars Technica的最新报道：Canadian legislator reads out apparent LLM response in floor speech。详细内容请查看原文链接。",
+    "score": 5,
+    "source": "Ars Technica",
+    "keywords": "AI, 科技",
+    "url": "https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/"
+  },
+  {
+    "date": "2026-07-27",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Microsoft Word",
+    "summary": "来自The Verge的最新报道：Microsoft Word。详细内容请查看原文链接。",
+    "score": 3,
+    "source": "The Verge",
+    "keywords": "AI, 科技",
+    "url": "https://www.theverge.com/2025/1/20/24347779/doom-is-now-playable-in-microsoft-word"
+  },
+  {
+    "date": "2026-07-27",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Big Tech accused of stonewalling European social media researchers",
+    "summary": "来自Ars Technica的最新报道：Big Tech accused of stonewalling European social media researchers。详细内容请查看原文链接。",
+    "score": 3,
+    "source": "Ars Technica",
+    "keywords": "AI, 科技",
+    "url": "https://arstechnica.com/tech-policy/2026/07/big-tech-accused-of-stonewalling-european-social-media-researchers/"
   }
 ]
