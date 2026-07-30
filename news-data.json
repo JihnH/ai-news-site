@@ -1,60 +1,5 @@
 [
   {
-    "date": "2026-07-10",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "OpenAI launches its new family of models with GPT-5.6",
-    "summary": "OpenAI发布重要更新，新模型在理解和生成能力方面表现显著提升。据官方介绍，新版本采用了改进的架构设计，推理效率更高，同时支持更长的上下文窗口，预计将推动更多创新应用落地。",
-    "score": 7,
-    "source": "TechCrunch",
-    "keywords": "OpenAI, GPT",
-    "url": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/"
-  },
-  {
-    "date": "2026-07-10",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "Nvidia is a victim of the compute marketplace it created",
-    "summary": "来自TechCrunch的最新报道：Nvidia is a victim of the compute marketplace it created。详细内容请查看原文链接。",
-    "score": 7,
-    "source": "TechCrunch",
-    "keywords": "AI, 科技",
-    "url": "https://techcrunch.com/2026/07/09/nvidia-is-a-victim-of-the-compute-marketplace-it-created/"
-  },
-  {
-    "date": "2026-07-10",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "How did the government decide OpenAI's frontier model was safe to release?",
-    "summary": "OpenAI发布重要更新，新模型在理解和生成能力方面表现显著提升。据官方介绍，新版本采用了改进的架构设计，推理效率更高，同时支持更长的上下文窗口，预计将推动更多创新应用落地。",
-    "score": 7,
-    "source": "TechCrunch",
-    "keywords": "OpenAI",
-    "url": "https://techcrunch.com/2026/07/09/how-did-the-government-decide-openais-frontier-model-was-safe-to-release/"
-  },
-  {
-    "date": "2026-07-10",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "Anthropic Wants You to Pay Up for Claude Fable 5",
-    "summary": "Anthropic发布Claude系列模型更新，主打安全性和可控性。新模型引入改进的训练方法，在保持性能的同时降低有害输出风险，为AI安全领域提供新的技术参考。",
-    "score": 7,
-    "source": "Wired",
-    "keywords": "Claude",
-    "url": "https://www.wired.com/story/model-behavior-anthropic-will-charge-consumers-extra-to-use-claude-fable-5/"
-  },
-  {
-    "date": "2026-07-10",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "OpenAI’s CEO of AGI Deployment, Fidji Simo, Is Stepping Down",
-    "summary": "OpenAI发布重要更新，新模型在理解和生成能力方面表现显著提升。据官方介绍，新版本采用了改进的架构设计，推理效率更高，同时支持更长的上下文窗口，预计将推动更多创新应用落地。",
-    "score": 6,
-    "source": "Wired",
-    "keywords": "OpenAI",
-    "url": "https://www.wired.com/story/fidji-simo-ceo-agi-deployment-openai/"
-  },
-  {
     "date": "2026-07-11",
     "time": "10:31",
     "type": "AI早报",
@@ -1098,5 +1043,60 @@
     "source": "Ars Technica",
     "keywords": "AI, 科技",
     "url": "https://arstechnica.com/ai/2026/07/despite-ai-hype-googles-data-shows-workers-arent-automating-themselves-away/"
+  },
+  {
+    "date": "2026-07-30",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Zuckerberg says Meta's enterprise AI opportunity extends beyond agents",
+    "summary": "来自TechCrunch的最新报道：Zuckerberg says Meta's enterprise AI opportunity extends beyond agents。详细内容请查看原文链接。",
+    "score": 7,
+    "source": "TechCrunch",
+    "keywords": "AI, 科技",
+    "url": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/"
+  },
+  {
+    "date": "2026-07-30",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Elon Musk’s xAI is trying to sue its way out of a Grok reckoning",
+    "summary": "来自Ars Technica的最新报道：Elon Musk’s xAI is trying to sue its way out of a Grok reckoning。详细内容请查看原文链接。",
+    "score": 7,
+    "source": "Ars Technica",
+    "keywords": "AI, 科技",
+    "url": "https://arstechnica.com/tech-policy/2026/07/elon-musks-xai-is-trying-to-sue-its-way-out-of-a-grok-reckoning/"
+  },
+  {
+    "date": "2026-07-30",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Mythos attack on 3rd-round PQC algorithm candidate puts it out of commission",
+    "summary": "来自Ars Technica的最新报道：Mythos attack on 3rd-round PQC algorithm candidate puts it out of commission。详细内容请查看原文链接。",
+    "score": 6,
+    "source": "Ars Technica",
+    "keywords": "AI, 科技",
+    "url": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/"
+  },
+  {
+    "date": "2026-07-30",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
+    "summary": "Anthropic发布Claude系列模型更新，主打安全性和可控性。新模型引入改进的训练方法，在保持性能的同时降低有害输出风险，为AI安全领域提供新的技术参考。",
+    "score": 5,
+    "source": "TechCrunch",
+    "keywords": "Claude",
+    "url": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/"
+  },
+  {
+    "date": "2026-07-30",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
+    "summary": "来自TechCrunch的最新报道：Mark Zuckerberg predicts that billions of people will have personal AI agents in five years。详细内容请查看原文链接。",
+    "score": 4,
+    "source": "TechCrunch",
+    "keywords": "AI, 科技",
+    "url": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/"
   }
 ]
