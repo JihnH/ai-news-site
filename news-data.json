@@ -1,60 +1,5 @@
 [
   {
-    "date": "2026-07-11",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "Meta removes controversial AI feature on Instagram after backlash",
-    "summary": "来自TechCrunch的最新报道：Meta removes controversial AI feature on Instagram after backlash。详细内容请查看原文链接。",
-    "score": 4,
-    "source": "TechCrunch",
-    "keywords": "AI, 科技",
-    "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/"
-  },
-  {
-    "date": "2026-07-11",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "Microsoft Reports a Massive 25 Percent Jump in Emissions",
-    "summary": "来自Wired的最新报道：Microsoft Reports a Massive 25 Percent Jump in Emissions。详细内容请查看原文链接。",
-    "score": 4,
-    "source": "Wired",
-    "keywords": "AI, 科技",
-    "url": "https://www.wired.com/story/microsoft-25-percent-jump-in-carbon-emissions/"
-  },
-  {
-    "date": "2026-07-11",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "Maine’s Senate Race Implodes, Meta’s Threads Rivals Musk’s X, and the Trump Phone Arrives",
-    "summary": "来自Wired的最新报道：Maine’s Senate Race Implodes, Meta’s Threads Rivals Musk’s X, and the Trump Phone Arrives。详细内容请查看原文链接。",
-    "score": 4,
-    "source": "Wired",
-    "keywords": "AI, 科技",
-    "url": "https://www.wired.com/story/uncanny-valley-podcast-maine-senate-race-implodes-meta-threads-trump-phone-arrives/"
-  },
-  {
-    "date": "2026-07-11",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "Apple sues OpenAI over alleged trade secret theft",
-    "summary": "OpenAI发布重要更新，新模型在理解和生成能力方面表现显著提升。据官方介绍，新版本采用了改进的架构设计，推理效率更高，同时支持更长的上下文窗口，预计将推动更多创新应用落地。",
-    "score": 3,
-    "source": "TechCrunch",
-    "keywords": "OpenAI",
-    "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/"
-  },
-  {
-    "date": "2026-07-11",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "OpenAI’s Head of Safety Is Leaving the Company",
-    "summary": "OpenAI发布重要更新，新模型在理解和生成能力方面表现显著提升。据官方介绍，新版本采用了改进的架构设计，推理效率更高，同时支持更长的上下文窗口，预计将推动更多创新应用落地。",
-    "score": 3,
-    "source": "Wired",
-    "keywords": "OpenAI",
-    "url": "https://www.wired.com/story/openai-head-of-safety-leaving/"
-  },
-  {
     "date": "2026-07-12",
     "time": "10:31",
     "type": "AI早报",
@@ -1098,5 +1043,60 @@
     "source": "TechCrunch",
     "keywords": "AI, 科技",
     "url": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/"
+  },
+  {
+    "date": "2026-07-31",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Anthropic Says Claude Hacked Real Systems During Cybersecurity Tests",
+    "summary": "Anthropic发布Claude系列模型更新，主打安全性和可控性。新模型引入改进的训练方法，在保持性能的同时降低有害输出风险，为AI安全领域提供新的技术参考。",
+    "score": 7,
+    "source": "Wired",
+    "keywords": "Claude",
+    "url": "https://www.wired.com/story/anthropic-says-claude-hacked-real-systems-during-cybersecurity-tests/"
+  },
+  {
+    "date": "2026-07-31",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Everyone Is Freaking Out About OpenAI and Anthropic’s Race for Dominance",
+    "summary": "OpenAI发布重要更新，新模型在理解和生成能力方面表现显著提升。据官方介绍，新版本采用了改进的架构设计，推理效率更高，同时支持更长的上下文窗口，预计将推动更多创新应用落地。",
+    "score": 7,
+    "source": "Wired",
+    "keywords": "OpenAI",
+    "url": "https://www.wired.com/story/everyone-is-freaking-out-about-openai-and-anthropics-race-for-dominance/"
+  },
+  {
+    "date": "2026-07-31",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Google’s Gemini Can Now Stomp Around as a Humanoid Robot",
+    "summary": "来自Wired的最新报道：Google’s Gemini Can Now Stomp Around as a Humanoid Robot。详细内容请查看原文链接。",
+    "score": 7,
+    "source": "Wired",
+    "keywords": "AI, 科技",
+    "url": "https://www.wired.com/story/google-gemini-can-control-humanoid-robots/"
+  },
+  {
+    "date": "2026-07-31",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Nvidia’s Open Source Alliance Is Missing Some Key Names: OpenAI and Anthropic",
+    "summary": "OpenAI发布重要更新，新模型在理解和生成能力方面表现显著提升。据官方介绍，新版本采用了改进的架构设计，推理效率更高，同时支持更长的上下文窗口，预计将推动更多创新应用落地。",
+    "score": 7,
+    "source": "Wired",
+    "keywords": "OpenAI",
+    "url": "https://www.wired.com/story/nvidias-open-source-alliance-snubs-openai-and-anthropic/"
+  },
+  {
+    "date": "2026-07-31",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Mythos attack on 3rd-round PQC algorithm candidate puts it out of commission",
+    "summary": "来自Ars Technica的最新报道：Mythos attack on 3rd-round PQC algorithm candidate puts it out of commission。详细内容请查看原文链接。",
+    "score": 6,
+    "source": "Ars Technica",
+    "keywords": "AI, 科技",
+    "url": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/"
   }
 ]
