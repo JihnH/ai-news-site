@@ -1,60 +1,5 @@
 [
   {
-    "date": "2026-07-13",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "Meta removes controversial AI feature on Instagram after backlash",
-    "summary": "来自TechCrunch的最新报道：Meta removes controversial AI feature on Instagram after backlash。详细内容请查看原文链接。",
-    "score": 4,
-    "source": "TechCrunch",
-    "keywords": "AI, 科技",
-    "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/"
-  },
-  {
-    "date": "2026-07-13",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "Uber’s Autonomous Vehicle Strategy: Slow Their Adoption",
-    "summary": "来自Wired的最新报道：Uber’s Autonomous Vehicle Strategy: Slow Their Adoption。详细内容请查看原文链接。",
-    "score": 4,
-    "source": "Wired",
-    "keywords": "AI, 科技",
-    "url": "https://www.wired.com/story/ubers-autonomous-vehicle-strategy-slow-their-adoption/"
-  },
-  {
-    "date": "2026-07-13",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "Maine’s Senate Race Implodes, Meta’s Threads Rivals Musk’s X, and the Trump Phone Arrives",
-    "summary": "来自Wired的最新报道：Maine’s Senate Race Implodes, Meta’s Threads Rivals Musk’s X, and the Trump Phone Arrives。详细内容请查看原文链接。",
-    "score": 4,
-    "source": "Wired",
-    "keywords": "AI, 科技",
-    "url": "https://www.wired.com/story/uncanny-valley-podcast-maine-senate-race-implodes-meta-threads-trump-phone-arrives/"
-  },
-  {
-    "date": "2026-07-13",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "Apple sues OpenAI over alleged trade secret theft",
-    "summary": "OpenAI发布重要更新，新模型在理解和生成能力方面表现显著提升。据官方介绍，新版本采用了改进的架构设计，推理效率更高，同时支持更长的上下文窗口，预计将推动更多创新应用落地。",
-    "score": 3,
-    "source": "TechCrunch",
-    "keywords": "OpenAI",
-    "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/"
-  },
-  {
-    "date": "2026-07-13",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "The real mystery behind Moana: After 1,700 years, why did Polynesians suddenly sail east?",
-    "summary": "来自Ars Technica的最新报道：The real mystery behind Moana: After 1,700 years, why did Polynesians suddenly sail east?。详细内容请查看原文链接。",
-    "score": 3,
-    "source": "Ars Technica",
-    "keywords": "AI, 科技",
-    "url": "https://arstechnica.com/culture/2026/07/the-real-mystery-behind-moana-after-1700-years-why-did-polynesians-suddenly-sail-east/"
-  },
-  {
     "date": "2026-07-14",
     "time": "10:31",
     "type": "AI早报",
@@ -1098,5 +1043,60 @@
     "source": "Ars Technica",
     "keywords": "AI, 科技",
     "url": "https://arstechnica.com/tech-policy/2026/07/reddit-keeps-weird-dmca-lawsuit-against-web-scraper-alive-despite-googles-loss/"
+  },
+  {
+    "date": "2026-08-02",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Sam Altman is still making the case for parenting via ChatGPT",
+    "summary": "OpenAI发布重要更新，新模型在理解和生成能力方面表现显著提升。据官方介绍，新版本采用了改进的架构设计，推理效率更高，同时支持更长的上下文窗口，预计将推动更多创新应用落地。",
+    "score": 7,
+    "source": "TechCrunch",
+    "keywords": "GPT",
+    "url": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/"
+  },
+  {
+    "date": "2026-08-02",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "The OpenAI and Anthropic AI Hacking Sprees Are a Messy New Legal Frontier",
+    "summary": "OpenAI发布重要更新，新模型在理解和生成能力方面表现显著提升。据官方介绍，新版本采用了改进的架构设计，推理效率更高，同时支持更长的上下文窗口，预计将推动更多创新应用落地。",
+    "score": 7,
+    "source": "Wired",
+    "keywords": "OpenAI",
+    "url": "https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal/"
+  },
+  {
+    "date": "2026-08-02",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Nvidia’s Open Source Alliance Is Missing Some Key Names: OpenAI and Anthropic",
+    "summary": "OpenAI发布重要更新，新模型在理解和生成能力方面表现显著提升。据官方介绍，新版本采用了改进的架构设计，推理效率更高，同时支持更长的上下文窗口，预计将推动更多创新应用落地。",
+    "score": 7,
+    "source": "Wired",
+    "keywords": "OpenAI",
+    "url": "https://www.wired.com/story/nvidias-open-source-alliance-snubs-openai-and-anthropic/"
+  },
+  {
+    "date": "2026-08-02",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Uber is building an autonomous vehicle empire, and here's every company it's using to do it",
+    "summary": "来自TechCrunch的最新报道：Uber is building an autonomous vehicle empire, and here's every company it's using to do it。详细内容请查看原文链接。",
+    "score": 5,
+    "source": "TechCrunch",
+    "keywords": "AI, 科技",
+    "url": "https://techcrunch.com/2026/08/01/ubers-autonomous-vehicle-deal-tracker/"
+  },
+  {
+    "date": "2026-08-02",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "As Reddit stock falls, CEO questions value of Google's AI Overviews",
+    "summary": "来自Ars Technica的最新报道：As Reddit stock falls, CEO questions value of Google's AI Overviews。详细内容请查看原文链接。",
+    "score": 4,
+    "source": "Ars Technica",
+    "keywords": "AI, 科技",
+    "url": "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/"
   }
 ]
