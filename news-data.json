@@ -1,60 +1,5 @@
 [
   {
-    "date": "2026-07-15",
-    "time": "10:30",
-    "type": "AI早报",
-    "title": "The Chatbot That Foretold Why People Share Secrets With ChatGPT",
-    "summary": "OpenAI发布重要更新，新模型在理解和生成能力方面表现显著提升。据官方介绍，新版本采用了改进的架构设计，推理效率更高，同时支持更长的上下文窗口，预计将推动更多创新应用落地。",
-    "score": 7,
-    "source": "Wired",
-    "keywords": "GPT",
-    "url": "https://www.wired.com/story/inventing-eliza-book-excerpt-chatbot/"
-  },
-  {
-    "date": "2026-07-15",
-    "time": "10:30",
-    "type": "AI早报",
-    "title": "Google revamps image search for its 25th anniversary with more images and more AI",
-    "summary": "来自Ars Technica的最新报道：Google revamps image search for its 25th anniversary with more images and more AI。详细内容请查看原文链接。",
-    "score": 6,
-    "source": "Ars Technica",
-    "keywords": "AI, 科技",
-    "url": "https://arstechnica.com/google/2026/07/google-revamps-image-search-for-its-25th-anniversary-with-more-images-and-more-ai/"
-  },
-  {
-    "date": "2026-07-15",
-    "time": "10:30",
-    "type": "AI早报",
-    "title": "OpenAI's new flagship model deletes files on its own, people keep warning",
-    "summary": "OpenAI发布重要更新，新模型在理解和生成能力方面表现显著提升。据官方介绍，新版本采用了改进的架构设计，推理效率更高，同时支持更长的上下文窗口，预计将推动更多创新应用落地。",
-    "score": 5,
-    "source": "TechCrunch",
-    "keywords": "OpenAI",
-    "url": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/"
-  },
-  {
-    "date": "2026-07-15",
-    "time": "10:30",
-    "type": "AI早报",
-    "title": "Anthropic's newest ad is creeping people out",
-    "summary": "Anthropic发布Claude系列模型更新，主打安全性和可控性。新模型引入改进的训练方法，在保持性能的同时降低有害输出风险，为AI安全领域提供新的技术参考。",
-    "score": 4,
-    "source": "TechCrunch",
-    "keywords": "AI, 科技",
-    "url": "https://techcrunch.com/2026/07/14/anthropics-newest-ad-is-creeping-people-out/"
-  },
-  {
-    "date": "2026-07-15",
-    "time": "10:30",
-    "type": "AI早报",
-    "title": "DeepMind CEO calls for an independent standards body to regulate frontier AI",
-    "summary": "DeepMind团队发布新一代模型，准确度较前代有显著提升。该成果已开源或公开发布，预计将加速相关领域的研究进程和新应用开发。",
-    "score": 4,
-    "source": "TechCrunch",
-    "keywords": "DeepMind",
-    "url": "https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/"
-  },
-  {
     "date": "2026-07-16",
     "time": "10:31",
     "type": "AI早报",
@@ -1098,5 +1043,60 @@
     "source": "TechCrunch",
     "keywords": "AI, 科技",
     "url": "https://techcrunch.com/2026/08/02/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/"
+  },
+  {
+    "date": "2026-08-04",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Who's legally to blame for Anthropic and OpenAI's autonomous AI hacks? It's complicated",
+    "summary": "OpenAI发布重要更新，新模型在理解和生成能力方面表现显著提升。据官方介绍，新版本采用了改进的架构设计，推理效率更高，同时支持更长的上下文窗口，预计将推动更多创新应用落地。",
+    "score": 7,
+    "source": "TechCrunch",
+    "keywords": "OpenAI",
+    "url": "https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated/"
+  },
+  {
+    "date": "2026-08-04",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Nvidia’s Open Source Alliance Is Missing Some Key Names: OpenAI and Anthropic",
+    "summary": "OpenAI发布重要更新，新模型在理解和生成能力方面表现显著提升。据官方介绍，新版本采用了改进的架构设计，推理效率更高，同时支持更长的上下文窗口，预计将推动更多创新应用落地。",
+    "score": 7,
+    "source": "Wired",
+    "keywords": "OpenAI",
+    "url": "https://www.wired.com/story/nvidias-open-source-alliance-snubs-openai-and-anthropic/"
+  },
+  {
+    "date": "2026-08-04",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Research roundup: 6 cool science stories we almost missed",
+    "summary": "来自Ars Technica的最新报道：Research roundup: 6 cool science stories we almost missed。详细内容请查看原文链接。",
+    "score": 3,
+    "source": "Ars Technica",
+    "keywords": "AI, 科技",
+    "url": "https://arstechnica.com/science/2026/08/research-roundup-6-cool-science-stories-we-almost-missed-5/"
+  },
+  {
+    "date": "2026-08-04",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Samsung bans smart TV apps that share users' internet connections with strangers",
+    "summary": "来自TechCrunch的最新报道：Samsung bans smart TV apps that share users' internet connections with strangers。详细内容请查看原文链接。",
+    "score": 2,
+    "source": "TechCrunch",
+    "keywords": "AI, 科技",
+    "url": "https://techcrunch.com/2026/08/03/samsung-bans-smart-tv-apps-that-share-users-internet-connections-with-strangers/"
+  },
+  {
+    "date": "2026-08-04",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Horizon3 hits $2 billion valuation with $250M Series E as AI threats escalate",
+    "summary": "来自TechCrunch的最新报道：Horizon3 hits $2 billion valuation with $250M Series E as AI threats escalate。详细内容请查看原文链接。",
+    "score": 2,
+    "source": "TechCrunch",
+    "keywords": "AI, 科技",
+    "url": "https://techcrunch.com/2026/08/03/horizon3-hits-2-billion-valuation-with-250m-series-e-as-ai-threats-escalate/"
   }
 ]
