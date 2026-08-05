@@ -1,60 +1,5 @@
 [
   {
-    "date": "2026-07-16",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "Google’s biggest clean power project is 40 miles north of xAI’s unpermitted gas power plant",
-    "summary": "来自TechCrunch的最新报道：Google’s biggest clean power project is 40 miles north of xAI’s unpermitted gas power plant。详细内容请查看原文链接。",
-    "score": 7,
-    "source": "TechCrunch",
-    "keywords": "AI, 科技",
-    "url": "https://techcrunch.com/2026/07/15/googles-biggest-clean-power-project-is-40-miles-north-of-xais-unpermitted-gas-power-plant/"
-  },
-  {
-    "date": "2026-07-16",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "Engineer identifies and explains every '90s computer seen in Jurassic Park",
-    "summary": "来自Ars Technica的最新报道：Engineer identifies and explains every '90s computer seen in Jurassic Park。详细内容请查看原文链接。",
-    "score": 6,
-    "source": "Ars Technica",
-    "keywords": "AI, 科技",
-    "url": "https://arstechnica.com/gadgets/2026/07/engineer-identifies-and-explains-every-90s-computer-seen-in-jurassic-park/"
-  },
-  {
-    "date": "2026-07-16",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "Windows 0-day drops the same day Microsoft releases record number of patches",
-    "summary": "来自Ars Technica的最新报道：Windows 0-day drops the same day Microsoft releases record number of patches。详细内容请查看原文链接。",
-    "score": 5,
-    "source": "Ars Technica",
-    "keywords": "AI, 科技",
-    "url": "https://arstechnica.com/security/2026/07/windows-0-day-drops-the-same-day-microsoft-releases-record-number-of-patches/"
-  },
-  {
-    "date": "2026-07-16",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models",
-    "summary": "Anthropic发布Claude系列模型更新，主打安全性和可控性。新模型引入改进的训练方法，在保持性能的同时降低有害输出风险，为AI安全领域提供新的技术参考。",
-    "score": 4,
-    "source": "TechCrunch",
-    "keywords": "AI, 科技",
-    "url": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/"
-  },
-  {
-    "date": "2026-07-16",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "Vint Cerf is working on a plan to unleash AI agents on the open internet",
-    "summary": "来自TechCrunch的最新报道：Vint Cerf is working on a plan to unleash AI agents on the open internet。详细内容请查看原文链接。",
-    "score": 4,
-    "source": "TechCrunch",
-    "keywords": "AI, 科技",
-    "url": "https://techcrunch.com/2026/07/15/vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet/"
-  },
-  {
     "date": "2026-07-17",
     "time": "10:31",
     "type": "AI早报",
@@ -1098,5 +1043,60 @@
     "source": "TechCrunch",
     "keywords": "AI, 科技",
     "url": "https://techcrunch.com/2026/08/03/horizon3-hits-2-billion-valuation-with-250m-series-e-as-ai-threats-escalate/"
+  },
+  {
+    "date": "2026-08-05",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "SpaceX doubles revenue on Anthropic and Google compute deals, Starlink growth",
+    "summary": "Anthropic发布Claude系列模型更新，主打安全性和可控性。新模型引入改进的训练方法，在保持性能的同时降低有害输出风险，为AI安全领域提供新的技术参考。",
+    "score": 7,
+    "source": "TechCrunch",
+    "keywords": "AI, 科技",
+    "url": "https://techcrunch.com/2026/08/04/spacex-doubles-revenues-on-anthropic-and-google-compute-deals-starlink-growth/"
+  },
+  {
+    "date": "2026-08-05",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Anthropic signs $10B deal with AI cloud startup Volta",
+    "summary": "Anthropic发布Claude系列模型更新，主打安全性和可控性。新模型引入改进的训练方法，在保持性能的同时降低有害输出风险，为AI安全领域提供新的技术参考。",
+    "score": 6,
+    "source": "TechCrunch",
+    "keywords": "AI, 科技",
+    "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/"
+  },
+  {
+    "date": "2026-08-05",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Lucid's turnaround plan hinges on $1.4B in cash savings, robotaxis",
+    "summary": "来自TechCrunch的最新报道：Lucid's turnaround plan hinges on $1.4B in cash savings, robotaxis。详细内容请查看原文链接。",
+    "score": 5,
+    "source": "TechCrunch",
+    "keywords": "AI, 科技",
+    "url": "https://techcrunch.com/2026/08/04/lucids-turnaround-plan-hinges-on-1-4b-in-cash-savings-robotaxis/"
+  },
+  {
+    "date": "2026-08-05",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
+    "summary": "来自TechCrunch的最新报道：Elon Musk spends half his time talking robots and AI on Tesla earnings calls。详细内容请查看原文链接。",
+    "score": 5,
+    "source": "TechCrunch",
+    "keywords": "AI, 科技",
+    "url": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/"
+  },
+  {
+    "date": "2026-08-05",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "The Real Story Behind the 2018 Google Walkout",
+    "summary": "来自Wired的最新报道：The Real Story Behind the 2018 Google Walkout。详细内容请查看原文链接。",
+    "score": 4,
+    "source": "Wired",
+    "keywords": "AI, 科技",
+    "url": "https://www.wired.com/story/2018-google-walkout-dont-be-evil-claire-stapleton/"
   }
 ]
