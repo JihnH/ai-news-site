@@ -1,60 +1,5 @@
 [
   {
-    "date": "2026-07-18",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "Agility Robotics plants its flag in Tesla's backyard",
-    "summary": "来自TechCrunch的最新报道：Agility Robotics plants its flag in Tesla's backyard。详细内容请查看原文链接。",
-    "score": 7,
-    "source": "TechCrunch",
-    "keywords": "AI, 科技",
-    "url": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/"
-  },
-  {
-    "date": "2026-07-18",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "Vertu wants executives to pay $6,880 for an AI agent — here's how it actually performs",
-    "summary": "来自TechCrunch的最新报道：Vertu wants executives to pay $6,880 for an AI agent — here's how it actually performs。详细内容请查看原文链接。",
-    "score": 5,
-    "source": "TechCrunch",
-    "keywords": "AI, 科技",
-    "url": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/"
-  },
-  {
-    "date": "2026-07-18",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "Apple and Google ordered to purge 'nudify' apps from App Stores",
-    "summary": "来自TechCrunch的最新报道：Apple and Google ordered to purge 'nudify' apps from App Stores。详细内容请查看原文链接。",
-    "score": 5,
-    "source": "TechCrunch",
-    "keywords": "AI, 科技",
-    "url": "https://techcrunch.com/2026/07/17/apple-and-google-ordered-to-purge-nudify-apps-from-app-stores/"
-  },
-  {
-    "date": "2026-07-18",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "A Humanoid Company Backed by Eric Trump Is Preparing Its Robots for War",
-    "summary": "来自Wired的最新报道：A Humanoid Company Backed by Eric Trump Is Preparing Its Robots for War。详细内容请查看原文链接。",
-    "score": 4,
-    "source": "Wired",
-    "keywords": "AI, 科技",
-    "url": "https://www.wired.com/story/humanoid-robot-soldier-eric-trump-foundation-future-industries/"
-  },
-  {
-    "date": "2026-07-18",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "Why Apple Sued OpenAI, New York Takes on Data Centers, and What to Know about Cyclosporiasis",
-    "summary": "OpenAI发布重要更新，新模型在理解和生成能力方面表现显著提升。据官方介绍，新版本采用了改进的架构设计，推理效率更高，同时支持更长的上下文窗口，预计将推动更多创新应用落地。",
-    "score": 4,
-    "source": "Wired",
-    "keywords": "OpenAI",
-    "url": "https://www.wired.com/story/uncanny-valley-podcase-apple-sued-openai-new-york-data-center-moratorium-cyclosporiasis-outbreak/"
-  },
-  {
     "date": "2026-07-19",
     "time": "10:31",
     "type": "AI早报",
@@ -1098,5 +1043,60 @@
     "source": "Wired",
     "keywords": "OpenAI",
     "url": "https://www.wired.com/story/openai-didnt-notice-its-ai-agents-using-a-message-board-to-plan-their-hacking-spree/"
+  },
+  {
+    "date": "2026-08-07",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Anthropic will design its own hardware to power Claude",
+    "summary": "Anthropic发布Claude系列模型更新，主打安全性和可控性。新模型引入改进的训练方法，在保持性能的同时降低有害输出风险，为AI安全领域提供新的技术参考。",
+    "score": 7,
+    "source": "Ars Technica",
+    "keywords": "Claude",
+    "url": "https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/"
+  },
+  {
+    "date": "2026-08-07",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "ChatGPT brings unlimited text chats to free users",
+    "summary": "OpenAI发布重要更新，新模型在理解和生成能力方面表现显著提升。据官方介绍，新版本采用了改进的架构设计，推理效率更高，同时支持更长的上下文窗口，预计将推动更多创新应用落地。",
+    "score": 6,
+    "source": "TechCrunch",
+    "keywords": "GPT",
+    "url": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/"
+  },
+  {
+    "date": "2026-08-07",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Google says hackers are calling financial firm employees to hack and extort victims",
+    "summary": "网络安全领域出现新的未解之谜：一种被称为'幽灵黑客'的高级威胁持续活跃但身份不明。安全研究人员追踪其攻击痕迹多年，仍无法确定攻击者归属或动机，凸显了现代网络威胁的隐蔽性和复杂性。",
+    "score": 5,
+    "source": "TechCrunch",
+    "keywords": "黑客",
+    "url": "https://techcrunch.com/2026/08/06/google-says-hackers-are-calling-financial-firm-employees-to-hack-and-extort-victims/"
+  },
+  {
+    "date": "2026-08-07",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "DeepMind Says Its AI Can Predict Hurricanes Earlier Than Everyone Else",
+    "summary": "DeepMind团队发布新一代模型，准确度较前代有显著提升。该成果已开源或公开发布，预计将加速相关领域的研究进程和新应用开发。",
+    "score": 5,
+    "source": "Wired",
+    "keywords": "DeepMind",
+    "url": "https://www.wired.com/story/deepmind-ai-model-can-predict-hurricanes-earlier/"
+  },
+  {
+    "date": "2026-08-07",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Microsoft’s Quantum Chief Doesn’t Care That Scientists Don’t Believe His Results",
+    "summary": "来自Wired的最新报道：Microsoft’s Quantum Chief Doesn’t Care That Scientists Don’t Believe His Results。详细内容请查看原文链接。",
+    "score": 4,
+    "source": "Wired",
+    "keywords": "AI, 科技",
+    "url": "https://www.wired.com/story/microsoft-quantum-chief-majorana-results/"
   }
 ]
