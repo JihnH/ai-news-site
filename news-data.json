@@ -1,60 +1,5 @@
 [
   {
-    "date": "2026-07-20",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
-    "summary": "OpenAI发布重要更新，新模型在理解和生成能力方面表现显著提升。据官方介绍，新版本采用了改进的架构设计，推理效率更高，同时支持更长的上下文窗口，预计将推动更多创新应用落地。",
-    "score": 4,
-    "source": "TechCrunch",
-    "keywords": "OpenAI",
-    "url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/"
-  },
-  {
-    "date": "2026-07-20",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "TechCrunch Mobility: The battle over robotaxi rules",
-    "summary": "来自TechCrunch的最新报道：TechCrunch Mobility: The battle over robotaxi rules。详细内容请查看原文链接。",
-    "score": 4,
-    "source": "TechCrunch",
-    "keywords": "AI, 科技",
-    "url": "https://techcrunch.com/2026/07/19/techcrunch-mobility-the-battle-over-robotaxi-rules/"
-  },
-  {
-    "date": "2026-07-20",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "My Ebike Delivery Went Missing. When I Tried to Recover It, I Ended Up in Chatbot Hell",
-    "summary": "来自Wired的最新报道：My Ebike Delivery Went Missing. When I Tried to Recover It, I Ended Up in Chatbot Hell。详细内容请查看原文链接。",
-    "score": 4,
-    "source": "Wired",
-    "keywords": "AI, 科技",
-    "url": "https://www.wired.com/story/ebike-delivery-missing-when-i-tried-to-recover-it-i-ended-up-in-chatbot-hell/"
-  },
-  {
-    "date": "2026-07-20",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "Why Apple Sued OpenAI, New York Takes on Data Centers, and What to Know about Cyclosporiasis",
-    "summary": "OpenAI发布重要更新，新模型在理解和生成能力方面表现显著提升。据官方介绍，新版本采用了改进的架构设计，推理效率更高，同时支持更长的上下文窗口，预计将推动更多创新应用落地。",
-    "score": 4,
-    "source": "Wired",
-    "keywords": "OpenAI",
-    "url": "https://www.wired.com/story/uncanny-valley-podcase-apple-sued-openai-new-york-data-center-moratorium-cyclosporiasis-outbreak/"
-  },
-  {
-    "date": "2026-07-20",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "Google-backed satellites for wildfire detection launch as smoke chokes US, Canada",
-    "summary": "来自Ars Technica的最新报道：Google-backed satellites for wildfire detection launch as smoke chokes US, Canada。详细内容请查看原文链接。",
-    "score": 4,
-    "source": "Ars Technica",
-    "keywords": "AI, 科技",
-    "url": "https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/"
-  },
-  {
     "date": "2026-07-21",
     "time": "10:31",
     "type": "AI早报",
@@ -1098,5 +1043,60 @@
     "source": "Wired",
     "keywords": "AI, 科技",
     "url": "https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol/"
+  },
+  {
+    "date": "2026-08-09",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Google's top hacker hunter explains why hacking groups get codenames",
+    "summary": "网络安全领域出现新的未解之谜：一种被称为'幽灵黑客'的高级威胁持续活跃但身份不明。安全研究人员追踪其攻击痕迹多年，仍无法确定攻击者归属或动机，凸显了现代网络威胁的隐蔽性和复杂性。",
+    "score": 6,
+    "source": "TechCrunch",
+    "keywords": "黑客",
+    "url": "https://techcrunch.com/2026/08/08/googles-top-hacker-hunter-explains-why-hacking-groups-get-codenames/"
+  },
+  {
+    "date": "2026-08-09",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "OpenAI says it slowed Astra model development over security concerns",
+    "summary": "OpenAI发布重要更新，新模型在理解和生成能力方面表现显著提升。据官方介绍，新版本采用了改进的架构设计，推理效率更高，同时支持更长的上下文窗口，预计将推动更多创新应用落地。",
+    "score": 5,
+    "source": "TechCrunch",
+    "keywords": "OpenAI",
+    "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/"
+  },
+  {
+    "date": "2026-08-09",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Judge rules Meta caused \"public nuisance\" and must fund mental health treatment",
+    "summary": "来自Ars Technica的最新报道：Judge rules Meta caused \"public nuisance\" and must fund mental health treatment。详细内容请查看原文链接。",
+    "score": 5,
+    "source": "Ars Technica",
+    "keywords": "AI, 科技",
+    "url": "https://arstechnica.com/tech-policy/2026/08/meta-ordered-to-pay-567m-to-treat-youth-mental-health-problems-it-helped-create/"
+  },
+  {
+    "date": "2026-08-09",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
+    "summary": "来自TechCrunch的最新报道：Cloudflare launches Kitesurf, a browser built for AI agents。详细内容请查看原文链接。",
+    "score": 4,
+    "source": "TechCrunch",
+    "keywords": "AI, 科技",
+    "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/"
+  },
+  {
+    "date": "2026-08-09",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "The first self-driving vehicle on Mars has proven to be a smashing success",
+    "summary": "来自Ars Technica的最新报道：The first self-driving vehicle on Mars has proven to be a smashing success。详细内容请查看原文链接。",
+    "score": 4,
+    "source": "Ars Technica",
+    "keywords": "AI, 科技",
+    "url": "https://arstechnica.com/space/2026/08/the-first-self-driving-vehicle-on-mars-has-proven-to-be-a-smashing-success/"
   }
 ]
