@@ -1,60 +1,5 @@
 [
   {
-    "date": "2026-07-21",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "Google is working on a new AI chip designed to make Gemini more efficient",
-    "summary": "来自TechCrunch的最新报道：Google is working on a new AI chip designed to make Gemini more efficient。详细内容请查看原文链接。",
-    "score": 7,
-    "source": "TechCrunch",
-    "keywords": "AI, 科技",
-    "url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/"
-  },
-  {
-    "date": "2026-07-21",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "Inference startup Infinity raises $15M from Touring Capital, OpenAI and Anthropic researchers",
-    "summary": "OpenAI发布重要更新，新模型在理解和生成能力方面表现显著提升。据官方介绍，新版本采用了改进的架构设计，推理效率更高，同时支持更长的上下文窗口，预计将推动更多创新应用落地。",
-    "score": 7,
-    "source": "TechCrunch",
-    "keywords": "OpenAI",
-    "url": "https://techcrunch.com/2026/07/20/inference-startup-infinity-raises-15m-from-touring-capital-openai-and-athropic-researchers/"
-  },
-  {
-    "date": "2026-07-21",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "Anthropic's landmark $1.5B copyright settlement is approved",
-    "summary": "Anthropic发布Claude系列模型更新，主打安全性和可控性。新模型引入改进的训练方法，在保持性能的同时降低有害输出风险，为AI安全领域提供新的技术参考。",
-    "score": 5,
-    "source": "TechCrunch",
-    "keywords": "AI, 科技",
-    "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/"
-  },
-  {
-    "date": "2026-07-21",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "GeForce RTX 5090 GPUs",
-    "summary": "来自The Verge的最新报道：GeForce RTX 5090 GPUs。详细内容请查看原文链接。",
-    "score": 4,
-    "source": "The Verge",
-    "keywords": "AI, 科技",
-    "url": "https://www.theverge.com/2025/1/6/24337396/nvidia-rtx-5080-5090-5070-ti-5070-price-release-date"
-  },
-  {
-    "date": "2026-07-21",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "F1 in Belgium: Machine learning algorithms are ruining the sport",
-    "summary": "来自Ars Technica的最新报道：F1 in Belgium: Machine learning algorithms are ruining the sport。详细内容请查看原文链接。",
-    "score": 4,
-    "source": "Ars Technica",
-    "keywords": "AI, 科技",
-    "url": "https://arstechnica.com/cars/2026/07/f1-in-belgium-the-2026-cars-look-pathetic-on-all-the-best-racetracks/"
-  },
-  {
     "date": "2026-07-22",
     "time": "10:31",
     "type": "AI早报",
@@ -1098,5 +1043,60 @@
     "source": "Ars Technica",
     "keywords": "AI, 科技",
     "url": "https://arstechnica.com/space/2026/08/the-first-self-driving-vehicle-on-mars-has-proven-to-be-a-smashing-success/"
+  },
+  {
+    "date": "2026-08-10",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Anthropic is turning Claude Code’s auto mode on by default",
+    "summary": "Anthropic发布Claude系列模型更新，主打安全性和可控性。新模型引入改进的训练方法，在保持性能的同时降低有害输出风险，为AI安全领域提供新的技术参考。",
+    "score": 7,
+    "source": "TechCrunch",
+    "keywords": "Claude",
+    "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/"
+  },
+  {
+    "date": "2026-08-10",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Judge rules Meta caused \"public nuisance\" and must fund mental health treatment",
+    "summary": "来自Ars Technica的最新报道：Judge rules Meta caused \"public nuisance\" and must fund mental health treatment。详细内容请查看原文链接。",
+    "score": 5,
+    "source": "Ars Technica",
+    "keywords": "AI, 科技",
+    "url": "https://arstechnica.com/tech-policy/2026/08/meta-ordered-to-pay-567m-to-treat-youth-mental-health-problems-it-helped-create/"
+  },
+  {
+    "date": "2026-08-10",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "The first self-driving vehicle on Mars has proven to be a smashing success",
+    "summary": "来自Ars Technica的最新报道：The first self-driving vehicle on Mars has proven to be a smashing success。详细内容请查看原文链接。",
+    "score": 4,
+    "source": "Ars Technica",
+    "keywords": "AI, 科技",
+    "url": "https://arstechnica.com/space/2026/08/the-first-self-driving-vehicle-on-mars-has-proven-to-be-a-smashing-success/"
+  },
+  {
+    "date": "2026-08-10",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
+    "summary": "来自TechCrunch的最新报道：Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy。详细内容请查看原文链接。",
+    "score": 3,
+    "source": "TechCrunch",
+    "keywords": "AI, 科技",
+    "url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/"
+  },
+  {
+    "date": "2026-08-10",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "The AI safety test is becoming a safety risk",
+    "summary": "来自TechCrunch的最新报道：The AI safety test is becoming a safety risk。详细内容请查看原文链接。",
+    "score": 3,
+    "source": "TechCrunch",
+    "keywords": "AI, 科技",
+    "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/"
   }
 ]
