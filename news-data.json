@@ -1,60 +1,5 @@
 [
   {
-    "date": "2026-07-22",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "Google releases three new Gemini models — but no 3.5 Pro",
-    "summary": "来自TechCrunch的最新报道：Google releases three new Gemini models — but no 3.5 Pro。详细内容请查看原文链接。",
-    "score": 7,
-    "source": "TechCrunch",
-    "keywords": "AI, 科技",
-    "url": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/"
-  },
-  {
-    "date": "2026-07-22",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "OpenAI says Hugging Face was breached by its pre-release models",
-    "summary": "OpenAI发布重要更新，新模型在理解和生成能力方面表现显著提升。据官方介绍，新版本采用了改进的架构设计，推理效率更高，同时支持更长的上下文窗口，预计将推动更多创新应用落地。",
-    "score": 5,
-    "source": "TechCrunch",
-    "keywords": "OpenAI, 开源社区",
-    "url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/"
-  },
-  {
-    "date": "2026-07-22",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "Anthropic’s $1.5B copyright settlement approved; only 350 authors opted out",
-    "summary": "Anthropic发布Claude系列模型更新，主打安全性和可控性。新模型引入改进的训练方法，在保持性能的同时降低有害输出风险，为AI安全领域提供新的技术参考。",
-    "score": 5,
-    "source": "Ars Technica",
-    "keywords": "AI, 科技",
-    "url": "https://arstechnica.com/tech-policy/2026/07/judge-approves-anthropics-1-5-billion-copyright-settlement-with-authors/"
-  },
-  {
-    "date": "2026-07-22",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "OpenAI Models Escaped Containment and Hacked Hugging Face",
-    "summary": "OpenAI发布重要更新，新模型在理解和生成能力方面表现显著提升。据官方介绍，新版本采用了改进的架构设计，推理效率更高，同时支持更长的上下文窗口，预计将推动更多创新应用落地。",
-    "score": 3,
-    "source": "Wired",
-    "keywords": "OpenAI, 开源社区",
-    "url": "https://www.wired.com/story/openai-models-escaped-containment-and-hacked-huggingface/"
-  },
-  {
-    "date": "2026-07-22",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "Light made a flip phone — it's colorful and it's cheap",
-    "summary": "来自TechCrunch的最新报道：Light made a flip phone — it's colorful and it's cheap。详细内容请查看原文链接。",
-    "score": 2,
-    "source": "TechCrunch",
-    "keywords": "AI, 科技",
-    "url": "https://techcrunch.com/2026/07/21/light-is-modernizing-the-flip-phone-with-light-flip/"
-  },
-  {
     "date": "2026-07-23",
     "time": "10:31",
     "type": "AI早报",
@@ -1098,5 +1043,60 @@
     "source": "TechCrunch",
     "keywords": "AI, 科技",
     "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/"
+  },
+  {
+    "date": "2026-08-11",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Tech industry is buzzing after a Claude agent hacked into a gym",
+    "summary": "Anthropic发布Claude系列模型更新，主打安全性和可控性。新模型引入改进的训练方法，在保持性能的同时降低有害输出风险，为AI安全领域提供新的技术参考。",
+    "score": 7,
+    "source": "TechCrunch",
+    "keywords": "Claude",
+    "url": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/"
+  },
+  {
+    "date": "2026-08-11",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Google co-founder Sergey Brin has now spent $100 million to fight the billionaire tax",
+    "summary": "来自TechCrunch的最新报道：Google co-founder Sergey Brin has now spent $100 million to fight the billionaire tax。详细内容请查看原文链接。",
+    "score": 5,
+    "source": "TechCrunch",
+    "keywords": "AI, 科技",
+    "url": "https://techcrunch.com/2026/08/10/google-co-founder-sergey-brin-has-now-spent-100-million-to-fight-the-billionaire-tax/"
+  },
+  {
+    "date": "2026-08-11",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
+    "summary": "OpenAI发布重要更新，新模型在理解和生成能力方面表现显著提升。据官方介绍，新版本采用了改进的架构设计，推理效率更高，同时支持更长的上下文窗口，预计将推动更多创新应用落地。",
+    "score": 4,
+    "source": "TechCrunch",
+    "keywords": "OpenAI",
+    "url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/"
+  },
+  {
+    "date": "2026-08-11",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "With new open models, Meta pitches another reboot of its struggling AI strategy",
+    "summary": "来自Ars Technica的最新报道：With new open models, Meta pitches another reboot of its struggling AI strategy。详细内容请查看原文链接。",
+    "score": 4,
+    "source": "Ars Technica",
+    "keywords": "AI, 科技",
+    "url": "https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/"
+  },
+  {
+    "date": "2026-08-11",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "took down Cruise’s robotaxi business",
+    "summary": "来自The Verge的最新报道：took down Cruise’s robotaxi business。详细内容请查看原文链接。",
+    "score": 3,
+    "source": "The Verge",
+    "keywords": "AI, 科技",
+    "url": "https://www.theverge.com/2024/12/11/24318651/cruise-robotaxi-gm-funding-autonomous-vehicles-risk"
   }
 ]
