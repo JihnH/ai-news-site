@@ -1,60 +1,5 @@
 [
   {
-    "date": "2026-07-24",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "Google hit with $1 billion in fines as EU braces for Trump battle",
-    "summary": "来自Ars Technica的最新报道：Google hit with $1 billion in fines as EU braces for Trump battle。详细内容请查看原文链接。",
-    "score": 5,
-    "source": "Ars Technica",
-    "keywords": "AI, 科技",
-    "url": "https://arstechnica.com/tech-policy/2026/07/google-hit-with-1-billion-in-fines-as-eu-braces-for-trump-battle/"
-  },
-  {
-    "date": "2026-07-24",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "Meta drops out of a major clean energy pact as its natural gas buildout accelerates",
-    "summary": "来自TechCrunch的最新报道：Meta drops out of a major clean energy pact as its natural gas buildout accelerates。详细内容请查看原文链接。",
-    "score": 4,
-    "source": "TechCrunch",
-    "keywords": "AI, 科技",
-    "url": "https://techcrunch.com/2026/07/23/meta-drops-out-of-a-major-clean-energy-pact-as-its-natural-gas-buildout-accelerates/"
-  },
-  {
-    "date": "2026-07-24",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "Tesla's robotaxis are moving in reverse",
-    "summary": "来自TechCrunch的最新报道：Tesla's robotaxis are moving in reverse。详细内容请查看原文链接。",
-    "score": 4,
-    "source": "TechCrunch",
-    "keywords": "AI, 科技",
-    "url": "https://techcrunch.com/2026/07/23/teslas-robotaxis-are-moving-in-reverse/"
-  },
-  {
-    "date": "2026-07-24",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "Meta launched a new AI optimism ad set to a song about human extinction",
-    "summary": "来自TechCrunch的最新报道：Meta launched a new AI optimism ad set to a song about human extinction。详细内容请查看原文链接。",
-    "score": 4,
-    "source": "TechCrunch",
-    "keywords": "AI, 科技",
-    "url": "https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/"
-  },
-  {
-    "date": "2026-07-24",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "Meta’s New Feel-Good AI Ad Uses a Song About the World Ending",
-    "summary": "来自Wired的最新报道：Meta’s New Feel-Good AI Ad Uses a Song About the World Ending。详细内容请查看原文链接。",
-    "score": 4,
-    "source": "Wired",
-    "keywords": "AI, 科技",
-    "url": "https://www.wired.com/story/meta-david-bowie-apocalypse-ad-is-optimistic-actually/"
-  },
-  {
     "date": "2026-07-25",
     "time": "10:31",
     "type": "AI早报",
@@ -1098,5 +1043,60 @@
     "source": "Ars Technica",
     "keywords": "AI, 科技",
     "url": "https://arstechnica.com/tech-policy/2026/08/meta-cant-stop-states-1-4-trillion-lawsuit-from-going-to-trial/"
+  },
+  {
+    "date": "2026-08-13",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Google's Pixel 11 lineup offers fewer hardware changes, but much more Gemini",
+    "summary": "来自TechCrunch的最新报道：Google's Pixel 11 lineup offers fewer hardware changes, but much more Gemini。详细内容请查看原文链接。",
+    "score": 7,
+    "source": "TechCrunch",
+    "keywords": "AI, 科技",
+    "url": "https://techcrunch.com/2026/08/12/pixel-11-has-few-hardware-changes-and-more-gemini/"
+  },
+  {
+    "date": "2026-08-13",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Northrop's robot space mechanic is a new way to keep satellites at work longer",
+    "summary": "来自TechCrunch的最新报道：Northrop's robot space mechanic is a new way to keep satellites at work longer。详细内容请查看原文链接。",
+    "score": 5,
+    "source": "TechCrunch",
+    "keywords": "AI, 科技",
+    "url": "https://techcrunch.com/2026/08/12/northrops-robot-space-mechanic-is-a-new-way-to-keep-satellites-at-work-longer/"
+  },
+  {
+    "date": "2026-08-13",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "After Microsoft threatened legal action, a security researcher publishes a new Windows zero-day bug",
+    "summary": "来自TechCrunch的最新报道：After Microsoft threatened legal action, a security researcher publishes a new Windows zero-day bug。详细内容请查看原文链接。",
+    "score": 5,
+    "source": "TechCrunch",
+    "keywords": "AI, 科技",
+    "url": "https://techcrunch.com/2026/08/12/after-microsoft-threatened-legal-action-a-security-researcher-publishes-a-new-windows-zero-day-bug/"
+  },
+  {
+    "date": "2026-08-13",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Everything announced at Made by Google 2026",
+    "summary": "来自TechCrunch的最新报道：Everything announced at Made by Google 2026。详细内容请查看原文链接。",
+    "score": 4,
+    "source": "TechCrunch",
+    "keywords": "AI, 科技",
+    "url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/"
+  },
+  {
+    "date": "2026-08-13",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "The White House Is Going to Expand Its AI Policy",
+    "summary": "来自Wired的最新报道：The White House Is Going to Expand Its AI Policy。详细内容请查看原文链接。",
+    "score": 4,
+    "source": "Wired",
+    "keywords": "AI, 科技",
+    "url": "https://www.wired.com/story/the-white-house-is-going-to-expand-its-ai-policy/"
   }
 ]
