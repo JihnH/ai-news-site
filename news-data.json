@@ -1,60 +1,5 @@
 [
   {
-    "date": "2026-07-26",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "China-US AI Race Escalates, OpenAI Models Break Free, and Why You Should Check Your Car Alarm",
-    "summary": "OpenAI发布重要更新，新模型在理解和生成能力方面表现显著提升。据官方介绍，新版本采用了改进的架构设计，推理效率更高，同时支持更长的上下文窗口，预计将推动更多创新应用落地。",
-    "score": 7,
-    "source": "Wired",
-    "keywords": "OpenAI",
-    "url": "https://www.wired.com/story/uncanny-valley-podcast/"
-  },
-  {
-    "date": "2026-07-26",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "Anthropic's Opus 5 is about token efficiency, not a capability leap",
-    "summary": "Anthropic发布Claude系列模型更新，主打安全性和可控性。新模型引入改进的训练方法，在保持性能的同时降低有害输出风险，为AI安全领域提供新的技术参考。",
-    "score": 6,
-    "source": "Ars Technica",
-    "keywords": "AI, 科技",
-    "url": "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/"
-  },
-  {
-    "date": "2026-07-26",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "Canadian legislator reads out apparent LLM response in floor speech",
-    "summary": "来自Ars Technica的最新报道：Canadian legislator reads out apparent LLM response in floor speech。详细内容请查看原文链接。",
-    "score": 5,
-    "source": "Ars Technica",
-    "keywords": "AI, 科技",
-    "url": "https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/"
-  },
-  {
-    "date": "2026-07-26",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "Librarians are hosting viral 'Avoiding AI' workshops for people who are fed up with Big Tech",
-    "summary": "来自TechCrunch的最新报道：Librarians are hosting viral 'Avoiding AI' workshops for people who are fed up with Big Tech。详细内容请查看原文链接。",
-    "score": 3,
-    "source": "TechCrunch",
-    "keywords": "AI, 科技",
-    "url": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/"
-  },
-  {
-    "date": "2026-07-26",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "Rivian sues the US government for 'full refund' of Trump tariffs",
-    "summary": "来自TechCrunch的最新报道：Rivian sues the US government for 'full refund' of Trump tariffs。详细内容请查看原文链接。",
-    "score": 3,
-    "source": "TechCrunch",
-    "keywords": "AI, 科技",
-    "url": "https://techcrunch.com/2026/07/24/rivian-sues-the-us-government-for-full-refund-of-trump-tariffs/"
-  },
-  {
     "date": "2026-07-27",
     "time": "10:31",
     "type": "AI早报",
@@ -1098,5 +1043,60 @@
     "source": "TechCrunch",
     "keywords": "OpenAI",
     "url": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/"
+  },
+  {
+    "date": "2026-08-15",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "The Next Big Influencer Is This 4-Foot-Tall Robot From China",
+    "summary": "来自Wired的最新报道：The Next Big Influencer Is This 4-Foot-Tall Robot From China。详细内容请查看原文链接。",
+    "score": 4,
+    "source": "Wired",
+    "keywords": "AI, 科技",
+    "url": "https://www.wired.com/story/unitree-influencer-4-foot-robot-from-china/"
+  },
+  {
+    "date": "2026-08-15",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Tech Visionary Says the Big AI Labs Don’t Get What People Want",
+    "summary": "来自Wired的最新报道：Tech Visionary Says the Big AI Labs Don’t Get What People Want。详细内容请查看原文链接。",
+    "score": 3,
+    "source": "Wired",
+    "keywords": "AI, 科技",
+    "url": "https://www.wired.com/story/tech-visionary-says-the-big-ai-labs-dont-get-what-people-want/"
+  },
+  {
+    "date": "2026-08-15",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Mark Zuckerberg’s AI Manifesto Is 6,500 Words—and Barely Says Anything",
+    "summary": "来自Wired的最新报道：Mark Zuckerberg’s AI Manifesto Is 6,500 Words—and Barely Says Anything。详细内容请查看原文链接。",
+    "score": 3,
+    "source": "Wired",
+    "keywords": "AI, 科技",
+    "url": "https://www.wired.com/story/mark-zuckerbergs-ai-manifesto-is-6500-words-and-barely-says-anything/"
+  },
+  {
+    "date": "2026-08-15",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "PBS station fears losing 50TB of data after being ghosted by cloud storage provider",
+    "summary": "来自Ars Technica的最新报道：PBS station fears losing 50TB of data after being ghosted by cloud storage provider。详细内容请查看原文链接。",
+    "score": 3,
+    "source": "Ars Technica",
+    "keywords": "AI, 科技",
+    "url": "https://arstechnica.com/information-technology/2026/08/pbs-station-fears-losing-50tb-of-data-after-being-ghosted-by-cloud-storage-provider/"
+  },
+  {
+    "date": "2026-08-15",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Policy experts: Europe stuck between \"rock and a hard place\" on launch",
+    "summary": "来自Ars Technica的最新报道：Policy experts: Europe stuck between \"rock and a hard place\" on launch。详细内容请查看原文链接。",
+    "score": 3,
+    "source": "Ars Technica",
+    "keywords": "AI, 科技",
+    "url": "https://arstechnica.com/space/2026/08/policy-experts-europe-stuck-between-rock-and-a-hard-place-on-launch/"
   }
 ]
