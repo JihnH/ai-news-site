@@ -1,60 +1,5 @@
 [
   {
-    "date": "2026-07-28",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
-    "summary": "OpenAI发布重要更新，新模型在理解和生成能力方面表现显著提升。据官方介绍，新版本采用了改进的架构设计，推理效率更高，同时支持更长的上下文窗口，预计将推动更多创新应用落地。",
-    "score": 7,
-    "source": "TechCrunch",
-    "keywords": "OpenAI, 开源社区",
-    "url": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/"
-  },
-  {
-    "date": "2026-07-28",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
-    "summary": "网络安全领域出现新的未解之谜：一种被称为'幽灵黑客'的高级威胁持续活跃但身份不明。安全研究人员追踪其攻击痕迹多年，仍无法确定攻击者归属或动机，凸显了现代网络威胁的隐蔽性和复杂性。",
-    "score": 7,
-    "source": "TechCrunch",
-    "keywords": "网络安全",
-    "url": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/"
-  },
-  {
-    "date": "2026-07-28",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "Private Claude Chats Exposed in Google and Bing Search Results",
-    "summary": "Anthropic发布Claude系列模型更新，主打安全性和可控性。新模型引入改进的训练方法，在保持性能的同时降低有害输出风险，为AI安全领域提供新的技术参考。",
-    "score": 7,
-    "source": "Wired",
-    "keywords": "Claude",
-    "url": "https://www.wired.com/story/private-claude-chats-exposed-in-google-and-bing-search-results/"
-  },
-  {
-    "date": "2026-07-28",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "China-US AI Race Escalates, OpenAI Models Break Free, and Why You Should Check Your Car Alarm",
-    "summary": "OpenAI发布重要更新，新模型在理解和生成能力方面表现显著提升。据官方介绍，新版本采用了改进的架构设计，推理效率更高，同时支持更长的上下文窗口，预计将推动更多创新应用落地。",
-    "score": 7,
-    "source": "Wired",
-    "keywords": "OpenAI",
-    "url": "https://www.wired.com/story/uncanny-valley-podcast/"
-  },
-  {
-    "date": "2026-07-28",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "Anthropic's Dario Amodei responds: doesn't oppose open-weight models, but fears Chinese AI",
-    "summary": "Anthropic发布Claude系列模型更新，主打安全性和可控性。新模型引入改进的训练方法，在保持性能的同时降低有害输出风险，为AI安全领域提供新的技术参考。",
-    "score": 6,
-    "source": "TechCrunch",
-    "keywords": "AI, 科技",
-    "url": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/"
-  },
-  {
     "date": "2026-07-29",
     "time": "10:31",
     "type": "AI早报",
@@ -1098,5 +1043,60 @@
     "source": "Ars Technica",
     "keywords": "AI, 科技",
     "url": "https://arstechnica.com/information-technology/2026/08/pbs-station-fears-losing-50tb-of-data-after-being-ghosted-by-cloud-storage-provider/"
+  },
+  {
+    "date": "2026-08-17",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+    "summary": "Anthropic发布Claude系列模型更新，主打安全性和可控性。新模型引入改进的训练方法，在保持性能的同时降低有害输出风险，为AI安全领域提供新的技术参考。",
+    "score": 7,
+    "source": "TechCrunch",
+    "keywords": "Claude",
+    "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/"
+  },
+  {
+    "date": "2026-08-17",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+    "summary": "Anthropic发布Claude系列模型更新，主打安全性和可控性。新模型引入改进的训练方法，在保持性能的同时降低有害输出风险，为AI安全领域提供新的技术参考。",
+    "score": 5,
+    "source": "TechCrunch",
+    "keywords": "AI, 科技",
+    "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/"
+  },
+  {
+    "date": "2026-08-17",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Mark Zuckerberg’s AI Manifesto Is 6,500 Words—and Barely Says Anything",
+    "summary": "来自Wired的最新报道：Mark Zuckerberg’s AI Manifesto Is 6,500 Words—and Barely Says Anything。详细内容请查看原文链接。",
+    "score": 3,
+    "source": "Wired",
+    "keywords": "AI, 科技",
+    "url": "https://www.wired.com/story/mark-zuckerbergs-ai-manifesto-is-6500-words-and-barely-says-anything/"
+  },
+  {
+    "date": "2026-08-17",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Apple proposes to take a 15% cut of purchases made outside the App Store",
+    "summary": "来自TechCrunch的最新报道：Apple proposes to take a 15% cut of purchases made outside the App Store。详细内容请查看原文链接。",
+    "score": 2,
+    "source": "TechCrunch",
+    "keywords": "AI, 科技",
+    "url": "https://techcrunch.com/2026/08/14/apple-proposes-to-take-a-15-cut-of-purchases-made-outside-the-app-store/"
+  },
+  {
+    "date": "2026-08-17",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Her Brain Was Broken. It Was Fixed With Sound—Not a Scalpel",
+    "summary": "来自Wired的最新报道：Her Brain Was Broken. It Was Fixed With Sound—Not a Scalpel。详细内容请查看原文链接。",
+    "score": 2,
+    "source": "Wired",
+    "keywords": "AI, 科技",
+    "url": "https://www.wired.com/story/brain-focused-ultrasound/"
   }
 ]
