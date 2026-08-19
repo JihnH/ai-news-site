@@ -1,60 +1,5 @@
 [
   {
-    "date": "2026-07-29",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
-    "summary": "OpenAI发布重要更新，新模型在理解和生成能力方面表现显著提升。据官方介绍，新版本采用了改进的架构设计，推理效率更高，同时支持更长的上下文窗口，预计将推动更多创新应用落地。",
-    "score": 4,
-    "source": "Ars Technica",
-    "keywords": "OpenAI, 开源社区",
-    "url": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/"
-  },
-  {
-    "date": "2026-07-29",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "Despite AI hype, Google's data shows workers aren't automating themselves away",
-    "summary": "来自Ars Technica的最新报道：Despite AI hype, Google's data shows workers aren't automating themselves away。详细内容请查看原文链接。",
-    "score": 4,
-    "source": "Ars Technica",
-    "keywords": "AI, 科技",
-    "url": "https://arstechnica.com/ai/2026/07/despite-ai-hype-googles-data-shows-workers-arent-automating-themselves-away/"
-  },
-  {
-    "date": "2026-07-30",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "Zuckerberg says Meta's enterprise AI opportunity extends beyond agents",
-    "summary": "来自TechCrunch的最新报道：Zuckerberg says Meta's enterprise AI opportunity extends beyond agents。详细内容请查看原文链接。",
-    "score": 7,
-    "source": "TechCrunch",
-    "keywords": "AI, 科技",
-    "url": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/"
-  },
-  {
-    "date": "2026-07-30",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "Elon Musk’s xAI is trying to sue its way out of a Grok reckoning",
-    "summary": "来自Ars Technica的最新报道：Elon Musk’s xAI is trying to sue its way out of a Grok reckoning。详细内容请查看原文链接。",
-    "score": 7,
-    "source": "Ars Technica",
-    "keywords": "AI, 科技",
-    "url": "https://arstechnica.com/tech-policy/2026/07/elon-musks-xai-is-trying-to-sue-its-way-out-of-a-grok-reckoning/"
-  },
-  {
-    "date": "2026-07-30",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "Mythos attack on 3rd-round PQC algorithm candidate puts it out of commission",
-    "summary": "来自Ars Technica的最新报道：Mythos attack on 3rd-round PQC algorithm candidate puts it out of commission。详细内容请查看原文链接。",
-    "score": 6,
-    "source": "Ars Technica",
-    "keywords": "AI, 科技",
-    "url": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/"
-  },
-  {
     "date": "2026-07-30",
     "time": "10:31",
     "type": "AI早报",
@@ -1098,5 +1043,60 @@
     "source": "Ars Technica",
     "keywords": "AI, 科技",
     "url": "https://arstechnica.com/tech-policy/2026/08/supreme-court-rejects-verizon-bid-for-47-million-refund-of-fcc-fine/"
+  },
+  {
+    "date": "2026-08-19",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
+    "summary": "OpenAI发布重要更新，新模型在理解和生成能力方面表现显著提升。据官方介绍，新版本采用了改进的架构设计，推理效率更高，同时支持更长的上下文窗口，预计将推动更多创新应用落地。",
+    "score": 7,
+    "source": "TechCrunch",
+    "keywords": "OpenAI, GPT",
+    "url": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/"
+  },
+  {
+    "date": "2026-08-19",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "OpenAI Overhauls Safety Protocols After Its AI Agents Went Rogue",
+    "summary": "OpenAI发布重要更新，新模型在理解和生成能力方面表现显著提升。据官方介绍，新版本采用了改进的架构设计，推理效率更高，同时支持更长的上下文窗口，预计将推动更多创新应用落地。",
+    "score": 7,
+    "source": "Wired",
+    "keywords": "OpenAI",
+    "url": "https://www.wired.com/story/openai-overhauls-safety-protocols-after-its-ai-agents-went-rogue/"
+  },
+  {
+    "date": "2026-08-19",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Meta Ran Ads for an App That Promised to Nudify Female Politicians",
+    "summary": "来自Wired的最新报道：Meta Ran Ads for an App That Promised to Nudify Female Politicians。详细内容请查看原文链接。",
+    "score": 4,
+    "source": "Wired",
+    "keywords": "AI, 科技",
+    "url": "https://www.wired.com/story/meta-ran-ads-for-an-app-promising-to-nudify-female-politicians/"
+  },
+  {
+    "date": "2026-08-19",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
+    "summary": "来自TechCrunch的最新报道：Cursor capitalizes on GitHub frustration, launches rival hosting platform。详细内容请查看原文链接。",
+    "score": 3,
+    "source": "TechCrunch",
+    "keywords": "开源社区",
+    "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/"
+  },
+  {
+    "date": "2026-08-19",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "\"Sabotage\": Experts, lawmakers blast RFK Jr. for destroying healthcare research",
+    "summary": "来自Ars Technica的最新报道：\"Sabotage\": Experts, lawmakers blast RFK Jr. for destroying healthcare research。详细内容请查看原文链接。",
+    "score": 3,
+    "source": "Ars Technica",
+    "keywords": "AI, 科技",
+    "url": "https://arstechnica.com/health/2026/08/sabotage-experts-lawmakers-blast-rfk-jr-for-destroying-healthcare-research/"
   }
 ]
