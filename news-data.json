@@ -1,60 +1,5 @@
 [
   {
-    "date": "2026-08-01",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "Anthropic says its own AI models breached three companies during security tests",
-    "summary": "Anthropic发布Claude系列模型更新，主打安全性和可控性。新模型引入改进的训练方法，在保持性能的同时降低有害输出风险，为AI安全领域提供新的技术参考。",
-    "score": 5,
-    "source": "TechCrunch",
-    "keywords": "AI, 科技",
-    "url": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/"
-  },
-  {
-    "date": "2026-08-01",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "Reddit keeps its strange DMCA fight over Google search results alive",
-    "summary": "来自Ars Technica的最新报道：Reddit keeps its strange DMCA fight over Google search results alive。详细内容请查看原文链接。",
-    "score": 5,
-    "source": "Ars Technica",
-    "keywords": "AI, 科技",
-    "url": "https://arstechnica.com/tech-policy/2026/07/reddit-keeps-weird-dmca-lawsuit-against-web-scraper-alive-despite-googles-loss/"
-  },
-  {
-    "date": "2026-08-02",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "Sam Altman is still making the case for parenting via ChatGPT",
-    "summary": "OpenAI发布重要更新，新模型在理解和生成能力方面表现显著提升。据官方介绍，新版本采用了改进的架构设计，推理效率更高，同时支持更长的上下文窗口，预计将推动更多创新应用落地。",
-    "score": 7,
-    "source": "TechCrunch",
-    "keywords": "GPT",
-    "url": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/"
-  },
-  {
-    "date": "2026-08-02",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "The OpenAI and Anthropic AI Hacking Sprees Are a Messy New Legal Frontier",
-    "summary": "OpenAI发布重要更新，新模型在理解和生成能力方面表现显著提升。据官方介绍，新版本采用了改进的架构设计，推理效率更高，同时支持更长的上下文窗口，预计将推动更多创新应用落地。",
-    "score": 7,
-    "source": "Wired",
-    "keywords": "OpenAI",
-    "url": "https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal/"
-  },
-  {
-    "date": "2026-08-02",
-    "time": "10:31",
-    "type": "AI早报",
-    "title": "Nvidia’s Open Source Alliance Is Missing Some Key Names: OpenAI and Anthropic",
-    "summary": "OpenAI发布重要更新，新模型在理解和生成能力方面表现显著提升。据官方介绍，新版本采用了改进的架构设计，推理效率更高，同时支持更长的上下文窗口，预计将推动更多创新应用落地。",
-    "score": 7,
-    "source": "Wired",
-    "keywords": "OpenAI",
-    "url": "https://www.wired.com/story/nvidias-open-source-alliance-snubs-openai-and-anthropic/"
-  },
-  {
     "date": "2026-08-02",
     "time": "10:31",
     "type": "AI早报",
@@ -1098,5 +1043,60 @@
     "source": "TechCrunch",
     "keywords": "AI, 科技",
     "url": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/"
+  },
+  {
+    "date": "2026-08-22",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Michael Polansky is training an AI model on skin that’s still alive",
+    "summary": "来自TechCrunch的最新报道：Michael Polansky is training an AI model on skin that’s still alive。详细内容请查看原文链接。",
+    "score": 4,
+    "source": "TechCrunch",
+    "keywords": "AI, 科技",
+    "url": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/"
+  },
+  {
+    "date": "2026-08-22",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Anthropic’s Opus 4.6 is a smut-machine",
+    "summary": "Anthropic发布Claude系列模型更新，主打安全性和可控性。新模型引入改进的训练方法，在保持性能的同时降低有害输出风险，为AI安全领域提供新的技术参考。",
+    "score": 4,
+    "source": "TechCrunch",
+    "keywords": "AI, 科技",
+    "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/"
+  },
+  {
+    "date": "2026-08-22",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+    "summary": "来自TechCrunch的最新报道：Nvidia just showed that the harness, not the AI model, is now the real hero。详细内容请查看原文链接。",
+    "score": 4,
+    "source": "TechCrunch",
+    "keywords": "AI, 科技",
+    "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/"
+  },
+  {
+    "date": "2026-08-22",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Last chance: Save up to $300 on your TechCrunch Disrupt 2026 ticket today",
+    "summary": "来自TechCrunch的最新报道：Last chance: Save up to $300 on your TechCrunch Disrupt 2026 ticket today。详细内容请查看原文链接。",
+    "score": 3,
+    "source": "TechCrunch",
+    "keywords": "AI, 科技",
+    "url": "https://techcrunch.com/2026/08/21/last-chance-save-up-to-300-on-your-techcrunch-disrupt-2026-ticket-today/"
+  },
+  {
+    "date": "2026-08-22",
+    "time": "10:31",
+    "type": "AI早报",
+    "title": "Meta’s Big Reckoning Is Here",
+    "summary": "来自Wired的最新报道：Meta’s Big Reckoning Is Here。详细内容请查看原文链接。",
+    "score": 3,
+    "source": "Wired",
+    "keywords": "AI, 科技",
+    "url": "https://www.wired.com/story/metas-big-reckoning-is-here/"
   }
 ]
